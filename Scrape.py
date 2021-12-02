@@ -3,7 +3,6 @@ import urllib3
 from urllib.parse import urlencode
 import certifi
 import bs4
-import time
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -84,7 +83,8 @@ def getPropertyData(p):
                     prev = -1
                 
                 if 'm²' in tempStr:
-                    featuresDict['land_size'] = tempStr[:-2]
+                    #replace the commas in the land size so it doesn't stuff up the CSV files. 
+                    featuresDict['land_size'] = tempStr[:-2].replace(',', '')
                     featuresDict['land_size_unit'] = tempStr.replace('m²', 'm2')[-2:]
     
     propType = p.find('span', class_='css-693528').string
@@ -107,6 +107,9 @@ class Property:
         self.propType = propType
         self.extras = extras
         self.url = url
+        self.houseFeatures = []
+        self.houseSchools = []
+        self.salesHistory = []
         #This will need to be changed based on your file paths.
         #self.driver = webdriver.Firefox(options = options, executable_path=r'C:\BrowserDrivers\Chromium\chromedriver.exe')
     
@@ -119,7 +122,7 @@ class Property:
             retStr = retStr + f',{v}'
 
         retStr = retStr + f',{self.propType},' + self.extras.replace(',', ';') + f',{self.url}'
-        
+        retStr = retStr + f',{"-".join(self.houseFeatures)},{"-".join(self.houseSchools)},{"-".join(self.salesHistory)}'
         return retStr
 
     def getListingDetails(self):
@@ -131,10 +134,10 @@ class Property:
             try:
                 features = driver.find_elements(By.CSS_SELECTOR, 'li.css-vajaaq')
             except NoSuchElementException:
-                print("NO ELEMENT")
+                #print("NO ELEMENT")
                 hasFeatures = False
             except:
-                print("NO ELEMENT")
+                #print("NO ELEMENT")
                 hasFeatures = False
 
             if hasFeatures:
@@ -142,35 +145,169 @@ class Property:
                     if f.text == '':
                         continue
                     else:
-                        houseFeatures.append(f.text)
+                        houseFeatures.append(f'"{f.text}"')
             
-            print(houseFeatures)
+            self.houseFeatures = houseFeatures
+
             houseSchools = []
             hasSchools = True
             try:
                 schoolsButton = driver.find_element(By.CSS_SELECTOR, 'button.css-cq4evw').click()
             except NoSuchElementException:
-                print("NO ELEMENT")
+                #print("NO ELEMENT")
                 hasSchools = False
             except:
-                print("NO ELEMENT")
+                #print("NO ELEMENT")
                 hasSchools = False
             
             if hasSchools:
                 try:
                     schoolsList = driver.find_elements(By.CSS_SELECTOR, 'div.css-si4svp')
                 except NoSuchElementException:
-                    print("NO ELEMENT")
+                    #print("NO ELEMENT")
                     hasSchools = False
                 except:
-                    print("NO ELEMENT")
+                    #print("NO ELEMENT")
                     hasSchools = False
                 
                 for s in schoolsList:
-                    houseSchools.append(float(s.text.split(' ')[0]))
+                    houseSchools.append(s.text.split(' ')[0])
             
-            print(houseSchools)
+            self.houseSchools = houseSchools
 
+    def getSalesHistory(self):
+        with webdriver.Firefox(options=options, executable_path=r'C:\BrowserDrivers\geckodriver.exe') as driver:
+            driver.get(f'https://www.domain.com.au/property-profile/{self.address}')
+            
+            #Weird properties, has no sales history or irelevant information like Listing - not sold, or (price unknown)
+            #driver.get(f'https://www.domain.com.au/property-profile/12-keely-street-reservoir-vic-3073')
+            #driver.get(f'https://www.domain.com.au/property-profile/24-development-boulevard-mill-park-vic-3082')
+            #driver.get(f'https://www.domain.com.au/property-profile/35-delacombe-drive-mill-park-vic-3082')
+            #driver.get(f'https://www.domain.com.au/property-profile/19-mayfield-drive-mill-park-vic-3082')
+            
+            salesHistory = []
+            hasSalesHistory = True
+            checkSalesHistory = 'Yes'
+            try:
+                checkSalesHistory = driver.find_element(By.CSS_SELECTOR, 'h5.css-mpkn6v')
+            except NoSuchElementException:
+                #print("NO CHECK SALES")
+                hasSalesHistory = True
+            except:
+                #print("NO CHECK SALES")
+                hasSalesHistory = True
+            
+            if checkSalesHistory == 'No history available':
+                self.salesHistory = salesHistory
+                return
+
+            # Get more history button
+            hasHistoryButton = True
+            try:
+                moreHistoryButton = driver.find_element(By.CSS_SELECTOR, 'button.css-e4xbky')
+            except NoSuchElementException:
+                #print("NO HISTORY BUTTON")
+                hasHistoryButton = False
+            except:
+                #print("NO HISTORY BUTTON")
+                hasHistoryButton = False
+            
+            if hasHistoryButton:
+                moreHistoryButton.click()
+
+            if hasSalesHistory:
+                historyMonths, historyYears, historyPrice, historyType = [], [], [], []
+                
+                try:
+                    historyMonths = driver.find_elements(By.CSS_SELECTOR, 'div.css-vajoca')
+                    historyYears = driver.find_elements(By.CSS_SELECTOR, 'div.css-1qi20sy')
+
+                    #historyPrice = driver.find_elements(By.CSS_SELECTOR, 'span.css-6xjfcu')
+                    #Use this otherwise the price might be unknown
+                    historyPrice = driver.find_elements(By.CSS_SELECTOR, 'span[data-testid="fe-co-property-timeline-card-heading"]')
+
+                    #this does not include rented
+                    #historyType = driver.find_elements(By.CSS_SELECTOR, 'div.css-jcs3kb')
+                    historyType = driver.find_elements(By.CSS_SELECTOR, 'div[data-testid="fe-co-property-timeline-card-category"]')
+                except NoSuchElementException: 
+                    #print("NO HISTORY ELEMENTS")
+                    print('')
+                except:
+                    print('')
+                    #print("NO HISTORY ELEMENTS")
+                
+                if historyMonths != [] and historyYears != [] and historyPrice != [] and historyType != []:
+                    #hpF = list(filter(lambda x: '$' in x.text, historyPrice))
+                    
+                    toRemoveAll = []
+                    toRemovePrice = []
+                    
+                    for i in range(0, len(historyPrice)):
+                        if historyPrice[i].text == 'Listed - not sold':
+                            toRemovePrice.append(i)
+                        
+                        if historyPrice[i].text == '(price unknown)':
+                            toRemovePrice.append(i)
+                            toRemoveAll.append(i)
+
+                    #https://www.geeksforgeeks.org/python-get-indices-of-true-values-in-a-binary-list/
+                    #hpI = [i for i, x in enumerate(historyPrice) if '$' not in x.text]
+                    #hpF = [x for i, x in enumerate(historyPrice) if i not in hpI]
+                    #hmF = [x for i, x in enumerate(historyMonths) if i not in hpI]
+                    #hyF = [x for i, x in enumerate(historyYears) if i not in hpI]
+                    #htF = [x for i, x in enumerate(historyType) if i not in hpI]
+                    
+                    hpF = [x for i, x in enumerate(historyPrice) if i not in toRemovePrice]
+                    hmF = [x for i, x in enumerate(historyMonths) if i not in toRemoveAll]
+                    hyF = [x for i, x in enumerate(historyYears) if i not in toRemoveAll]
+                    htF = [x for i, x in enumerate(historyType) if i not in toRemoveAll]
+
+                    #turn historical price into an actual number
+                    hpF2 = [h.text[1:] for h in hpF]
+                    hpF3 = []
+                    for hpf in hpF2:
+                        if hpf[-1] == 'k':
+                            hpF3.append(float(hpf[:-1])*(10**3))
+                        elif hpf[-1] == 'm':
+                            hpF3.append(float(hpf[:-1])*(10**6))
+                        else:
+                            hpF3.append(float(hpf[:-1])*(10**1))
+                    """
+                    print("=======================")
+                    for hm in historyMonths:
+                        print(f'{hm.text}')
+                    for hy in historyYears:
+                        print(f'{hy.text}')
+                    for hp in historyPrice:
+                        print(f'{hp.text}')
+                    for ht in historyType:
+                        print(f'{ht.text}')
+                    print("=======================")
+
+                    for hm in hmF:
+                        print(f'{hm.text}')
+                    for hy in hyF:
+                        print(f'{hy.text}')
+                    for hp in hpF:
+                        print(f'{hp.text}')
+                    for ht in htF:
+                        print(f'{ht.text}')
+
+                    print(f'{len(historyMonths)} | {len(historyYears)} | {len(historyPrice)} | {len(historyType)}')
+                    print(f'{len(hmF)} | {len(hyF)} | {len(hpF)} | {len(htF)}')
+                    print("=======================")
+                    """
+                    
+                    #for (hm, hy, hp, ht) in zip(hmF, hyF, hpF, htF):
+                    for (hm, hy, hp, ht) in zip(hmF, hyF, hpF3, htF):
+                        #salesHistory.append(f'{hm.text}={hy.text}={hp.text}={ht.text}')
+                        #print(f'{hm.text}={hy.text}={hp.text}={ht.text}')
+                        salesHistory.append(f'{hm.text.title()}/{hy.text}/{hp}/{ht.text}')
+                        #print(f'{hm.text}/{hy.text.title()}={hp}={ht.text}')
+                        print(f'{hy.text}/{hm.text.title()}/{hp}/{ht.text}')
+        
+        self.salesHistory = salesHistory
+                
 
 #1 bedroom, 2,3,4 bedrooms, 5+ bedrooms.
 bedroomsUrl = {1: '1-bedroom', 2: '2-bedrooms',
@@ -193,9 +330,9 @@ currPage = 1
 extras = "swimmingpool"
 
 params = {
-    "bathrooms": 2,
+    #"bathrooms": 2,
     "excludepricewithheld": 1,
-    "carspaces": 2,
+    #"carspaces": 2,
     "ssubs": 0,
     "features": extras
 }
@@ -218,5 +355,6 @@ for i in range(1, 51, 1):
         d = getPropertyData(p)
         #print(d)
         prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
-        print(prop.toString())
         prop.getListingDetails()
+        prop.getSalesHistory()
+        print(prop.toString())
