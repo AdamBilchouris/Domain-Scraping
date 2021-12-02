@@ -19,8 +19,14 @@ if bs4.__version__ != '4.10.0':
     exit()
 
 if certifi.__version__ != '2021.10.08':
+    
     print('[ERROR] urllib3 version must be 1.26.7')
     exit()
+
+if selenium.__version__ != '4.1.0':
+    print('[ERROR] beautifulsoup4 version must be 4.10.0')
+    exit()
+   
 
 options = Options()
 options.headless = True
