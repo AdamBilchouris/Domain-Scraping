@@ -1,0 +1,55 @@
+Page 50 seems to be the maximum. About 20 per page. In the ideal world, 1000 per request.
+
+There are several parameters available, such as the number of bedrooms, bathrooms, and parking spaces.
+When using 5 in any options, it is actually 5-any in the url, not 5.
+
+There are also extra features such as the presence of a swimming pool, a garden/courtyard etc.
+swimmingpool, airconditioning, internallaundry, petsallowed, builtinwardrobes, gardencourtyard, study, gas, balconydeck
+
+There are several channels like realestate.com.au, Buy, Rent, and Sold.
+There are property types too, House, Apartment, Townhouse, and Land, each with sub-types, such as Terrace or Duplex.
+
+An important one might be the parameter 'excludepricewithheld=1' which only shows houses with the sale price.
+
+Another important parameter might be 'ssubs=0', which excludes surrounding suburbs.
+
+For example, sold houses with 3+ bedrooms, 3+ bathrooms, 2+ parking spaces, and a swimming pool in Mill Park, Vic, 3082 would be:
+https://www.domain.com.au/sold-listings/mill-park-vic-3082/house/?bedrooms=3-any&bathrooms=3-any&excludepricewithheld=1&carspaces=2-any&ssubs=0&features=swimmingpool
+
+Furthermore, you can go for exact values of bedrooms, bathrooms, and parking spaces using:
+https://www.domain.com.au/sold-listings/mill-park-vic-3082/house/3-bedrooms/?bathrooms=3-any&excludepricewithheld=1&carspaces=2-any&ssubs=0&features=swimmingpool
+https://www.domain.com.au/sold-listings/mill-park-vic-3082/house/3-bedrooms/?bathrooms=3&excludepricewithheld=1&ssubs=0&features=swimmingpool
+
+Making 3-any to 3 on ?bathrooms makes it exact. The same can be done for parking spaces.
+
+Per page, the listings are <li>s and have the class 'css-1qp9106'
+Consider the sample <li> in 'sample_li.html'.
+
+The price is within a <div> with data-testid='listing-card-price-wrapper' and class='css-9hd67m'.
+Within that div, there is a <p> with class='css-mgq8yx' and data-testid='listing-card-price'.
+<div class="css-9hd67m" data-testid="listing-card-price-wrapper">
+    <p data-testid="listing-card-price" class="css-mgq8yx">$3,505,000 </p>
+    ...
+</div>
+
+The address spans two lines, one for the number and street, and the other for the suburb, state, and postcode.
+To make it easier, use the <h2> element with class="css-bqbbuf" and data-testid="address-wrapper".
+These are within <spans>s and with class='css-iqrvhs' and data-testid="address-line1" and data-testid="address-line2"
+    <span data-testid="address-line1" class="css-iqrvhs">836 Moorooduc Highway,&nbsp;</span><span data-testid="address-line2" class="css-iqrvhs"><span>MORNINGTON</span> <span>VIC</span> <span>3931</span></span>
+836 Moorooduc Highway,&nbsp;
+<span>MORNINGTON</span> <span>VIC</span> <span>3931</span>
+
+The property features are within a <div> with class="css-1t41ar7" and data-testid="listing-card-features-wrapper".
+This has another <div> within it with class="css-k1qq7e" and data-testid="property-feature".
+Once again, there is another <div> with class="css-18biwo" and data-testid="property-features-wrapper", and this has 4 <span>s.
+One for the number of bedrooms, bathrooms, parking spaces, and land size.
+These <spans>s have class="css-1ie6g1l" and data-testid="property-features-feature".
+The actual text is contained within another <span> with class="css-lvv8is" and data-testid="property-features-text-container".
+The span next to this (which states what type of data it is has class="css-9fxapx" and data-testid="property-features-text".
+The spans with "property-features-text" can be: 'Beds', 'Baths', 'Parking', and the land size. The land size has no discernable feature, although it is
+always the fourth one. Some houses do not have any features.
+
+The property type can be found in the <div> with class="css-11n8uyu". Within that div, there is a <span> with class="css-693528".
+For houses, this should say 'House'.
+
+The sold at auction is a <span> with class="css-1nj9ymt".
