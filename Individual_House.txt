@@ -1,0 +1,19 @@
+Looking at the listing for an individual house, some information is already available on the page the link was from (the search page).
+
+One important section of this is the 'Property Features' page. This has some features such as 'Secure Parking', 'Air conditioning', 'Heating', and so on.
+This can influence the house price.
+
+Further down, there is a section for how many schools there are, and how far away they are. It has Government schools, as well as
+independent schools. It has how far away they are from the house in kilometers.
+
+The property features are in a <div> with id="property-features", class="css-1v0nat1", name="property-features", data-testid="listing-details__additional-features".
+Each feature is in a <ul> with class="css-4ewd2m". The are <li>s with the property feature.
+They have class="css-vajaaq" and data-testid="listing-details__additional-features-listing" for a true feature of the house, and
+data-testid="listing-details__additional-features-suggested" for ones that are predicted for the house based off the description.
+
+For the schools, not all schools are show as they are only added by pressing a JS button. This might mean Selenium might have to be used.
+The <button> to show more shcools has class="css-cq4evq", data-testid="fe-co-school-catchment-view-more-link", aria-label="View more All schools".
+
+This URL can be found through the URL member variable of the Property object.
+
+Maybe look only at schools within 5km?

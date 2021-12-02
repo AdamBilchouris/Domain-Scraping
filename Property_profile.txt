@@ -1,0 +1,12 @@
+This page has property history which is good.
+Once again, this page has some JavaScript functionality, Selenium must be used again.
+The <button> has class="css-e4xbky" and is within a <div> with class="css-8u8vos".
+
+Each history entry can be 'Sold' or 'Rented'.
+Each history entry is within a <li> with class="css-16ezjtx".
+Within this, there are several <divs>. The <div> with class="css-vajoca" is the Sale Month, and the <div> with class="css-1qi20sy" is the Sale Year.
+The <div> with class="css-jcs3kb" and data-testid="fe-co-property-timeline-card-category" shows what type of Sale, SOLD or RENTED.
+The <span> with class="css-6xjfcu" and data-testid="fe-co-property-timeline-card-heading" shows the price of the Sale.
+
+The URL for the property profile can be obtained using the 'address' in the Property object.
+It will be: https://www.domain.com.au/property-property/address

@@ -1,7 +1,15 @@
+import selenium
 import urllib3
 from urllib.parse import urlencode
 import certifi
 import bs4
+import time
+
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.firefox.options import Options
+from selenium.common.exceptions import ElementNotInteractableException, NoSuchElementException, StaleElementReferenceException
+from selenium.webdriver.common.by import By
 
 if urllib3.__version__ != '1.26.7':
     print('[ERROR] urllib3 version must be 1.26.7')
@@ -14,6 +22,11 @@ if bs4.__version__ != '4.10.0':
 if certifi.__version__ != '2021.10.08':
     print('[ERROR] urllib3 version must be 1.26.7')
     exit()
+
+options = Options()
+options.headless = True
+binary = r'C:\Program Files\Mozilla Firefox\firefox.exe'
+options.binary = binary
 
 def getPropertyData(p):
     url = p.find('a', class_='css-1y2bib4')['href']
@@ -94,6 +107,8 @@ class Property:
         self.propType = propType
         self.extras = extras
         self.url = url
+        #This will need to be changed based on your file paths.
+        #self.driver = webdriver.Firefox(options = options, executable_path=r'C:\BrowserDrivers\Chromium\chromedriver.exe')
     
     #address , price , date, bedrooms , bathrooms , parking_spaces , land_size , land_size_unit , extras
     #extras = swimmingpool, airconditioning, internallaundry, petsallowed, builtinwardrobes, gardencourtyard, study, gas, balconydeck
@@ -106,6 +121,55 @@ class Property:
         retStr = retStr + f',{self.propType},' + self.extras.replace(',', ';') + f',{self.url}'
         
         return retStr
+
+    def getListingDetails(self):
+        with webdriver.Firefox(options=options, executable_path=r'C:\BrowserDrivers\geckodriver.exe') as driver:
+            driver.get(self.url)
+            
+            houseFeatures = []
+            hasFeatures = True
+            try:
+                features = driver.find_elements(By.CSS_SELECTOR, 'li.css-vajaaq')
+            except NoSuchElementException:
+                print("NO ELEMENT")
+                hasFeatures = False
+            except:
+                print("NO ELEMENT")
+                hasFeatures = False
+
+            if hasFeatures:
+                for f in features:
+                    if f.text == '':
+                        continue
+                    else:
+                        houseFeatures.append(f.text)
+            
+            print(houseFeatures)
+            houseSchools = []
+            hasSchools = True
+            try:
+                schoolsButton = driver.find_element(By.CSS_SELECTOR, 'button.css-cq4evw').click()
+            except NoSuchElementException:
+                print("NO ELEMENT")
+                hasSchools = False
+            except:
+                print("NO ELEMENT")
+                hasSchools = False
+            
+            if hasSchools:
+                try:
+                    schoolsList = driver.find_elements(By.CSS_SELECTOR, 'div.css-si4svp')
+                except NoSuchElementException:
+                    print("NO ELEMENT")
+                    hasSchools = False
+                except:
+                    print("NO ELEMENT")
+                    hasSchools = False
+                
+                for s in schoolsList:
+                    houseSchools.append(float(s.text.split(' ')[0]))
+            
+            print(houseSchools)
 
 
 #1 bedroom, 2,3,4 bedrooms, 5+ bedrooms.
@@ -155,88 +219,4 @@ for i in range(1, 51, 1):
         #print(d)
         prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
         print(prop.toString())
-
-
-#params["page"] = currPage
-#http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
-#newURL = DOMAIN_SOLD_BASE + 'mill-park-vic-3082/' + 'house/' + bedroomsUrl[4] + '/?' + urlencode(params)
-#print(newURL)
-#res = http.request('GET', newURL, fields=params)
-
-#https://dzone.com/articles/webscraping-with-python-beautiful-soup-and-urllib3
-#soup = bs4.BeautifulSoup(res.data, 'html.parser')
-#properties = soup.find_all('li', class_='css-1qp9106')
-
-#for p in properties:
-#    d = getPropertyData(p)
-#    print(d)
-
-"""
-for p in properties:
-    dateS = p.find('span', class_='css-1nj9ymt')
-    date = '-'.join(dateS.string.split(' ')[-3:])
-    print(date)
-
-    priceP = p.find('p', class_='css-mgq8yx')
-    price = -1
-    for child in priceP.stripped_strings:
-        print(child[1:].replace(',', '').strip())
-        price = child[1:].replace(',', '').strip()
-
-    addressh2 = p.find('h2', class_='css-bqbbuf')
-    address = ''
-    aIter = 0
-    for a in addressh2.children:
-        for aa in a.stripped_strings:
-            if aa == ',':
-                continue
-
-            # The case when we have the suburb, state, and postcode.
-            # Make sure the strings follow the property-profile naming convention.
-            # For example, https://www.domain.com.au/property-profile/8-brabham-drive-mill-park-vic-3082
-            if aIter > 0:
-                addressPart = aa.lower().replace(' ', '-')
-                address = address + '-' + addressPart
-
-            else:
-                addressPart = aa.lower().split()
-                address = address + '-'.join(addressPart)
-
-            aIter = aIter + 1
-
-    address = address.strip()
-    print(address)
-
-    features = p.find_all('span', class_='css-lvv8is')
-    prev = -1
-    featuresStr = ''
-    featuresArr = []
-    featuresDict = {}
-    for f in features:
-        for ff in f.children:
-            temp = ff.string.split()
-            if len(temp) < 1:
-                continue
-            else:
-                tempStr = ''.join(temp)
-                if tempStr != 'Beds' and tempStr != 'Baths' and tempStr != 'Parking':
-                    prev = tempStr
-                
-                if tempStr == 'Beds' or tempStr == 'Baths' or tempStr == 'Parking':
-                    featuresDict[tempStr.lower()] = prev
-                    prev = -1
-                
-                if 'm²' in tempStr:
-                    featuresDict['land_size'] = tempStr.replace('m²', 'm2')
-
-                featuresStr = featuresStr + ' ' + tempStr
-                featuresArr.append(tempStr)
-    
-    #print(featuresArr)
-    #featuresStr = featuresStr.strip()
-    #print(featuresStr)
-    print(featuresDict)
-
-    propType = p.find('span', class_='css-693528').string
-    print(propType)
-"""
+        prop.getListingDetails()
