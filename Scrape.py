@@ -1,13 +1,14 @@
-import selenium
 import urllib3
 from urllib.parse import urlencode
 import certifi
 import bs4
 
+import sys, os, csv, time
+
+import selenium
 from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.firefox.options import Options
-from selenium.common.exceptions import ElementNotInteractableException, NoSuchElementException, StaleElementReferenceException
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 
 if urllib3.__version__ != '1.26.7':
@@ -23,10 +24,9 @@ if certifi.__version__ != '2021.10.08':
     exit()
 
 if selenium.__version__ != '4.1.0':
-    print('[ERROR] beautifulsoup4 version must be 4.10.0')
+    print('[ERROR] selenium version must be 4.1.0')
     exit()
    
-
 options = Options()
 options.headless = True
 binary = r'C:\Program Files\Mozilla Firefox\firefox.exe'
@@ -38,12 +38,16 @@ def getPropertyData(p):
     dateS = p.find('span', class_='css-1nj9ymt')
     date = '-'.join(dateS.string.split(' ')[-3:])
 
-    priceP = p.find('p', class_='css-mgq8yx')
+    priceP = p.find('p', class_='css-mgq8yx', attrs={'data-testid': 'listing-card-price'})
     price = -1
+    i = 0
     for child in priceP.stripped_strings:
         price = child[1:].replace(',', '').strip()
+        #Stop Powered by PM Price Finder
+        if i == 0:
+            break
 
-    addressh2 = p.find('h2', class_='css-bqbbuf')
+    addressh2 = p.find('h2', class_='css-bqbbuf', attrs={'data-testid': 'address-wrapper'})
     address = ''
     aIter = 0
     for a in addressh2.children:
@@ -68,7 +72,7 @@ def getPropertyData(p):
 
     address = address.strip()
 
-    features = p.find_all('span', class_='css-lvv8is')
+    features = p.find_all('span', class_='css-lvv8is', attrs={'data-testid': 'property-features-text-container'})
     prev = -1
     featuresDict = {'beds': -1, 'baths': -1, 'parking': -1, 'land_size': -1, 'land_size_unit': 'None'}
     for f in features:
@@ -80,10 +84,12 @@ def getPropertyData(p):
                 continue
             else:
                 tempStr = ''.join(temp)
-                if tempStr != 'Beds' and tempStr != 'Baths' and tempStr != 'Parking':
+                if tempStr != 'Bed' and tempStr != 'Beds' and tempStr != 'Bath' and tempStr != 'Baths' and tempStr != 'Parking' and tempStr != '−':
                     prev = tempStr
                 
-                if tempStr == 'Beds' or tempStr == 'Baths' or tempStr == 'Parking':
+                if tempStr == 'Bed' or tempStr == 'Beds' or tempStr == 'Bath' or tempStr == 'Baths' or tempStr == 'Parking':
+                    if tempStr == 'Bed' or tempStr == 'Bath':
+                        tempStr = tempStr.lower() + 's'
                     featuresDict[tempStr.lower()] = prev
                     prev = -1
                 
@@ -103,20 +109,27 @@ def isNoMatch(p):
     if noMatchStr.string == "No exact matches":
         return True
 
+def writeFile(filename, data):
+    with open(filename, 'w') as f:
+        #features: {'beds': -1, 'baths': -1, 'parking': -1, 'land_size': -1, 'land_size_unit': 'None'}
+        f.write('"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"\n')
+        for d in data:
+            #print(d.toString())
+            f.write(d.toString() + '\n')
+
 class Property:
-    def __init__(self, address, price, date, features, propType, extras, url):
+    #def __init__(self, address, price, date, features, propType, extras, url):
+    def __init__(self, address, price, date, features, propType, url):
         self.address = address
         self.price = price
         self.date = date
         self.features = features
         self.propType = propType
-        self.extras = extras
+        #self.extras = extras
         self.url = url
         self.houseFeatures = []
         self.houseSchools = []
         self.salesHistory = []
-        #This will need to be changed based on your file paths.
-        #self.driver = webdriver.Firefox(options = options, executable_path=r'C:\BrowserDrivers\Chromium\chromedriver.exe')
     
     #address , price , date, bedrooms , bathrooms , parking_spaces , land_size , land_size_unit , extras
     #extras = swimmingpool, airconditioning, internallaundry, petsallowed, builtinwardrobes, gardencourtyard, study, gas, balconydeck
@@ -126,8 +139,9 @@ class Property:
         for k, v in self.features.items():
             retStr = retStr + f',{v}'
 
-        retStr = retStr + f',{self.propType},' + self.extras.replace(',', ';') + f',{self.url}'
-        retStr = retStr + f',{"-".join(self.houseFeatures)},{"-".join(self.houseSchools)},{"-".join(self.salesHistory)}'
+        #retStr = retStr + f',{self.propType},' + self.extras.replace(',', ';') + f',{self.url}'
+        retStr = retStr + f',"{self.propType}","{self.url}"'
+        retStr = retStr + f',{"-".join(self.houseFeatures)},{"-".join(self.houseSchools)},{len(self.houseSchools)},{"-".join(self.salesHistory)}'
         return retStr
 
     def getListingDetails(self):
@@ -146,6 +160,7 @@ class Property:
                 hasFeatures = False
 
             if hasFeatures:
+                houseFeatures = []
                 for f in features:
                     if f.text == '':
                         continue
@@ -166,6 +181,7 @@ class Property:
                 hasSchools = False
             
             if hasSchools:
+                houseSchools = []
                 try:
                     schoolsList = driver.find_elements(By.CSS_SELECTOR, 'div.css-si4svp')
                 except NoSuchElementException:
@@ -276,40 +292,16 @@ class Property:
                         elif hpf[-1] == 'm':
                             hpF3.append(float(hpf[:-1])*(10**6))
                         else:
-                            hpF3.append(float(hpf[:-1])*(10**1))
-                    """
-                    print("=======================")
-                    for hm in historyMonths:
-                        print(f'{hm.text}')
-                    for hy in historyYears:
-                        print(f'{hy.text}')
-                    for hp in historyPrice:
-                        print(f'{hp.text}')
-                    for ht in historyType:
-                        print(f'{ht.text}')
-                    print("=======================")
-
-                    for hm in hmF:
-                        print(f'{hm.text}')
-                    for hy in hyF:
-                        print(f'{hy.text}')
-                    for hp in hpF:
-                        print(f'{hp.text}')
-                    for ht in htF:
-                        print(f'{ht.text}')
-
-                    print(f'{len(historyMonths)} | {len(historyYears)} | {len(historyPrice)} | {len(historyType)}')
-                    print(f'{len(hmF)} | {len(hyF)} | {len(hpF)} | {len(htF)}')
-                    print("=======================")
-                    """
+                            hpF3.append(float(hpf[:-1])*(1))
                     
+                    salesHistory = []
                     #for (hm, hy, hp, ht) in zip(hmF, hyF, hpF, htF):
                     for (hm, hy, hp, ht) in zip(hmF, hyF, hpF3, htF):
                         #salesHistory.append(f'{hm.text}={hy.text}={hp.text}={ht.text}')
                         #print(f'{hm.text}={hy.text}={hp.text}={ht.text}')
                         salesHistory.append(f'{hm.text.title()}/{hy.text}/{hp}/{ht.text}')
                         #print(f'{hm.text}/{hy.text.title()}={hp}={ht.text}')
-                        print(f'{hy.text}/{hm.text.title()}/{hp}/{ht.text}')
+                        #print(f'{hy.text}/{hm.text.title()}/{hp}/{ht.text}')
         
         self.salesHistory = salesHistory
                 
@@ -332,34 +324,76 @@ The "features" parameter can take multiple values. Separate them by a comma, i.e
 # Keep incrementing the current page until no more matches are found.
 # Page 50 seems to be the maximum.
 currPage = 1
-extras = "swimmingpool"
+#extras = "swimmingpool"
 
 params = {
     #"bathrooms": 2,
     "excludepricewithheld": 1,
     #"carspaces": 2,
-    "ssubs": 0,
-    "features": extras
+    "ssubs": 0
+    #"features": extras
 }
 
-for i in range(1, 51, 1):
-    params["page"] = i
-    http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
-    newURL = DOMAIN_SOLD_BASE + 'mill-park-vic-3082/' + 'house/' + bedroomsUrl[4] + '/?' + urlencode(params)
-    res = http.request('GET', newURL, fields=params)
-    soup = bs4.BeautifulSoup(res.data, 'html.parser')
-    
-    
-    if isNoMatch(soup):
-        print(f'Blank Page {i}')
-        break
+# Read suburbs.csv
+if len(sys.argv) != 3:
+    exit("usage: python Scrape.py folderName csvName.csv")
 
-    print(f'Page {i}')
-    properties = soup.find_all('li', class_='css-1qp9106')
-    for p in properties:
-        d = getPropertyData(p)
-        #print(d)
-        prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
-        prop.getListingDetails()
-        prop.getSalesHistory()
-        print(prop.toString())
+folderName = str(sys.argv[1])
+os.makedirs(folderName)
+csvName = str(sys.argv[2])
+
+headers = []
+content = []
+
+with open(csvName) as csvData:
+    csvReader = csv.reader(csvData)
+    i = 0
+    for row in csvReader:
+        if i == 0:
+            headers = row
+            i += 1
+        else:
+            content.append(row)
+            i += 1
+
+#construct suburb URL
+#only consider free standing?
+queries = []
+for sub, pcode, state in content:
+    for i in range(1, 6, 1):
+        #print(i)
+        #print(sub.lower().replace(' ', '-') + '-vic-' + pcode + '/house/' + bedroomsUrl[i])
+        queries.append(sub.lower().replace(' ', '-') + '-vic-' + pcode + '/house/' + bedroomsUrl[i])
+
+sL = time.perf_counter()
+for q in queries:
+    props = []
+    print(q)
+    for i in range(1, 51, 1):
+        params["page"] = i
+        http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
+        #newURL = DOMAIN_SOLD_BASE + 'mill-park-vic-3082/' + 'house/' + bedroomsUrl[4] + '/?' + urlencode(params)
+        newURL = DOMAIN_SOLD_BASE + q + '/?' + urlencode(params)
+        res = http.request('GET', newURL, fields=params)
+        soup = bs4.BeautifulSoup(res.data, 'html.parser')
+        
+        if isNoMatch(soup):
+            print(f'Blank Page {i}')
+            break
+    
+        print(f'Page {i}')
+        properties = soup.find_all('li', class_='css-1qp9106')
+        for p in properties:
+            d = getPropertyData(p)
+            #print(d)
+            #prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
+            prop = Property(d[2], d[1], d[0], d[3], d[4], d[5])
+            prop.getListingDetails()
+            prop.getSalesHistory()
+            props.append(prop)
+            #print(prop.toString())
+    
+    writeFile(folderName + '/' + q.replace('/house/', '-') + '.csv', props)
+
+eL = time.perf_counter()
+print('total scrape time: ', (eL - sL))
