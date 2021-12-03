@@ -367,6 +367,7 @@ for sub, pcode, state in content:
 
 sL = time.perf_counter()
 for q in queries:
+    sQ = time.perf_counter()
     props = []
     print(q)
     for i in range(1, 51, 1):
@@ -394,6 +395,8 @@ for q in queries:
             #print(prop.toString())
     
     writeFile(folderName + '/' + q.replace('/house/', '-') + '.csv', props)
+    eQ = time.perf_counter()
+    print(q + ' time: ', (eQ - sQ))
 
 eL = time.perf_counter()
 print('total scrape time: ', (eL - sL))
