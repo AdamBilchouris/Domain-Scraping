@@ -109,6 +109,7 @@ def isNoMatch(p):
     if noMatchStr.string == "No exact matches":
         return True
 
+"""
 def writeFile(filename, data):
     with open(filename, 'w') as f:
         #features: {'beds': -1, 'baths': -1, 'parking': -1, 'land_size': -1, 'land_size_unit': 'None'}
@@ -116,6 +117,7 @@ def writeFile(filename, data):
         for d in data:
             #print(d.toString())
             f.write(d.toString() + '\n')
+"""
 
 class Property:
     #def __init__(self, address, price, date, features, propType, extras, url):
@@ -370,31 +372,34 @@ for q in queries:
     sQ = time.perf_counter()
     props = []
     print(q)
-    for i in range(1, 51, 1):
-        params["page"] = i
-        http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
-        #newURL = DOMAIN_SOLD_BASE + 'mill-park-vic-3082/' + 'house/' + bedroomsUrl[4] + '/?' + urlencode(params)
-        newURL = DOMAIN_SOLD_BASE + q + '/?' + urlencode(params)
-        res = http.request('GET', newURL, fields=params)
-        soup = bs4.BeautifulSoup(res.data, 'html.parser')
+    with open(folderName + '/' + q.replace('/house/', '-') + '.csv', 'w') as f:
+        f.write('"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"\n')
+        for i in range(1, 51, 1):
+            params["page"] = i
+            http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
+            #newURL = DOMAIN_SOLD_BASE + 'mill-park-vic-3082/' + 'house/' + bedroomsUrl[4] + '/?' + urlencode(params)
+            newURL = DOMAIN_SOLD_BASE + q + '/?' + urlencode(params)
+            res = http.request('GET', newURL, fields=params)
+            soup = bs4.BeautifulSoup(res.data, 'html.parser')
+            
+            if isNoMatch(soup):
+                print(f'Blank Page {i}')
+                break
         
-        if isNoMatch(soup):
-            print(f'Blank Page {i}')
-            break
+            print(f'Page {i}')
+            properties = soup.find_all('li', class_='css-1qp9106')
+            for p in properties:
+                d = getPropertyData(p)
+                #print(d)
+                #prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
+                prop = Property(d[2], d[1], d[0], d[3], d[4], d[5])
+                prop.getListingDetails()
+                prop.getSalesHistory()
+                props.append(prop)
+                #print(prop.toString())
+                f.write(prop.toString() + '\n')
     
-        print(f'Page {i}')
-        properties = soup.find_all('li', class_='css-1qp9106')
-        for p in properties:
-            d = getPropertyData(p)
-            #print(d)
-            #prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
-            prop = Property(d[2], d[1], d[0], d[3], d[4], d[5])
-            prop.getListingDetails()
-            prop.getSalesHistory()
-            props.append(prop)
-            #print(prop.toString())
-    
-    writeFile(folderName + '/' + q.replace('/house/', '-') + '.csv', props)
+    #writeFile(folderName + '/' + q.replace('/house/', '-') + '.csv', props)
     eQ = time.perf_counter()
     print(q + ' time: ', (eQ - sQ))
 
