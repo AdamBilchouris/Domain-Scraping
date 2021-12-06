@@ -272,6 +272,12 @@ class Property:
                         if historyPrice[i].text == '(price unknown)':
                             toRemovePrice.append(i)
                             toRemoveAll.append(i)
+                    for i in range(0, len(historyType)):
+                        if historyType[i].text == 'RENTED':
+                            toRemoveAll.append(i)
+                    
+                    toRemoveAll = list(set(toRemoveAll))
+                    toRemovePrice = list(set(toRemovePrice))
 
                     #https://www.geeksforgeeks.org/python-get-indices-of-true-values-in-a-binary-list/
                     #hpI = [i for i, x in enumerate(historyPrice) if '$' not in x.text]
@@ -284,22 +290,21 @@ class Property:
                     hmF = [x for i, x in enumerate(historyMonths) if i not in toRemoveAll]
                     hyF = [x for i, x in enumerate(historyYears) if i not in toRemoveAll]
                     htF = [x for i, x in enumerate(historyType) if i not in toRemoveAll]
-
+                    
                     #turn historical price into an actual number
                     hpF2 = [h.text[1:].replace(',','').strip() for h in hpF]
                     hpF3 = []
-                    try:
-                        for hpf in hpF2:
+                    for hpf in hpF2:
+                        try:
                             if hpf[-1] == 'k':
                                 hpF3.append(float(hpf[:-1])*(10**3))
                             elif hpf[-1] == 'm':
                                 hpF3.append(float(hpf[:-1])*(10**6))
                             else:
-                                hpF3.append(float(hpf[:-1])*(1))
-                    except:
-                        print(self.url)
-                        self.salesHistory = []
-                        return
+                                hpF3.append(float(hpf))
+                        except:
+                            print(f'{hpf} -> {self.url}')
+                            continue
                     
                     salesHistory = []
                     #for (hm, hy, hp, ht) in zip(hmF, hyF, hpF, htF):
