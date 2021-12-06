@@ -146,6 +146,45 @@ class Property:
         retStr = retStr + f',{"-".join(self.houseFeatures)},{"-".join(self.houseSchools)},{len(self.houseSchools)},{"-".join(self.salesHistory)}'
         return retStr
 
+    def getListingDetails2(self):
+        http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
+        res = http.request('GET', self.url)
+
+        soup = bs4.BeautifulSoup(res.data, 'html.parser')
+
+        houseFeatures = []
+        hasFeatures = True
+
+        features = soup.find_all('li', class_='css-vajaaq')
+
+        if len(features) < 1:
+            hasFeatures = False
+
+        if hasFeatures:
+            houseFeatures = []
+            for f in features:
+                if f.text == '':
+                    continue
+                else:
+                    houseFeatures.append(f'"{f.text}"')
+            
+        self.houseFeatures = houseFeatures
+
+        houseSchools = []
+        hasSchools = True
+        schoolsList = soup.find_all('div', class_='css-si4svp')
+        
+        if len(schoolsList) < 1:
+            hasSchools = False
+            
+        if hasSchools:
+            houseSchools = []
+                
+            for s in schoolsList:
+                houseSchools.append(s.text.split(' ')[0])
+            
+        self.houseSchools = houseSchools
+
     def getListingDetails(self):
         with webdriver.Firefox(options=options, executable_path=r'C:\BrowserDrivers\geckodriver.exe') as driver:
             driver.get(self.url)
@@ -197,6 +236,7 @@ class Property:
                     houseSchools.append(s.text.split(' ')[0])
             
             self.houseSchools = houseSchools
+            driver.quit()
 
     def getSalesHistory(self):
         with webdriver.Firefox(options=options, executable_path=r'C:\BrowserDrivers\geckodriver.exe') as driver:
@@ -315,9 +355,81 @@ class Property:
                         #print(f'{hm.text}/{hy.text.title()}={hp}={ht.text}')
                         #print(f'{hy.text}/{hm.text.title()}/{hp}/{ht.text}')
         
+            driver.quit()
         self.salesHistory = salesHistory
                 
+    def getSalesHistory2(self):
+        http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
+        res = http.request('GET', f'https://www.domain.com.au/property-profile/{self.address}')
+        soup = bs4.BeautifulSoup(res.data, 'html.parser')
+        
+        salesHistory = []
+        hasSalesHistory = True
+        checkSalesHistory = 'Yes'
+        
+        checkSalesHistory = soup.find('h5', class_='css-mpkn6v')
+        
+        if checkSalesHistory == 'No history available':
+            self.salesHistory = salesHistory
+            return
 
+        historyMonths, historyYears, historyPrice, historyType = [], [], [], []
+        historyMonths = soup.find_all('div', class_='css-vajoca')
+        historyYears = soup.find_all('div', class_='css-1qi20sy')
+
+        #historyPrice = driver.find_elements(By.CSS_SELECTOR, 'span.css-6xjfcu')
+        #Use this otherwise the price might be unknown
+        historyPrice = soup.find_all('span', attrs={'data-testid': 'fe-co-property-timeline-card-heading'})
+        #this does not include rented
+        #historyType = driver.find_elements(By.CSS_SELECTOR, 'div.css-jcs3kb')
+        historyType = soup.find_all('div', attrs={'data-testid': 'fe-co-property-timeline-card-category'})
+        
+        if historyMonths != [] and historyYears != [] and historyPrice != [] and historyType != []:
+            #hpF = list(filter(lambda x: '$' in x.text, historyPrice))
+            
+            toRemoveAll = []
+            toRemovePrice = []
+            
+            for i in range(0, len(historyPrice)):
+                if historyPrice[i].text == 'Listed - not sold':
+                    toRemovePrice.append(i)
+                
+                if historyPrice[i].text == '(price unknown)':
+                    toRemovePrice.append(i)
+                    toRemoveAll.append(i)
+            for i in range(0, len(historyType)):
+                if historyType[i].text == 'RENTED':
+                    toRemoveAll.append(i)
+            
+            toRemoveAll = list(set(toRemoveAll))
+            toRemovePrice = list(set(toRemovePrice))
+            
+            hpF = [x for i, x in enumerate(historyPrice) if i not in toRemovePrice]
+            hmF = [x for i, x in enumerate(historyMonths) if i not in toRemoveAll]
+            hyF = [x for i, x in enumerate(historyYears) if i not in toRemoveAll]
+            htF = [x for i, x in enumerate(historyType) if i not in toRemoveAll]
+
+            hpF2 = [h.text[1:].replace(',','').strip() for h in hpF]
+            hpF3 = []
+            for hpf in hpF2:
+                try:
+                    if hpf[-1] == 'k':
+                        hpF3.append(float(hpf[:-1])*(10**3))
+                    elif hpf[-1] == 'm':
+                        hpF3.append(float(hpf[:-1])*(10**6))
+                    else:                                            
+                        hpF3.append(float(hpf))
+                except:
+                    print(f'{hpf} -> {self.url}')                           
+                    continue
+                
+                salesHistory = []
+                #for (hm, hy, hp, ht) in zip(hmF, hyF, hpF, htF):
+                for (hm, hy, hp, ht) in zip(hmF, hyF, hpF3, htF):
+                    salesHistory.append(f'{hm.text.title()}/{hy.text}/{hp}/{ht.text}')
+        self.salesHistory = salesHistory
+        
+    
 #1 bedroom, 2,3,4 bedrooms, 5+ bedrooms.
 bedroomsUrl = {1: '1-bedroom', 2: '2-bedrooms',
                3: '3-bedrooms', 4: '4-bedrooms', 5: '5-bedrooms'}
@@ -382,7 +494,8 @@ for q in queries:
     sQ = time.perf_counter()
     props = []
     print(q)
-    with open(folderName + '/' + q.replace('/house/', '-') + '.csv', 'w') as f:
+    j = 0
+    with open(folderName + '/' + q.replace('/house/', '-') + '.csv', 'w+') as f:
         f.write('"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"\n')
         for i in range(1, 51, 1):
             params["page"] = i
@@ -399,15 +512,16 @@ for q in queries:
             print(f'Page {i}')
             properties = soup.find_all('li', class_='css-1qp9106')
             for p in properties:
+                print('Property = ', j)
                 d = getPropertyData(p)
-                #print(d)
                 #prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
                 prop = Property(d[2], d[1], d[0], d[3], d[4], d[5])
-                prop.getListingDetails()
-                prop.getSalesHistory()
+                prop.getListingDetails2()
+                prop.getSalesHistory2()
                 props.append(prop)
                 #print(prop.toString())
                 f.write(prop.toString() + '\n')
+                j += 1
     
     #writeFile(folderName + '/' + q.replace('/house/', '-') + '.csv', props)
     eQ = time.perf_counter()
