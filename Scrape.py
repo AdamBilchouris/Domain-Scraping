@@ -286,15 +286,20 @@ class Property:
                     htF = [x for i, x in enumerate(historyType) if i not in toRemoveAll]
 
                     #turn historical price into an actual number
-                    hpF2 = [h.text[1:] for h in hpF]
+                    hpF2 = [h.text[1:].replace(',','').strip() for h in hpF]
                     hpF3 = []
-                    for hpf in hpF2:
-                        if hpf[-1] == 'k':
-                            hpF3.append(float(hpf[:-1])*(10**3))
-                        elif hpf[-1] == 'm':
-                            hpF3.append(float(hpf[:-1])*(10**6))
-                        else:
-                            hpF3.append(float(hpf[:-1])*(1))
+                    try:
+                        for hpf in hpF2:
+                            if hpf[-1] == 'k':
+                                hpF3.append(float(hpf[:-1])*(10**3))
+                            elif hpf[-1] == 'm':
+                                hpF3.append(float(hpf[:-1])*(10**6))
+                            else:
+                                hpF3.append(float(hpf[:-1])*(1))
+                    except:
+                        print(self.url)
+                        self.salesHistory = []
+                        return
                     
                     salesHistory = []
                     #for (hm, hy, hp, ht) in zip(hmF, hyF, hpF, htF):
