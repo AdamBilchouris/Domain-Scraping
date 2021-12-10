@@ -1,0 +1,260 @@
+,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+0,212-cotham-road-kew-vic-3101,2405000,04-Dec-2021,3,3,2,777,m2,House,https://www.domain.com.au/212-cotham-road-kew-vic-3101-2017397428,,1.2-1.6-2.1,3,Dec/2021/2405000.0/SOLD
+1,131-brougham-street-kew-vic-3101,1395000,27-Nov-2021,3,1,2,246,m2,House,https://www.domain.com.au/131-brougham-street-kew-vic-3101-2017392552,,0.5-2.7-2.7,3,
+2,11-valentine-avenue-kew-vic-3101,3031000,27-Nov-2021,3,2,2,618,m2,House,https://www.domain.com.au/11-valentine-avenue-kew-vic-3101-2017372855,,0.7-1.7-2,3,Nov/2021/3031000.0/SOLD
+3,7-hutchinson-drive-kew-vic-3101,1830000,06-Nov-2021,3,2,2,-1,None,House,https://www.domain.com.au/7-hutchinson-drive-kew-vic-3101-2017316954,"Air conditioning*-""Built in wardrobes*""-""Internal Laundry*""-""Secure Parking*""-""Bath*""-""Heating*""",1.4-3.1-7.1,3,Nov/2021/1830000.0/SOLD
+4,5-childers-street-kew-vic-3101,1395000,02-Oct-2021,3,1,1,-1,None,House,https://www.domain.com.au/5-childers-street-kew-vic-3101-2017243301,"Internal Laundry*-""Heating*""",0.6-1.7-6.1,3,Oct/2021/1395000.0/SOLD
+5,66-pakington-street-kew-vic-3101,1655000,23-Sep-2021,3,1,1,-1,None,House,https://www.domain.com.au/66-pakington-street-kew-vic-3101-2017173166,,0.5-2.4-6.7,3,Sep/2021/1655000.0/SOLD
+6,45-park-crescent-kew-vic-3101,1650000,28-Aug-2021,3,2,2,508,m2,House,https://www.domain.com.au/45-park-crescent-kew-vic-3101-2017162134,,0.8-1.9-6.1,3,Aug/2021/1650000.0/SOLD
+7,6-ellesmore-court-kew-vic-3101,1600000,27-Aug-2021,3,2,2,300,m2,House,https://www.domain.com.au/6-ellesmore-court-kew-vic-3101-2017101250,,0.3-2.4-2.6,3,Aug/2021/1600000.0/SOLD
+8,1/19-duke-street-kew-vic-3101,1550000,09-Aug-2021,3,2,1,302,m2,House,https://www.domain.com.au/1-19-duke-street-kew-vic-3101-2017136080,"Internal Laundry*-""Fireplace(s)*""-""Study*""-""Garden*""",1-2.5-6.5,3,
+9,4-loch-street-kew-vic-3101,1596000,07-Aug-2021,3,1,1,313,m2,House,https://www.domain.com.au/4-loch-street-kew-vic-3101-2017135852,"Built in wardrobes*-""Fireplace(s)*""",0.8-2-6.2,3,Aug/2021/1596000.0/SOLD-Nov/2011/535.0/SOLD
+10,9/13-hope-court-kew-vic-3101,1025000,31-Jul-2021,3,2,2,-1,None,House,https://www.domain.com.au/9-13-hope-court-kew-vic-3101-2017090225,,1.5-3.1-6.9,3,
+11,63-willsmere-road-kew-vic-3101,1535750,19-May-2021,3,1,1,-1,None,House,https://www.domain.com.au/63-willsmere-road-kew-vic-3101-2016973779,"Air conditioning*-""Internal Laundry*""-""Bath*""-""Fireplace(s)*""-""Heating*""-""Shed*""",0.9-2.4-6.6,3,May/2021/1535750.0/SOLD-Nov/1995/230500.0/SOLD-Jul/1990/165000.0/SOLD
+12,6-laver-street-kew-vic-3101,2780000,06-May-2021,3,2,2,696,m2,House,https://www.domain.com.au/6-laver-street-kew-vic-3101-2016890285,,0.8-1.4-1.4,3,May/2021/2780000.0/SOLD
+13,209-brougham-street-kew-vic-3101,2925000,12-Apr-2021,3,1,8,900,m2,House,https://www.domain.com.au/209-brougham-street-kew-vic-3101-2016858787,"Gas-""Bath""-""Heating""-""Internal Laundry""-""Ground floor""-""Shed""-""Secure Parking""-""Fully fenced""-""Garden / Courtyard""",1-2.6-6.6,3,Apr/2021/2925000.0/SOLD
+14,67-mount-street-kew-vic-3101,2225000,12-Mar-2021,3,2,2,309,m2,House,https://www.domain.com.au/67-mount-street-kew-vic-3101-2016828544,,0.6-1.4-1.6,3,Mar/2021/2225000.0/SOLD
+15,98-edgevale-road-kew-vic-3101,1635000,27-Feb-2021,3,1,-1,305,m2,House,https://www.domain.com.au/98-edgevale-road-kew-vic-3101-2016772224,"Air conditioning*-""Built in wardrobes*""-""Bath*""-""Fireplace(s)*""-""Heating*""-""Study*""-""Garden*""-""Balcony / Deck*""",1.1-1.2-2.5,3,Feb/2021/1635000.0/SOLD-Mar/2004/617500.0/SOLD
+16,2/52-childers-street-kew-vic-3101,2335000,23-Feb-2021,3,2,2,662,m2,House,https://www.domain.com.au/2-52-childers-street-kew-vic-3101-2016763905,,0.6-1.7-6,3,
+17,7-madden-grove-kew-vic-3101,3050000,19-Feb-2021,3,1,2,772,m2,House,https://www.domain.com.au/7-madden-grove-kew-vic-3101-2017363284,,1.2-1.6-1.7,3,Feb/2021/3050000.0/SOLD-Feb/2010/332000.0/SOLD-Jul/1989/332000.0/SOLD
+18,1c-molesworth-street-kew-vic-3101,2500000,24-Jan-2021,3,2,2,692,m2,House,https://www.domain.com.au/1c-molesworth-street-kew-vic-3101-2016738262,,0.5-2.6-2.7,3,Jan/2021/2500000.0/SOLD-Nov/2005/550.0/SOLD
+19,10-loch-street-kew-vic-3101,1540000,21-Dec-2020,3,1,2,-1,None,House,https://www.domain.com.au/10-loch-street-kew-vic-3101-2016672491,"Fireplace(s)*-""Study*""-""Garden*""-""Balcony / Deck*""",0.8-1.9-6.2,3,Dec/2020/1540000.0/SOLD-Dec/2000/280000.0/SOLD
+20,26-parkhill-road-kew-vic-3101,1410000,19-Dec-2020,3,1,1,402,m2,House,https://www.domain.com.au/26-parkhill-road-kew-vic-3101-2016663230,,0.7-2.1-2.1,3,Dec/2020/1410000.0/SOLD
+21,19b-redmond-street-kew-vic-3101,2550000,30-Nov-2020,3,3,2,-1,None,House,https://www.domain.com.au/19b-redmond-street-kew-vic-3101-2016649815,,1.1-2.7-2.7,3,Nov/2020/2550000.0/SOLD-Mar/2017/2300000.0/SOLD-Sep/2014/1875000.0/SOLD
+22,7-wishart-street-kew-vic-3101,2725000,27-Nov-2020,3,2,2,546,m2,House,https://www.domain.com.au/7-wishart-street-kew-vic-3101-2016597691,,0.7-1.4-5.9,3,Nov/2020/2725000.0/SOLD-Mar/2005/532000.0/SOLD-Feb/1996/204000.0/SOLD
+23,44-park-crescent-kew-vic-3101,1800000,09-Nov-2020,3,1,2,705,m2,House,https://www.domain.com.au/44-park-crescent-kew-vic-3101-2016470429,,0.9-2-6.2,3,Nov/2020/1800000.0/SOLD-Aug/2017/1782000.0/SOLD
+24,8-churchill-street-kew-vic-3101,2425000,07-Nov-2020,3,1,2,903,m2,House,https://www.domain.com.au/8-churchill-street-kew-vic-3101-2016557220,,0.4-1.5-5.9,3,Nov/2020/2425000.0/SOLD-Apr/2016/1910000.0/SOLD
+25,9-annadale-street-kew-vic-3101,2150000,24-Oct-2020,3,2,2,-1,None,House,https://www.domain.com.au/9-annadale-street-kew-vic-3101-2016340594,,1.2-1.5-2.2,3,Oct/2020/2150000.0/SOLD-Oct/2013/1483500.0/SOLD-Feb/2003/930000.0/SOLD
+26,10-argyle-road-kew-vic-3101,2980000,10-Oct-2020,3,3,2,627,m2,House,https://www.domain.com.au/10-argyle-road-kew-vic-3101-2016393759,Ensuite,0.8-1.4-5.9,3,Oct/2020/2980000.0/SOLD-Oct/2005/750000.0/SOLD
+27,23-malin-street-kew-vic-3101,1565000,01-Aug-2020,3,1,1,321,m2,House,https://www.domain.com.au/23-malin-street-kew-vic-3101-2016349602,,0.9-1.1-2.4,3,Aug/2020/1565000.0/SOLD
+28,88-harp-road-kew-vic-3101,1620000,25-Jul-2020,3,1,1,681,m2,House,https://www.domain.com.au/88-harp-road-kew-vic-3101-2016339781,,0.7-0.8-5.2,3,Jul/2020/1620000.0/SOLD
+29,16-st-anthonys-place-kew-vic-3101,1950000,03-Jul-2020,3,2,2,-1,None,House,https://www.domain.com.au/16-st-anthonys-place-kew-vic-3101-2016288923,,0.5-1.7-2.3,3,Jun/2020/1950000.0/SOLD
+30,31-grandview-terrace-kew-vic-3101,1665000,23-May-2020,3,1,3,672,m2,House,https://www.domain.com.au/31-grandview-terrace-kew-vic-3101-2016230204,,1.3-2.5-6.4,3,May/2020/1665000.0/SOLD
+31,52-derby-street-kew-vic-3101,1840000,18-May-2020,3,2,2,601,m2,House,https://www.domain.com.au/52-derby-street-kew-vic-3101-2016136541,,0.5-2.2-6.6,3,May/2020/1840000.0/SOLD-Sep/1987/129000.0/SOLD-May/1985/83000.0/SOLD
+32,109-edgevale-road-kew-vic-3101,1960000,10-May-2020,3,1,1,-1,None,House,https://www.domain.com.au/109-edgevale-road-kew-vic-3101-2016240493,,1.1-1.4-2.4,3,May/2020/1960000.0/SOLD-Oct/2013/1195000.0/SOLD-Dec/1978/40000.0/SOLD
+33,11-lady-brasseys-drive-kew-vic-3101,1550000,25-Mar-2020,3,2,2,-1,None,House,https://www.domain.com.au/11-lady-brasseys-drive-kew-vic-3101-2016123314,,0.1-2.3-2.7,3,Mar/2020/1550000.0/SOLD
+34,31-denmark-street-kew-vic-3101,1320000,21-Mar-2020,3,1,1,260,m2,House,https://www.domain.com.au/31-denmark-street-kew-vic-3101-2016101586,,0.9-1.7-1.7,3,
+35,43-molesworth-street-kew-vic-3101,2200000,14-Mar-2020,3,2,1,623,m2,House,https://www.domain.com.au/43-molesworth-street-kew-vic-3101-2016083065,,0.9-2.5-2.6,3,Mar/2020/900.0/SOLD-Feb/1994/2200000.0/SOLD
+36,69-edgevale-road-kew-vic-3101,2320000,10-Mar-2020,3,2,-1,-1,None,House,https://www.domain.com.au/69-edgevale-road-kew-vic-3101-2016034034,Study,1.1-1.2-2.6,3,Mar/2020/2320000.0/SOLD-Jun/2015/695.0/SOLD
+37,31-thornton-street-kew-vic-3101,2030000,04-Mar-2020,3,3,2,-1,None,House,https://www.domain.com.au/31-thornton-street-kew-vic-3101-2015869808,,1-1.8-2.1,3,Mar/2020/2029999.9999999998/SOLD-Nov/2018/1400000.0/SOLD
+38,11-pleasant-avenue-kew-vic-3101,1980000,22-Feb-2020,3,1,2,719,m2,House,https://www.domain.com.au/11-pleasant-avenue-kew-vic-3101-2016033070,,0.6-1.2-5.6,3,Feb/2020/470.0/SOLD
+39,72-malin-street-kew-vic-3101,2031000,22-Feb-2020,3,3,-1,-1,None,House,https://www.domain.com.au/72-malin-street-kew-vic-3101-2016035009,,1-1.3-2.4,3,Feb/2020/2031000.0000000002/SOLD-Jun/2014/910000.0/SOLD
+40,7-malmsbury-street-kew-vic-3101,2300000,05-Feb-2020,3,1,2,693,m2,House,https://www.domain.com.au/7-malmsbury-street-kew-vic-3101-2016028977,,0.4-2.5-2.7,3,Feb/2020/2300000.0/SOLD-Apr/2019/2009999.9999999998/SOLD
+41,3-wiltshire-drive-kew-vic-3101,1850000,17-Dec-2019,3,2,2,-1,None,House,https://www.domain.com.au/3-wiltshire-drive-kew-vic-3101-2015911919,,1.4-3.1-3.3,3,Dec/2019/1850000.0/SOLD-Jun/2018/1720000.0/SOLD
+42,29-fitzwilliam-street-kew-vic-3101,2740000,02-Dec-2019,3,2,2,-1,None,House,https://www.domain.com.au/29-fitzwilliam-street-kew-vic-3101-2015763150,Study,1.1-1.2-2.6,3,Nov/2019/2740000.0/SOLD-Apr/2011/1200000.0/SOLD-Aug/1986/119000.0/SOLD
+43,7-cobden-street-kew-vic-3101,1290000,09-Nov-2019,3,2,4,257,m2,House,https://www.domain.com.au/7-cobden-street-kew-vic-3101-2015743347,,0.2-2.1-2.5,3,May/2021/1475000.0/SOLD-Nov/2019/1290000.0/SOLD-Oct/1992/220500.0/SOLD
+44,9-derby-street-kew-vic-3101,1770000,09-Nov-2019,3,2,1,379,m2,House,https://www.domain.com.au/9-derby-street-kew-vic-3101-2015715799,,0.3-2.2-2.4,3,Nov/2019/1770000.0/SOLD
+45,6-barrington-avenue-kew-vic-3101,2515000,02-Nov-2019,3,2,2,-1,None,House,https://www.domain.com.au/6-barrington-avenue-kew-vic-3101-2015725319,,1-1.7-2.1,3,Nov/2019/2515000.0/SOLD
+46,5-cremin-close-kew-vic-3101,1560000,17-Oct-2019,3,2,2,405,m2,House,https://www.domain.com.au/5-cremin-close-kew-vic-3101-2015706727,,1.4-3.2-7,3,Oct/2019/800.0/SOLD
+47,159-peel-street-kew-vic-3101,1240000,21-Sep-2019,3,2,2,-1,None,House,https://www.domain.com.au/159-peel-street-kew-vic-3101-2015620989,,0.8-2.4-6.6,3,Sep/2019/1240000.0/SOLD
+48,90-brougham-street-kew-vic-3101,1504000,14-Sep-2019,3,1,3,336,m2,House,https://www.domain.com.au/90-brougham-street-kew-vic-3101-2015533022,,0.2-2.4-2.6,3,Sep/2019/1504000.0/SOLD-Aug/2015/1111000.0/SOLD
+49,10-edgecombe-street-kew-vic-3101,3060000,14-Sep-2019,3,2,2,660,m2,House,https://www.domain.com.au/10-edgecombe-street-kew-vic-3101-2015531690,Study,1.1-1.7-2,3,Sep/2019/3060000.0/SOLD-Jun/2013/1975000.0/SOLD-Nov/1997/390000.0/SOLD
+50,1/1-college-parade-kew-vic-3101,2020000,07-Sep-2019,3,2,2,-1,None,House,https://www.domain.com.au/1-1-college-parade-kew-vic-3101-2015524549,,1.1-1.1-2.1,3,
+51,7a-hansen-street-kew-vic-3101,2295000,22-Aug-2019,3,2,2,-1,None,House,https://www.domain.com.au/7a-hansen-street-kew-vic-3101-2014706587,,0.9-1.3-2.1,3,Aug/2019/2295000.0/SOLD-Dec/2000/760000.0/SOLD
+52,21-barkers-road-kew-vic-3101,2160800,17-Aug-2019,3,1,1,722,m2,House,https://www.domain.com.au/21-barkers-road-kew-vic-3101-2015456594,,0.9-1.2-1.6,3,Aug/2019/2160800.0/SOLD
+53,43-edgevale-road-kew-vic-3101,1332500,07-Aug-2019,3,1,-1,234,m2,House,https://www.domain.com.au/43-edgevale-road-kew-vic-3101-2015489914,,1.1-1.1-2.7,3,Aug/2019/1332500.0/SOLD-Mar/2012/850000.0/SOLD
+54,40-vaughan-crescent-kew-vic-3101,1320500,27-Jul-2019,3,2,2,-1,None,House,https://www.domain.com.au/40-vaughan-crescent-kew-vic-3101-2015408565,,1.5-3.1-7.1,3,Jul/2019/700.0/SOLD
+55,36-denmark-street-kew-vic-3101,1385000,04-Jun-2019,3,1,2,340,m2,House,https://www.domain.com.au/36-denmark-street-kew-vic-3101-2015259189,,0.9-1.7-1.7,3,Jun/2019/1385000.0/SOLD-Feb/2017/1290000.0/SOLD
+56,3-grandview-terrace-kew-vic-3101,1730000,04-Jun-2019,3,1,2,641,m2,House,https://www.domain.com.au/3-grandview-terrace-kew-vic-3101-2015296242,,1.1-2.2-6.1,3,Jun/2019/450.0/SOLD-Jan/1993/1730000.0/SOLD
+57,94-edgevale-road-kew-vic-3101,1460000,01-Jun-2019,3,2,-1,-1,None,House,https://www.domain.com.au/94-edgevale-road-kew-vic-3101-2015249105,,1.1-1.2-2.5,3,Jun/2019/1460000.0/SOLD-Dec/2017/1670000.0/SOLD
+58,146-peel-street-kew-vic-3101,1320000,25-May-2019,3,2,1,334,m2,House,https://www.domain.com.au/146-peel-street-kew-vic-3101-2015227505,,0.9-2.4-6.4,3,May/2019/750.0/SOLD
+59,1/21-davis-street-kew-vic-3101,1385000,25-May-2019,3,2,2,-1,None,House,https://www.domain.com.au/1-21-davis-street-kew-vic-3101-2015221060,,1-1.3-2.3,3,
+60,2-regency-grove-kew-vic-3101,1670000,10-May-2019,3,2,2,-1,None,House,https://www.domain.com.au/2-regency-grove-kew-vic-3101-2015209896,,0.1-1.5-5.5,3,May/2019/1670000.0/SOLD-Jul/2002/580000.0/SOLD
+61,8-st-anthonys-place-kew-vic-3101,2050000,10-Apr-2019,3,2,2,-1,None,House,https://www.domain.com.au/8-st-anthonys-place-kew-vic-3101-2014954670,,0.4-1.8-2.3,3,Apr/2019/900.0/SOLD
+62,7-malmsbury-street-kew-vic-3101,2010000,03-Apr-2019,3,1,2,693,m2,House,https://www.domain.com.au/7-malmsbury-street-kew-vic-3101-2015006503,,0.4-2.5-2.7,3,Feb/2020/2300000.0/SOLD-Apr/2019/2009999.9999999998/SOLD
+63,3-union-street-kew-vic-3101,1824500,30-Mar-2019,3,2,1,457,m2,House,https://www.domain.com.au/3-union-street-kew-vic-3101-2014986559,,0.2-1.9-2.5,3,Mar/2019/1824500.0/SOLD-Jul/1988/177500.0/SOLD
+64,2-kellett-grove-kew-vic-3101,1500000,25-Mar-2019,3,1,2,-1,None,House,https://www.domain.com.au/2-kellett-grove-kew-vic-3101-2014921664,,1-2-5.9,3,Mar/2019/400.0/SOLD
+65,20-banool-avenue-kew-vic-3101,1895000,17-Dec-2018,3,1,1,558,m2,House,https://www.domain.com.au/20-banool-avenue-kew-vic-3101-2014788568,,0.6-2.2-2.4,3,Dec/2018/1895000.0/SOLD
+66,36-foley-street-kew-vic-3101,1360000,08-Dec-2018,3,3,1,395,m2,House,https://www.domain.com.au/36-foley-street-kew-vic-3101-2014772236,,0.9-1.7-1.7,3,Feb/2020/2200000.0/SOLD-Dec/2018/1360000.0/SOLD-Jul/1984/77500.0/SOLD
+67,49-mary-street-kew-vic-3101,1700000,03-Dec-2018,3,1,-1,581,m2,House,https://www.domain.com.au/49-mary-street-kew-vic-3101-2014709191,,0.4-2-2.4,3,Dec/2018/430.0/SOLD
+68,61-molesworth-street-kew-vic-3101,7350000,20-Nov-2018,3,3,2,-1,None,House,https://www.domain.com.au/61-molesworth-street-kew-vic-3101-2014754867,,1.1-2.5-2.5,3,Nov/2018/7350000.0/SOLD-Sep/2016/3750000.0/SOLD-Nov/2002/1335000.0/SOLD
+69,8-stirling-street-kew-vic-3101,2800000,17-Nov-2018,3,2,2,711,m2,House,https://www.domain.com.au/8-stirling-street-kew-vic-3101-2014707306,,0.9-1.5-2.4,3,Nov/2018/2800000.0/SOLD-Apr/1989/365000.0/SOLD-Mar/1986/134000.0/SOLD
+70,31-thornton-street-kew-vic-3101,1400000,17-Nov-2018,3,1,3,383,m2,House,https://www.domain.com.au/31-thornton-street-kew-vic-3101-2014726212,,1-1.8-2.1,3,Mar/2020/2029999.9999999998/SOLD-Nov/2018/1400000.0/SOLD
+71,8-derrick-street-kew-vic-3101,1415000,10-Nov-2018,3,1,2,482,m2,House,https://www.domain.com.au/8-derrick-street-kew-vic-3101-2014689390,,0.2-2-2.5,3,Nov/2018/1415000.0/SOLD
+72,3-childers-street-kew-vic-3101,1530000,08-Sep-2018,3,1,2,-1,None,House,https://www.domain.com.au/3-childers-street-kew-vic-3101-2014571375,,0.6-1.7-6.1,3,Sep/2018/1530000.0/SOLD-Mar/2010/620.0/SOLD
+73,129-wellington-street-kew-vic-3101,1250000,02-Aug-2018,3,1,-1,-1,None,House,https://www.domain.com.au/129-wellington-street-kew-vic-3101-2014349529,,1.1-1.4-2.4,3,Jul/2018/670.0/SOLD
+74,1-regency-grove-kew-vic-3101,1700000,10-Jul-2018,3,2,2,-1,None,House,https://www.domain.com.au/1-regency-grove-kew-vic-3101-2014362769,,0.1-1.5-5.5,3,Sep/2018/1700000.0/SOLD-Jan/2009/930000.0/SOLD-Jan/1993/350081.0/SOLD
+75,118-brougham-street-kew-vic-3101,1472000,23-Jun-2018,3,1,2,-1,None,House,https://www.domain.com.au/118-brougham-street-kew-vic-3101-2014409584,,0.4-2.6-2.7,3,Jun/2018/1472000.0/SOLD
+76,18-tennyson-street-kew-vic-3101,1450000,22-Jun-2018,3,2,2,-1,None,House,https://www.domain.com.au/18-tennyson-street-kew-vic-3101-2014331872,,0.7-2.2-6.5,3,Jun/2018/1450000.0/SOLD-Mar/2012/766000.0/SOLD
+77,68-fitzwilliam-street-kew-vic-3101,1980000,16-Jun-2018,3,1,2,-1,None,House,https://www.domain.com.au/68-fitzwilliam-street-kew-vic-3101-2014362798,,1-1.1-2.4,3,Jun/2018/1980000.0/SOLD-Oct/2002/610000.0/SOLD
+78,3-wiltshire-drive-kew-vic-3101,1720000,05-Jun-2018,3,2,2,-1,None,House,https://www.domain.com.au/3-wiltshire-drive-kew-vic-3101-2014368626,,1.4-3.1-3.3,3,Dec/2019/1850000.0/SOLD-Jun/2018/1720000.0/SOLD
+79,133-pakington-street-kew-vic-3101,1422000,01-Jun-2018,3,1,2,376,m2,House,https://www.domain.com.au/133-pakington-street-kew-vic-3101-2014332647,,0.9-2.3-6.4,3,Jun/2018/1422000.0/SOLD-Dec/2002/455000.0/SOLD-Jun/1988/139000.0/SOLD
+80,24-vaughan-crescent-kew-vic-3101,1470000,22-May-2018,3,2,2,-1,None,House,https://www.domain.com.au/24-vaughan-crescent-kew-vic-3101-2014186409,,1.5-3.2-7,3,May/2018/1470000.0/SOLD-Jun/2003/650000.0/SOLD-Jan/2001/355000.0/SOLD
+81,31-ridgeway-avenue-kew-vic-3101,1815000,19-May-2018,3,1,1,540,m2,House,https://www.domain.com.au/31-ridgeway-avenue-kew-vic-3101-2014332799,,0.5-2-2.3,3,May/2018/1815000.0/SOLD
+82,6-hillcrest-avenue-kew-vic-3101,2500000,14-May-2018,3,2,4,569,m2,House,https://www.domain.com.au/6-hillcrest-avenue-kew-vic-3101-2014309533,,0.8-1.8-2.2,3,Feb/2021/6100000.0/SOLD-May/2018/2500000.0/SOLD-Jul/1993/291000.0/SOLD
+83,9a-college-parade-kew-vic-3101,2285000,12-May-2018,3,2,2,-1,None,House,https://www.domain.com.au/9a-college-parade-kew-vic-3101-2014315740,,0.9-1.3-2.2,3,May/2018/1100.0/SOLD
+84,35-duke-street-kew-vic-3101,1478000,08-May-2018,3,2,2,-1,None,House,https://www.domain.com.au/35-duke-street-kew-vic-3101-2014247283,,1.1-2.6-6.6,3,Aug/2018/850.0/SOLD
+85,3/85-pakington-street-kew-vic-3101,1265000,05-May-2018,3,2,2,-1,None,House,https://www.domain.com.au/3-85-pakington-street-kew-vic-3101-2014299409,,0.7-2.4-6.6,3,
+86,145-cotham-road-kew-vic-3101,2645000,18-Apr-2018,3,3,2,-1,None,New house and land,https://www.domain.com.au/145-cotham-road-kew-vic-3101-2013668305,Study,0.8-1.7-2.3,3,Feb/2014/3320000.0/SOLD
+87,8-wellington-street-kew-vic-3101,1980000,31-Mar-2018,3,2,1,-1,None,House,https://www.domain.com.au/8-wellington-street-kew-vic-3101-2014172842,,0.6-1.8-2,3,Mar/2018/1980000.0/SOLD
+88,55-molesworth-street-kew-vic-3101,2700000,27-Mar-2018,3,1,2,-1,None,House,https://www.domain.com.au/55-molesworth-street-kew-vic-3101-2014243240,,1-2.5-2.6,3,Mar/2018/2700000.0/SOLD-May/2013/1550000.0/SOLD
+89,34-stirling-street-kew-vic-3101,2718000,24-Mar-2018,3,1,-1,-1,None,House,https://www.domain.com.au/34-stirling-street-kew-vic-3101-2014220738,,1-1.5-2.3,3,Aug/2021/4425000.0/SOLD-Mar/2018/2718000.0/SOLD
+90,45-cobden-street-kew-vic-3101,1730000,24-Mar-2018,3,1,2,-1,None,House,https://www.domain.com.au/45-cobden-street-kew-vic-3101-2014206160,,0.3-2.3-2.4,3,Mar/2018/650.0/SOLD
+91,17-gellibrand-street-kew-vic-3101,2155000,24-Mar-2018,3,2,-1,-1,None,House,https://www.domain.com.au/17-gellibrand-street-kew-vic-3101-2014200361,,0.4-1.8-2.2,3,Mar/2018/2155000.0/SOLD-Mar/1998/517500.0/SOLD
+92,3-downton-grove-kew-vic-3101,1600000,21-Mar-2018,3,1,2,-1,None,House,https://www.domain.com.au/3-downton-grove-kew-vic-3101-2014193186,,0.7-1.6-6,3,Mar/2018/1600000.0/SOLD
+93,100-edgevale-road-kew-vic-3101,1920000,21-Feb-2018,3,2,1,-1,None,House,https://www.domain.com.au/100-edgevale-road-kew-vic-3101-2014133943,,1.1-1.3-2.5,3,Feb/2018/1920000.0/SOLD-Oct/2014/1330000.0/SOLD
+94,1a-glendene-avenue-kew-vic-3101,1685000,24-Dec-2017,3,3,2,259,m2,House,https://www.domain.com.au/1a-glendene-avenue-kew-vic-3101-2014027912,"Air conditioning-""Alarm/Security System""-""Remote Garage""-""Vacuum System""-""Ducted Heating""-""Floorboards""-""Study""-""Built in wardrobes""",0.6-1.5-5.9,3,Dec/2017/1685000.0/SOLD-Dec/2009/1300000.0/SOLD
+95,27-park-crescent-kew-vic-3101,1100002,11-Dec-2017,3,1,1,279,m2,House,https://www.domain.com.au/27-park-crescent-kew-vic-3101-2013992984,,0.8-1.9-6.2,3,Dec/2017/1100002.0/SOLD-Oct/2015/930000.0/SOLD-May/2014/610000.0/SOLD
+96,20-churchill-street-kew-vic-3101,1715000,04-Dec-2017,3,2,1,440,m2,House,https://www.domain.com.au/20-churchill-street-kew-vic-3101-2013985306,,0.4-1.5-5.9,3,Dec/2017/1715000.0/SOLD-Nov/1991/143000.0/SOLD
+97,94-edgevale-road-kew-vic-3101,1670000,02-Dec-2017,3,2,-1,-1,None,House,https://www.domain.com.au/94-edgevale-road-kew-vic-3101-2013992426,,1.1-1.2-2.5,3,Jun/2019/1460000.0/SOLD-Dec/2017/1670000.0/SOLD
+98,7-cremin-close-kew-vic-3101,1390000,02-Dec-2017,3,2,2,401,m2,House,https://www.domain.com.au/7-cremin-close-kew-vic-3101-2013979927,"Built in wardrobes-""Close to schools""-""Garden""-""Secure Parking""",1.4-3.2-7,3,Dec/2017/1390000.0/SOLD
+99,68-tennyson-street-kew-vic-3101,2010000,23-Nov-2017,3,1,2,-1,None,House,https://www.domain.com.au/68-tennyson-street-kew-vic-3101-2013968278,,0.9-2.2-6.3,3,Dec/2020/2350000.0/SOLD-Nov/2017/820.0/SOLD
+100,3-stirling-street-kew-vic-3101,3276000,18-Nov-2017,3,4,2,334,m2,House,https://www.domain.com.au/3-stirling-street-kew-vic-3101-2013943087,,0.8-1.6-2.4,3,Nov/2017/3276000.0/SOLD-Feb/2004/705000.0/SOLD
+101,30-hillcrest-avenue-kew-vic-3101,2720000,28-Oct-2017,3,2,2,-1,None,House,https://www.domain.com.au/30-hillcrest-avenue-kew-vic-3101-2013893670,,0.8-2-2,3,
+102,68-pakington-street-kew-vic-3101,1752000,28-Oct-2017,3,1,1,339,m2,House,https://www.domain.com.au/68-pakington-street-kew-vic-3101-2013894682,,0.5-2.4-6.7,3,Dec/2017/1752000.0/SOLD-Feb/2013/985000.0/SOLD
+103,1271-burke-road-kew-vic-3101,1885000,21-Oct-2017,3,2,2,727,m2,House,https://www.domain.com.au/1271-burke-road-kew-vic-3101-2013880552,,0.1-1.4-5.5,3,Oct/2017/620.0/SOLD-Nov/2005/1885000.0/SOLD
+104,1/168-brougham-street-kew-vic-3101,1277500,14-Oct-2017,3,2,2,322,m2,House,https://www.domain.com.au/1-168-brougham-street-kew-vic-3101-2013864144,,0.8-2.6-6.7,3,
+105,62-tennyson-street-kew-vic-3101,1909000,07-Oct-2017,3,1,2,-1,None,House,https://www.domain.com.au/62-tennyson-street-kew-vic-3101-2013849543,,0.9-2.2-6.4,3,Oct/2017/1909000.0/SOLD
+106,60-parkhill-road-kew-vic-3101,1605000,01-Oct-2017,3,1,3,-1,None,House,https://www.domain.com.au/60-parkhill-road-kew-vic-3101-2013836377,"Fireplace(s)-""Built in wardrobes""-""Fully fenced""",1-1.7-6.3,3,Oct/2017/1605000.0/SOLD
+107,5-childers-street-kew-vic-3101,1320000,11-Sep-2017,3,1,2,-1,None,House,https://www.domain.com.au/5-childers-street-kew-vic-3101-2013787783,,0.6-1.7-6.1,3,Oct/2021/1395000.0/SOLD
+108,40-mary-street-kew-vic-3101,1405000,09-Sep-2017,3,1,-1,337,m2,House,https://www.domain.com.au/40-mary-street-kew-vic-3101-2013787700,,0.5-2-2.4,3,Sep/2017/700.0/SOLD
+109,4-second-avenue-kew-vic-3101,2200000,26-Aug-2017,3,2,4,650,m2,House,https://www.domain.com.au/4-second-avenue-kew-vic-3101-2013755958,,0.6-1-5.2,3,Aug/2017/2200000.0/SOLD
+110,78-argyle-road-kew-vic-3101,3763500,26-Aug-2017,3,3,3,631,m2,House,https://www.domain.com.au/78-argyle-road-kew-vic-3101-2013751309,,0.6-1.1-5.5,3,Aug/2017/3763500.0/SOLD
+111,19-edgevale-road-kew-vic-3101,1610000,19-Aug-2017,3,2,4,364,m2,House,https://www.domain.com.au/19-edgevale-road-kew-vic-3101-2013742154,,1-1-2.6,3,Aug/2017/1610000.0/SOLD-Oct/1988/205000.0/SOLD
+112,30-stirling-street-kew-vic-3101,2180000,19-Aug-2017,3,1,2,372,m2,House,https://www.domain.com.au/30-stirling-street-kew-vic-3101-2013734199,,1-1.5-2.3,3,Aug/2017/2180000.0/SOLD
+113,44-park-crescent-kew-vic-3101,1782000,05-Aug-2017,3,1,2,705,m2,House,https://www.domain.com.au/44-park-crescent-kew-vic-3101-2013715256,,0.9-2-6.2,3,Nov/2020/1800000.0/SOLD-Aug/2017/1782000.0/SOLD
+114,88-gladstone-street-kew-vic-3101,1580000,28-Jul-2017,3,1,1,404,m2,House,https://www.domain.com.au/88-gladstone-street-kew-vic-3101-2013660276,,0.6-1.7-6.1,3,Jul/2021/700.0/SOLD
+115,1/56-pakington-street-kew-vic-3101,1400000,22-Jul-2017,3,2,2,-1,None,Villa,https://www.domain.com.au/1-56-pakington-street-kew-vic-3101-2013685841,,0.4-2.4-2.5,3,
+116,2/8-pleasant-avenue-kew-vic-3101,1080000,05-Jul-2017,3,2,2,-1,None,House,https://www.domain.com.au/2-8-pleasant-avenue-kew-vic-3101-2013645443,,0.6-1.3-5.6,3,
+117,47-stevenson-street-kew-vic-3101,3001000,24-Jun-2017,3,1,3,-1,None,House,https://www.domain.com.au/47-stevenson-street-kew-vic-3101-2013630729,,1.2-1.6-1.9,3,Jun/2017/700.0/SOLD
+118,19-campbell-street-kew-vic-3101,1995000,24-Jun-2017,3,1,4,-1,None,House,https://www.domain.com.au/19-campbell-street-kew-vic-3101-2013639626,,0.6-1.2-5.7,3,Jun/2017/600.0/SOLD
+119,32-first-avenue-kew-vic-3101,1767000,27-May-2017,3,2,2,350,m2,House,https://www.domain.com.au/32-first-avenue-kew-vic-3101-2013564874,,0.8-0.8-5.2,3,May/2017/1767000.0/SOLD
+120,21-churchill-street-kew-vic-3101,1965000,20-May-2017,3,1,2,813,m2,House,https://www.domain.com.au/21-churchill-street-kew-vic-3101-2013550830,,0.5-1.5-5.9,3,May/2017/1965000.0/SOLD-Nov/1985/91500.0/SOLD
+121,29-denmark-street-kew-vic-3101,1300000,09-May-2017,3,1,-1,-1,None,House,https://www.domain.com.au/29-denmark-street-kew-vic-3101-2013565232,,0.9-1.7-1.7,3,May/2017/700.0/SOLD
+122,39-mont-victor-road-kew-vic-3101,3045000,29-Apr-2017,3,2,2,792,m2,House,https://www.domain.com.au/39-mont-victor-road-kew-vic-3101-2013498215,,0.3-1.4-5.6,3,Apr/2017/810.0/SOLD
+123,2-lalla-court-kew-vic-3101,1185000,03-Apr-2017,3,2,2,245,m2,House,https://www.domain.com.au/2-lalla-court-kew-vic-3101-2013438932,,0.8-1.4-5.9,3,Apr/2017/620.0/SOLD
+124,119-derby-street-kew-vic-3101,2000000,01-Apr-2017,3,1,1,-1,None,House,https://www.domain.com.au/119-derby-street-kew-vic-3101-2013442810,,0.8-2.1-6.4,3,Apr/2017/2000000.0/SOLD-Sep/1985/60000.0/SOLD
+125,3a-denmark-street-kew-vic-3101,1380000,25-Mar-2017,3,2,3,-1,None,House,https://www.domain.com.au/3a-denmark-street-kew-vic-3101-2013424504,,1.1-1.6-1.6,3,Mar/2017/1380000.0/SOLD-Jul/2012/1050000.0/SOLD-Oct/1995/134000.0/SOLD
+126,45-cobden-street-kew-vic-3101,1750000,24-Mar-2017,3,1,4,-1,None,House,https://www.domain.com.au/45-cobden-street-kew-vic-3101-2013442016,,0.3-2.3-2.4,3,Mar/2018/650.0/SOLD
+127,2a-churchill-street-kew-vic-3101,1476000,18-Mar-2017,3,2,2,288,m2,House,https://www.domain.com.au/2a-churchill-street-kew-vic-3101-2013404158,,0.5-1.5-5.9,3,Mar/2017/1476000.0/SOLD-Apr/1997/278000.0/SOLD
+128,26-kent-street-kew-vic-3101,1750000,09-Mar-2017,3,2,4,-1,None,House,https://www.domain.com.au/26-kent-street-kew-vic-3101-2013404320,,0.7-1.9-2.2,3,Mar/2017/1750000.0/SOLD-Jul/1997/391000.0/SOLD-May/1985/147000.0/SOLD
+129,116-edgevale-road-kew-vic-3101,2101000,08-Mar-2017,3,2,1,-1,None,House,https://www.domain.com.au/116-edgevale-road-kew-vic-3101-2013400280,,1.2-1.3-2.4,3,Mar/2017/2101000.0/SOLD-Aug/2013/1000000.0/SOLD-Apr/2011/950000.0/SOLD
+130,6-wellington-street-kew-vic-3101,1490000,04-Mar-2017,3,2,2,-1,None,House,https://www.domain.com.au/6-wellington-street-kew-vic-3101-2013372858,,0.6-1.8-2,3,
+131,8-campbell-street-kew-vic-3101,1528500,21-Feb-2017,3,1,1,375,m2,House,https://www.domain.com.au/8-campbell-street-kew-vic-3101-2013352646,,0.6-1.2-5.8,3,Feb/2017/630.0/SOLD
+132,3-cecil-street-kew-vic-3101,1551000,19-Feb-2017,3,2,1,652,m2,House,https://www.domain.com.au/3-cecil-street-kew-vic-3101-2013209499,,0.9-1.8-6.2,3,Feb/2017/1551000.0/SOLD
+133,28-carson-street-kew-vic-3101,2660000,04-Feb-2017,3,2,2,652,m2,House,https://www.domain.com.au/28-carson-street-kew-vic-3101-2013183054,,1.2-1.6-1.8,3,Feb/2017/2660000.0/SOLD
+134,17-gladstone-street-kew-vic-3101,1410000,10-Dec-2016,3,1,2,304,m2,House,https://www.domain.com.au/17-gladstone-street-kew-vic-3101-2013219396,,0.7-2-6.5,3,Dec/2016/1410000.0/SOLD-Aug/2007/822500.0/SOLD-Dec/1993/152000.0/SOLD
+135,31-barnard-grove-kew-vic-3101,1735000,07-Dec-2016,3,1,2,660,m2,House,https://www.domain.com.au/31-barnard-grove-kew-vic-3101-2013216428,,1.4-2.3-6.2,3,Dec/2016/725.0/SOLD-Oct/2000/1735000.0/SOLD
+136,35-may-street-kew-vic-3101,1525000,29-Nov-2016,3,2,2,-1,None,House,https://www.domain.com.au/35-may-street-kew-vic-3101-2013234770,,1.1-1.3-2.4,3,Nov/2016/1525000.0/SOLD
+137,33-disraeli-street-kew-vic-3101,1440000,26-Nov-2016,3,1,1,298,m2,House,https://www.domain.com.au/33-disraeli-street-kew-vic-3101-2013174266,,0.6-2.1-6.6,3,
+138,1/16-argyle-road-kew-vic-3101,1028000,07-Nov-2016,3,2,2,-1,None,House,https://www.domain.com.au/1-16-argyle-road-kew-vic-3101-2013153504,,0.8-1.3-5.8,3,
+139,203-&-205-barkers-road-kew-vic-3101,3127500,29-Oct-2016,3,1,2,-1,None,House,https://www.domain.com.au/203-205-barkers-road-kew-vic-3101-2013091246,,1-1.1-2.1,3,
+140,27-earl-street-kew-vic-3101,1515000,29-Oct-2016,3,1,1,519,m2,House,https://www.domain.com.au/27-earl-street-kew-vic-3101-2013015914,,1-2.1-6.2,3,Oct/2016/660.0/SOLD
+141,8-merrion-place-kew-vic-3101,1878000,10-Sep-2016,3,2,1,-1,None,House,https://www.domain.com.au/8-merrion-place-kew-vic-3101-2012990476,,0.7-1.9-2.1,3,Sep/2016/1878000.0/SOLD-Oct/2006/1405000.0/SOLD-Sep/2000/463000.0/SOLD
+142,61-molesworth-street-kew-vic-3101,3750000,08-Sep-2016,3,3,4,1355,m2,House,https://www.domain.com.au/61-molesworth-street-kew-vic-3101-2012933365,,1.1-2.5-2.5,3,Nov/2018/7350000.0/SOLD-Sep/2016/3750000.0/SOLD-Nov/2002/1335000.0/SOLD
+143,13-annadale-street-kew-vic-3101,1635000,03-Sep-2016,3,1,2,397,m2,House,https://www.domain.com.au/13-annadale-street-kew-vic-3101-2012978464,,1.2-1.5-2.2,3,Sep/2016/1635000.0/SOLD-Feb/2012/960000.0/SOLD
+144,1/17-pakington-street-kew-vic-3101,1390000,01-Aug-2016,3,2,2,-1,None,House,https://www.domain.com.au/1-17-pakington-street-kew-vic-3101-2012923892,,0.2-2.3-2.6,3,
+145,34-alfred-street-kew-vic-3101,3065000,30-Jul-2016,3,2,2,781,m2,House,https://www.domain.com.au/34-alfred-street-kew-vic-3101-2012913179,,0.9-1.6-2,3,Jul/2016/550.0/SOLD
+146,53-mary-street-kew-vic-3101,1410000,23-Jul-2016,3,2,1,290,m2,House,https://www.domain.com.au/53-mary-street-kew-vic-3101-2012894482,,0.4-2.1-2.3,3,Jul/2016/1410000.0/SOLD-Jun/2011/600000.0/SOLD-Feb/1994/260000.0/SOLD
+147,7a-peel-street-kew-vic-3101,1580000,19-Jul-2016,3,2,2,238,m2,House,https://www.domain.com.au/7a-peel-street-kew-vic-3101-2012760747,,0.1-2.1-2.5,3,Jul/2016/1580000.0/SOLD-Sep/1998/399000.0/SOLD
+148,7-gladstone-street-kew-vic-3101,1565000,25-Jun-2016,3,1,-1,552,m2,House,https://www.domain.com.au/7-gladstone-street-kew-vic-3101-2012835674,,0.7-2.1-6.5,3,Jun/2016/1565000.0/SOLD-Dec/1998/276000.0/SOLD
+149,43-kellett-grove-kew-vic-3101,1211000,28-May-2016,3,1,1,-1,None,House,https://www.domain.com.au/43-kellett-grove-kew-vic-3101-2012776169,,1.4-2.3-6.1,3,May/2016/1211000.0/SOLD
+150,36-belmont-avenue-kew-vic-3101,1800000,07-May-2016,3,1,2,405,m2,House,https://www.domain.com.au/36-belmont-avenue-kew-vic-3101-2012721022,,0.9-2-2,3,May/2016/775.0/SOLD-Sep/1998/1800000.0/SOLD
+151,74-pakington-street-kew-vic-3101,1570000,30-Apr-2016,3,1,1,426,m2,House,https://www.domain.com.au/74-pakington-street-kew-vic-3101-2012701982,,0.5-2.4-6.7,3,Apr/2016/1570000.0/SOLD
+152,2/147-willsmere-road-kew-vic-3101,972500,16-Apr-2016,3,2,2,-1,None,House,https://www.domain.com.au/2-147-willsmere-road-kew-vic-3101-2012677078,,1-2-5.9,3,
+153,60-peel-street-kew-vic-3101,775000,29-Mar-2016,3,2,1,-1,None,House,https://www.domain.com.au/60-peel-street-kew-vic-3101-2012262868,,0.3-2.4-2.6,3,
+154,479-high-street-kew-vic-3101,1355000,05-Mar-2016,3,2,3,630,m2,House,https://www.domain.com.au/479-high-street-kew-vic-3101-2012581340,,0.8-1.8-6.3,3,Oct/2021/1870000.0/SOLD
+155,34-argyle-road-kew-vic-3101,1570000,23-Feb-2016,3,2,1,456,m2,House,https://www.domain.com.au/34-argyle-road-kew-vic-3101-2012564800,,0.9-0.9-1.3,3,Feb/2016/1570000.0/SOLD-Nov/1996/276000.0/SOLD-Apr/1994/272000.0/SOLD
+156,31-loch-street-kew-vic-3101,1600000,12-Dec-2015,3,1,-1,688,m2,House,https://www.domain.com.au/31-loch-street-kew-vic-3101-2012419924,,0.9-2-6.2,3,
+157,137-cotham-road-kew-vic-3101,1241000,04-Dec-2015,3,1,2,430,m2,House,https://www.domain.com.au/137-cotham-road-kew-vic-3101-2012393399,,0.7-1.7-2.4,3,Jun/2021/1601000.0/SOLD-Dec/2015/750.0/SOLD
+158,22-foley-street-kew-vic-3101,1465000,28-Nov-2015,3,1,2,-1,None,House,https://www.domain.com.au/22-foley-street-kew-vic-3101-2012388120,,1-1.6-1.7,3,
+159,1/89-sackville-street-kew-vic-3101,1210000,21-Nov-2015,3,1,2,-1,None,House,https://www.domain.com.au/1-89-sackville-street-kew-vic-3101-2012362752,,0.8-1.6-1.7,3,
+160,129-willsmere-road-kew-vic-3101,1422000,21-Nov-2015,3,1,2,-1,None,House,https://www.domain.com.au/129-willsmere-road-kew-vic-3101-2012369690,,1.1-2.2-6.1,3,Nov/2015/1422000.0/SOLD
+161,70-foley-street-kew-vic-3101,2460000,21-Nov-2015,3,2,2,533,m2,House,https://www.domain.com.au/70-foley-street-kew-vic-3101-2012351781,,0.7-1.9-1.9,3,Nov/2015/2460000.0/SOLD-Oct/1991/205000.0/SOLD
+162,18-willsmere-road-kew-vic-3101,1250000,21-Nov-2015,3,1,2,620,m2,House,https://www.domain.com.au/18-willsmere-road-kew-vic-3101-2012369033,,0.7-2.6-6.7,3,
+163,160-brougham-street-kew-vic-3101,1080000,31-Oct-2015,3,1,1,380,m2,House,https://www.domain.com.au/160-brougham-street-kew-vic-3101-2011990997,,0.7-2.6-6.8,3,Nov/2020/2029999.9999999998/SOLD-Oct/2015/1080000.0/SOLD
+164,577-high-street-kew-vic-3101,970000,29-Oct-2015,3,1,2,357,m2,House,https://www.domain.com.au/577-high-street-kew-vic-3101-2012296095,,0.4-1.3-5.8,3,
+165,32-marshall-avenue-kew-vic-3101,2036000,24-Oct-2015,3,1,1,715,m2,House,https://www.domain.com.au/32-marshall-avenue-kew-vic-3101-2012268874,,1-1.7-6.2,3,Oct/2015/2036000.0/SOLD
+166,116-walpole-street-kew-vic-3101,2525000,21-Oct-2015,3,1,3,-1,None,House,https://www.domain.com.au/116-walpole-street-kew-vic-3101-2012262112,,0.9-2.5-6.5,3,Apr/2018/3300000.0/SOLD-Apr/2016/2525000.0/SOLD
+167,33-adeney-avenue-kew-vic-3101,1660000,13-Oct-2015,3,2,2,532,m2,House,https://www.domain.com.au/33-adeney-avenue-kew-vic-3101-2012003420,,1-1.7-6.2,3,May/2021/2150000.0/SOLD-Oct/2015/1660000.0/SOLD-May/1999/400000.0/SOLD
+168,86-brougham-street-kew-vic-3101,1720000,10-Oct-2015,3,1,1,618,m2,House,https://www.domain.com.au/86-brougham-street-kew-vic-3101-2012259918,,0.2-2.4-2.6,3,Feb/2020/1862500.0/SOLD-Oct/2015/1720000.0/SOLD
+169,90-edgevale-road-kew-vic-3101,2565000,10-Oct-2015,3,2,1,-1,None,House,https://www.domain.com.au/90-edgevale-road-kew-vic-3101-2012246697,,1.1-1.2-2.5,3,Oct/2015/1400.0/SOLD
+170,18-park-crescent-kew-vic-3101,2010000,19-Sep-2015,3,1,2,823,m2,House,https://www.domain.com.au/18-park-crescent-kew-vic-3101-2012190563,,0.8-2-6.3,3,Sep/2015/2009999.9999999998/SOLD
+171,24-denmark-street-kew-vic-3101,1225000,22-Aug-2015,3,1,1,371,m2,House,https://www.domain.com.au/24-denmark-street-kew-vic-3101-2012143413,,0.9-1.6-1.7,3,May/2020/2037000.0/SOLD-Aug/2015/1300.0/SOLD
+172,25-second-avenue-kew-vic-3101,1840000,22-Aug-2015,3,1,2,613,m2,House,https://www.domain.com.au/25-second-avenue-kew-vic-3101-2012144972,,0.6-1-5.1,3,Aug/2015/1840000.0/SOLD
+173,90-brougham-street-kew-vic-3101,1111000,08-Aug-2015,3,1,3,339,m2,House,https://www.domain.com.au/90-brougham-street-kew-vic-3101-2012110557,,0.2-2.4-2.6,3,Sep/2019/1504000.0/SOLD-Aug/2015/1111000.0/SOLD
+174,41-atkins-street-kew-vic-3101,4325000,08-Aug-2015,3,1,2,1028,m2,House,https://www.domain.com.au/41-atkins-street-kew-vic-3101-2012110634,,1.1-1.6-2.2,3,
+175,57-barnard-grove-kew-vic-3101,1595000,18-Jul-2015,3,1,1,-1,None,House,https://www.domain.com.au/57-barnard-grove-kew-vic-3101-2012065084,,1.4-2.6-6.4,3,Jul/2015/1595000.0/SOLD-Aug/2009/420.0/SOLD
+176,6-fenton-avenue-kew-vic-3101,2350000,18-Jul-2015,3,1,1,726,m2,House,https://www.domain.com.au/6-fenton-avenue-kew-vic-3101-2012065728,,0.5-1.9-2.1,3,
+177,69-edgevale-road-kew-vic-3101,1527000,27-Jun-2015,3,1,-1,300,m2,House,https://www.domain.com.au/69-edgevale-road-kew-vic-3101-2012017517,,1.1-1.2-2.6,3,Mar/2020/2320000.0/SOLD-Jun/2015/695.0/SOLD
+178,43-wellington-street-kew-vic-3101,1792000,13-Jun-2015,3,2,2,453,m2,House,https://www.domain.com.au/43-wellington-street-kew-vic-3101-2011988242,,0.5-1.7-2.3,3,Jun/2015/1792000.0/SOLD
+179,61-cobden-street-kew-vic-3101,1480000,13-Jun-2015,3,1,3,-1,None,House,https://www.domain.com.au/61-cobden-street-kew-vic-3101-2011987618,,0.4-2.4-2.4,3,Jun/2015/1480000.0/SOLD
+180,50-grandview-terrace-kew-vic-3101,1610000,16-May-2015,3,2,2,614,m2,House,https://www.domain.com.au/50-grandview-terrace-kew-vic-3101-2011927309,,1.3-2.5-6.4,3,Aug/2018/2890000.0/SOLD-May/2015/1610000.0/SOLD-Oct/1993/222000.0/SOLD
+181,26-goldthorns-avenue-kew-vic-3101,2715000,09-May-2015,3,2,1,874,m2,House,https://www.domain.com.au/26-goldthorns-avenue-kew-vic-3101-2011903621,,0.6-1-5.3,3,May/2015/1075.0/SOLD
+182,42-denmark-street-kew-vic-3101,1055000,20-Apr-2015,3,1,1,319,m2,House,https://www.domain.com.au/42-denmark-street-kew-vic-3101-2011860637,,0.8-1.7-1.8,3,
+183,59-fellows-street-kew-vic-3101,3110000,21-Mar-2015,3,2,2,-1,None,House,https://www.domain.com.au/59-fellows-street-kew-vic-3101-2011788252,,1-2.6-2.7,3,Apr/2021/4000000.0/SOLD-Mar/2015/600.0/SOLD
+184,16-ross-street-kew-vic-3101,1870000,14-Mar-2015,3,1,1,430,m2,House,https://www.domain.com.au/16-ross-street-kew-vic-3101-2011775736,,0.7-1.4-1.6,3,Jun/2021/4485000.0/SOLD-Mar/2015/1870000.0/SOLD
+185,34-denmark-street-kew-vic-3101,1000000,28-Feb-2015,3,1,1,321,m2,House,https://www.domain.com.au/34-denmark-street-kew-vic-3101-2011744864,,0.9-1.7-1.7,3,Feb/2015/1000000.0/SOLD
+186,1/55-cecil-street-kew-vic-3101,1250000,28-Feb-2015,3,2,2,336,m2,Villa,https://www.domain.com.au/1-55-cecil-street-kew-vic-3101-2011733772,,0.9-1.3-5.8,3,
+187,18-victor-avenue-kew-vic-3101,1750000,28-Feb-2015,3,1,2,638,m2,House,https://www.domain.com.au/18-victor-avenue-kew-vic-3101-2011629279,,0.4-1.1-5.4,3,Feb/2015/1750000.0/SOLD-Aug/1995/345000.0/SOLD
+188,176-eglinton-street-kew-vic-3101,1271000,28-Feb-2015,3,2,1,-1,None,House,https://www.domain.com.au/176-eglinton-street-kew-vic-3101-2011746468,,0.7-1.6-6.1,3,Feb/2015/1271000.0/SOLD-Jun/2006/746000.0/SOLD-Apr/2004/460000.0/SOLD
+189,99-argyle-road-kew-vic-3101,2020000,27-Feb-2015,3,2,2,819,m2,House,https://www.domain.com.au/99-argyle-road-kew-vic-3101-2011774703,,0.5-1-5.3,3,Feb/2015/2020000.0/SOLD-Oct/1994/317500.0/SOLD
+190,37-gladstone-street-kew-vic-3101,1630000,25-Feb-2015,3,2,2,367,m2,House,https://www.domain.com.au/37-gladstone-street-kew-vic-3101-2011722734,,0.7-2-6.4,3,Feb/2015/1630000.0/SOLD-May/2003/399000.0/SOLD-Sep/2001/363500.0/SOLD
+191,153-derby-street-kew-vic-3101,1127000,27-Jan-2015,3,1,2,-1,None,House,https://www.domain.com.au/153-derby-street-kew-vic-3101-2011605703,"Close to schools-""Close to shops""-""Close to transport""-""Garden""-""Floorboards""",0.9-2.1-6.3,3,Dec/2015/2140000.0/SOLD-Jan/2015/1127000.0/SOLD-Mar/2014/1050000.0/SOLD
+192,97-gladstone-street-kew-vic-3101,1325000,20-Dec-2014,3,1,1,-1,None,House,https://www.domain.com.au/97-gladstone-street-kew-vic-3101-2011623239,,0.7-1.8-6.1,3,Dec/2014/1325000.0/SOLD-Nov/2011/750.0/SOLD
+193,147-wellington-street-kew-vic-3101,1755000,11-Dec-2014,3,2,2,-1,None,House,https://www.domain.com.au/147-wellington-street-kew-vic-3101-2011580666,,1.2-1.4-2.3,3,Dec/2014/1755000.0/SOLD-Aug/2008/1215000.0/SOLD-May/2005/790000.0/SOLD
+194,148-eglinton-street-kew-vic-3101,1220000,06-Dec-2014,3,1,1,-1,None,House,https://www.domain.com.au/148-eglinton-street-kew-vic-3101-2011580326,,0.8-1.8-6.2,3,Dec/2014/1220000.0/SOLD
+195,47-campbell-street-kew-vic-3101,2400000,22-Nov-2014,3,1,2,-1,None,House,https://www.domain.com.au/47-campbell-street-kew-vic-3101-2011526299,,0.7-1-5.5,3,Nov/2014/580.0/SOLD
+196,1a-john-street-kew-vic-3101,2700000,15-Nov-2014,3,2,2,-1,None,House,https://www.domain.com.au/1a-john-street-kew-vic-3101-2011503527,,0.9-1.5-1.9,3,Jun/2021/3900000.0/SOLD-Jun/2017/3750000.0/SOLD
+197,54-derby-street-kew-vic-3101,1225000,15-Nov-2014,3,3,1,-1,None,House,https://www.domain.com.au/54-derby-street-kew-vic-3101-2011528343,,0.5-2.2-6.6,3,Nov/2014/800.0/SOLD
+198,4-mountain-grove-kew-vic-3101,2773000,18-Oct-2014,3,2,2,-1,None,House,https://www.domain.com.au/4-mountain-grove-kew-vic-3101-2011452884,,0.6-1.2-1.9,3,Feb/2020/5180000.0/SOLD
+199,55-sackville-street-kew-vic-3101,3100000,18-Oct-2014,3,2,2,-1,None,House,https://www.domain.com.au/55-sackville-street-kew-vic-3101-2011437411,,0.9-1.5-1.8,3,Oct/2014/3100000.0/SOLD-Sep/1984/305000.0/SOLD
+200,11-simpson-street-kew-vic-3101,1680000,18-Oct-2014,3,1,2,-1,None,House,https://www.domain.com.au/11-simpson-street-kew-vic-3101-2011452844,,0.7-1.2-5.7,3,Oct/2014/450.0/SOLD
+201,11-ellesmore-court-kew-vic-3101,1000000,18-Oct-2014,3,2,2,-1,None,House,https://www.domain.com.au/11-ellesmore-court-kew-vic-3101-2011457523,,0.3-2.4-2.6,3,Oct/2014/1000000.0/SOLD-Aug/1994/297000.0/SOLD-Oct/1983/137750.0/SOLD
+202,32-grandview-terrace-kew-vic-3101,1262000,11-Oct-2014,3,1,3,640,m2,House,https://www.domain.com.au/32-grandview-terrace-kew-vic-3101-2011436425,,1.3-2.4-6.3,3,Dec/2017/885.0/SOLD
+203,5a-balmoral-avenue-kew-vic-3101,1685000,23-Sep-2014,3,2,2,-1,None,House,https://www.domain.com.au/5a-balmoral-avenue-kew-vic-3101-2011394598,,0.7-1.2-1.8,3,Sep/2014/1685000.0/SOLD-Oct/2005/1180000.0/SOLD
+204,19b-redmond-street-kew-vic-3101,1875000,22-Sep-2014,3,3,2,-1,None,House,https://www.domain.com.au/19b-redmond-street-kew-vic-3101-2011392090,,1.1-2.7-2.7,3,Nov/2020/2550000.0/SOLD-Mar/2017/2300000.0/SOLD-Sep/2014/1875000.0/SOLD
+205,45-may-street-kew-vic-3101,1400000,20-Sep-2014,3,2,1,-1,None,House,https://www.domain.com.au/45-may-street-kew-vic-3101-2011393477,,1.2-1.3-2.4,3,Sep/2014/1400000.0/SOLD-May/2008/1200000.0/SOLD-Dec/2000/350250.0/SOLD
+206,54-childers-street-kew-vic-3101,1400000,13-Sep-2014,3,1,2,-1,None,House,https://www.domain.com.au/54-childers-street-kew-vic-3101-2011392952,,0.6-1.7-6,3,
+207,7-merrion-grove-kew-vic-3101,1700000,13-Sep-2014,3,2,2,-1,None,House,https://www.domain.com.au/7-merrion-grove-kew-vic-3101-2011377523,,0.8-1.9-2.1,3,Sep/2014/1700000.0/SOLD-Sep/1998/435000.0/SOLD
+208,86-sackville-street-kew-vic-3101,2300000,06-Sep-2014,3,2,2,689,m2,House,https://www.domain.com.au/86-sackville-street-kew-vic-3101-2011233007,,0.8-0.8-1.5,3,Sep/2014/2300000.0/SOLD-Oct/1982/141000.0/SOLD-Apr/1980/125500.0/SOLD
+209,1/124-harp-road-kew-vic-3101,1380000,30-Aug-2014,3,2,2,-1,None,House,https://www.domain.com.au/1-124-harp-road-kew-vic-3101-2011363178,,0.7-0.9-5,3,
+210,62-childers-street-kew-vic-3101,1100000,23-Aug-2014,3,1,2,-1,None,House,https://www.domain.com.au/62-childers-street-kew-vic-3101-2011363151,,0.6-1.7-6,3,Jun/2015/1520000.0/SOLD-Aug/2014/495.0/SOLD
+211,26-tennyson-street-kew-vic-3101,1350000,28-Jun-2014,3,1,1,-1,None,House,https://www.domain.com.au/26-tennyson-street-kew-vic-3101-2011223198,,0.7-2.2-6.5,3,Jun/2014/1350000.0/SOLD-Oct/2002/526000.0/SOLD
+212,19-ridgeway-avenue-kew-vic-3101,1490000,15-May-2014,3,1,3,-1,None,House,https://www.domain.com.au/19-ridgeway-avenue-kew-vic-3101-2011146685,,0.5-1.9-2.3,3,May/2014/1490000.0/SOLD
+213,31-grandview-terrace-kew-vic-3101,1460000,29-Mar-2014,3,1,-1,-1,None,House,https://www.domain.com.au/31-grandview-terrace-kew-vic-3101-2011026046,,1.3-2.5-6.4,3,May/2020/1665000.0/SOLD
+214,1-hillcrest-avenue-kew-vic-3101,1690000,07-Dec-2013,3,1,2,-1,None,House,https://www.domain.com.au/1-hillcrest-avenue-kew-vic-3101-2010815694,,0.8-1.7-2.3,3,Dec/2013/1690000.0/SOLD
+215,9-banool-avenue-kew-vic-3101,1610000,07-Dec-2013,3,2,-1,-1,None,House,https://www.domain.com.au/9-banool-avenue-kew-vic-3101-2010830532,,0.7-2-2.3,3,Dec/2013/1000.0/SOLD
+216,40-denmark-street-kew-vic-3101,820000,30-Nov-2013,3,1,2,-1,None,House,https://www.domain.com.au/40-denmark-street-kew-vic-3101-2010810095,,0.9-1.7-1.8,3,Mar/2018/1330000.0/SOLD-Nov/2013/820000.0/SOLD-Jun/1997/240000.0/SOLD
+217,25-hartington-street-kew-vic-3101,750000,18-Jun-2013,3,1,1,-1,None,House,https://www.domain.com.au/25-hartington-street-kew-vic-3101-2010429862,"Air conditioning-""Built in wardrobes""-""Close to schools""-""Close to shops""-""Close to transport""-""Terrace-Balcony""",0.8-1.9-6.3,3,Jun/2013/750000.0/SOLD-Nov/1995/208000.0/SOLD
+218,38-adeney-avenue-kew-vic-3101,875000,23-Feb-2013,3,1,2,-1,None,House,https://www.domain.com.au/38-adeney-avenue-kew-vic-3101-2010281494,,1-1.6-6.1,3,Jan/2013/875000.0/SOLD-Jul/1997/290500.0/SOLD-Dec/1996/205000.0/SOLD
+219,70-stevenson-street-kew-vic-3101,1280000,12-Dec-2012,3,2,2,-1,None,House,https://www.domain.com.au/70-stevenson-street-kew-vic-3101-2010135286,"Air conditioning-""Built in wardrobes""-""Close to schools""-""Close to shops""-""Close to transport""-""Formal Lounge""-""Garden""-""Secure Parking""-""Separate Dining""",1.2-1.6-1.8,3,Dec/2012/1280000.0/SOLD-Sep/2001/675000.0/SOLD-Sep/1994/410100.0/SOLD
+220,45-childers-street-kew-vic-3101,1100000,16-Apr-2011,3,1,2,-1,None,House,https://www.domain.com.au/45-childers-street-kew-vic-3101-2008897429,,0.7-1.8-6.1,3,Apr/2011/1100000.0/SOLD
+221,38-hartington-street-kew-vic-3101,901000,16-Oct-2010,3,1,-1,-1,None,House,https://www.domain.com.au/38-hartington-street-kew-vic-3101-2008583455,,0.6-1.7-6.1,3,Oct/2010/901000.0/SOLD
+222,85-cobden-street-kew-vic-3101,970000,09-Oct-2010,3,2,1,284,m2,House,https://www.domain.com.au/85-cobden-street-kew-vic-3101-2008569232,,0.5-2.3-6.6,3,Feb/2021/1666000.0/SOLD-Sep/2014/1190000.0/SOLD-Oct/2010/970000.0/SOLD
+223,15-heather-grove-kew-vic-3101,1405000,18-Sep-2010,3,1,1,605,m2,House,https://www.domain.com.au/15-heather-grove-kew-vic-3101-2008534789,,0.3-1.3-5.4,3,Sep/2010/1405000.0/SOLD-May/1996/261000.0/SOLD
+224,101-normanby-road-kew-vic-3101,1650000,04-Sep-2010,3,2,2,-1,None,House,https://www.domain.com.au/101-normanby-road-kew-vic-3101-2008515011,,0.8-1-5.5,3,Sep/2010/1650000.0/SOLD
+225,24-college-parade-kew-vic-3101,1236000,02-Sep-2010,3,3,2,-1,None,House,https://www.domain.com.au/24-college-parade-kew-vic-3101-2008560006,,0.9-1.2-2.2,3,Oct/2010/550.0/SOLD
+226,31-rowland-street-kew-vic-3101,1245000,28-Aug-2010,3,1,-1,-1,None,House,https://www.domain.com.au/31-rowland-street-kew-vic-3101-2008488433,,0.8-1.7-1.8,3,Jan/2020/1835000.0/SOLD
+227,17-james-avenue-kew-vic-3101,915000,26-Jun-2010,3,2,1,-1,None,House,https://www.domain.com.au/17-james-avenue-kew-vic-3101-2008407583,,0.6-2.2-6.6,3,Jun/2010/915000.0/SOLD-Apr/2004/605000.0/SOLD-Mar/2000/440000.0/SOLD
+228,21-dean-street-kew-vic-3101,1850000,15-Jun-2010,3,2,2,620,m2,House,https://www.domain.com.au/21-dean-street-kew-vic-3101-2008357673,,0.8-1.2-1.7,3,Mar/2018/1260.0/SOLD-Jun/2010/2810000.0/SOLD
+229,1-view-point-kew-vic-3101,955000,05-Jun-2010,3,2,2,385,m2,House,https://www.domain.com.au/1-view-point-kew-vic-3101-2008355259,,1.2-2.2-6.2,3,Jun/2014/1205000.0/SOLD-Jun/2010/955000.0/SOLD-Jun/1996/260000.0/SOLD
+230,180-princess-street-kew-vic-3101,1115000,29-May-2010,3,1,2,-1,None,House,https://www.domain.com.au/180-princess-street-kew-vic-3101-2008352858,,1.1-2.7-6.6,3,Nov/2019/1770000.0/SOLD-May/2010/1115000.0/SOLD-Apr/1988/148500.0/SOLD
+231,3/10-hyton-crescent-kew-vic-3101,1550000,26-May-2010,3,2,2,400,m2,House,https://www.domain.com.au/3-10-hyton-crescent-kew-vic-3101-2008212770,,1.2-1.7-1.7,3,
+232,2-highfield-grove-kew-vic-3101,1280000,22-May-2010,3,2,2,-1,None,House,https://www.domain.com.au/2-highfield-grove-kew-vic-3101-2008341811,,0.7-1.9-2,3,May/2010/1280000.0/SOLD-May/1997/150000.0/SOLD-Nov/1991/370000.0/SOLD
+233,28-parkhill-road-kew-vic-3101,940000,08-May-2010,3,1,1,-1,None,House,https://www.domain.com.au/28-parkhill-road-kew-vic-3101-2008316615,,0.7-2.1-2.1,3,Apr/2019/1180000.0/SOLD
+234,96-normanby-road-kew-vic-3101,1410000,12-Dec-2009,3,2,2,-1,None,House,https://www.domain.com.au/96-normanby-road-kew-vic-3101-2008102705,,0.8-1.1-5.5,3,
+235,21-kent-street-kew-vic-3101,880000,01-Dec-2009,3,2,1,-1,None,House,https://www.domain.com.au/21-kent-street-kew-vic-3101-2008078301,,0.6-1.9-2.3,3,Dec/2009/880000.0/SOLD
+236,47-brougham-street-kew-vic-3101,1140000,28-Nov-2009,3,2,2,-1,None,House,https://www.domain.com.au/47-brougham-street-kew-vic-3101-2008067897,,0.3-2.2-2.4,3,Feb/2017/1668000.0/SOLD-Nov/2009/760.0/SOLD
+237,121-brougham-street-kew-vic-3101,845000,07-Nov-2009,3,1,1,-1,None,House,https://www.domain.com.au/121-brougham-street-kew-vic-3101-2008035562,Secure Parking,0.5-2.7-2.8,3,Jun/2021/2440000.0/SOLD-Jun/2012/1270000.0/SOLD-Jun/2010/845000.0/SOLD
+238,7-kellett-grove-kew-vic-3101,954000,31-Oct-2009,3,1,1,-1,None,House,https://www.domain.com.au/7-kellett-grove-kew-vic-3101-2008024563,Secure Parking,1.1-2.1-5.9,3,Oct/2009/550.0/SOLD
+239,12-hume-street-kew-vic-3101,851000,09-Jul-2009,3,2,2,-1,None,House,https://www.domain.com.au/12-hume-street-kew-vic-3101-2007836302,Secure Parking,1.2-2-2,3,Jul/2009/851000.0/SOLD-Jan/2008/735000.0/SOLD
+240,29a-first-avenue-kew-vic-3101,670000,19-Jan-2009,3,1,1,-1,None,Semi-detached,https://www.domain.com.au/29a-first-avenue-kew-vic-3101-2007392183,Secure Parking,0.8-0.8-5.1,3,
+241,4-duke-street-kew-vic-3101,800000,24-Dec-2008,3,2,2,-1,None,House,https://www.domain.com.au/4-duke-street-kew-vic-3101-2007464354,,1-2.4-6.4,3,Oct/2013/1250000.0/SOLD-Dec/2008/800000.0/SOLD-Jun/2000/475000.0/SOLD
+242,32-eglinton-street-kew-vic-3101,820000,18-Dec-2008,3,1,3,-1,None,House,https://www.domain.com.au/32-eglinton-street-kew-vic-3101-2007515119,,0.5-2.5-2.7,3,Apr/2013/1298800.0/SOLD
+243,18-hodgson-street-kew-vic-3101,1381000,29-Nov-2008,3,2,2,-1,None,House,https://www.domain.com.au/18-hodgson-street-kew-vic-3101-2007462326,Secure Parking,1-1.5-1.5,3,Nov/2008/1600000.0/SOLD
+244,52-peel-street-kew-vic-3101,910000,09-Aug-2008,3,1,1,-1,None,House,https://www.domain.com.au/52-peel-street-kew-vic-3101-2007258692,Secure Parking,0.2-2.4-2.6,3,Aug/2008/460.0/SOLD
+245,141-willsmere-road-kew-vic-3101,900000,06-Aug-2008,3,2,2,-1,None,House,https://www.domain.com.au/141-willsmere-road-kew-vic-3101-2007234525,,1-2-6,3,Jul/2008/695.0/SOLD
+246,78-peel-street-kew-vic-3101,945000,15-Mar-2008,3,1,1,-1,None,House,https://www.domain.com.au/78-peel-street-kew-vic-3101-2006968091,,0.4-2.5-2.6,3,Mar/2008/945000.0/SOLD-May/1999/336500.0/SOLD
+247,49-mount-street-kew-vic-3101,1300000,16-Nov-2007,3,2,2,-1,None,House,https://www.domain.com.au/49-mount-street-kew-vic-3101-2006780752,Secure Parking,0.6-1.3-1.8,3,Feb/2008/1210000.0/SOLD
+248,132-eglinton-street-kew-vic-3101,870000,27-Sep-2007,3,3,2,-1,None,House,https://www.domain.com.au/132-eglinton-street-kew-vic-3101-2006664939,,0.8-1.9-6.3,3,Sep/2007/870000.0/SOLD-Mar/2002/580000.0/SOLD
+249,49-mount-street-kew-vic-3101,1308000,04-Jul-2007,3,2,2,-1,None,House,https://www.domain.com.au/49-mount-street-kew-vic-3101-2006401817,Secure Parking,0.6-1.3-1.8,3,Feb/2008/1210000.0/SOLD
+250,7-kellett-grove-kew-vic-3101,790000,05-May-2007,3,1,1,-1,None,House,https://www.domain.com.au/7-kellett-grove-kew-vic-3101-2006361933,Secure Parking,1-2-5.9,3,Oct/2009/550.0/SOLD
+251,2/168-brougham-street-kew-vic-3101,475000,24-Jul-2006,3,2,-1,-1,None,House,https://www.domain.com.au/2-168-brougham-street-kew-vic-3101-2005838823,,0.8-2.6-6.8,3,
+252,56a-gladstone-street-kew-vic-3101,681000,23-Jun-2006,3,2,-1,-1,None,House,https://www.domain.com.au/56a-gladstone-street-kew-vic-3101-2005682138,,0.8-1.9-6.3,3,Apr/2011/1270000.0/SOLD-Dec/2007/1125000.0/SOLD-Jun/2006/681000.0/SOLD
+253,214-wiltshire-drive-kew-vic-3101,408000,18-Feb-2006,3,2,2,-1,None,House,https://www.domain.com.au/214-wiltshire-drive-kew-vic-3101-2005403345,Undercover Parking,1.7-3-7.2,3,Feb/2006/470.0/SOLD
+254,246-wiltshire-drive-kew-vic-3101,383500,30-Jan-2006,3,1,2,-1,None,House,https://www.domain.com.au/246-wiltshire-drive-kew-vic-3101-2005351953,Undercover Parking,1.7-3-7.2,3,Jan/2006/383500.0/SOLD-Oct/1999/155000.0/SOLD
+255,1c-molesworth-street-kew-vic-3101,1035000,01-Dec-2005,3,2,2,-1,None,House,https://www.domain.com.au/1c-molesworth-street-kew-vic-3101-2005198139,Secure Parking,0.5-2.6-2.7,3,Jan/2021/2500000.0/SOLD-Nov/2005/550.0/SOLD
+256,60-normanby-road-kew-vic-3101,800000,26-Nov-2005,3,1,-1,-1,None,House,https://www.domain.com.au/60-normanby-road-kew-vic-3101-2005225156,,0.7-1.3-5.7,3,Nov/2005/800000.0/SOLD
+257,215-wiltshire-drive-kew-vic-3101,390000,25-Sep-2005,3,2,2,-1,None,House,https://www.domain.com.au/215-wiltshire-drive-kew-vic-3101-2005137110,,1.7-3-7.2,3,Jul/2013/557000.0/SOLD-Sep/2005/390000.0/SOLD
+258,34-belmont-avenue-kew-vic-3101,587200,06-Apr-2005,3,1,1,-1,None,House,https://www.domain.com.au/34-belmont-avenue-kew-vic-3101-2004805796,,0.9-2-2,3,Apr/2005/587200.0/SOLD

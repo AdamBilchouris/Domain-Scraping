@@ -1,0 +1,15 @@
+,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+0,35-lygon-lane-carlton-vic-3053,595000,13-Apr-2019,1,1,-1,-1,None,House,https://www.domain.com.au/35-lygon-lane-carlton-vic-3053-2015027454,,0.4-1-0.8,3,Apr/2019/595000.0/SOLD-May/2013/466000.0/SOLD-Feb/2008/360000.0/SOLD
+1,816/800-swanston-street-carlton-vic-3053,250000,23-Oct-2018,1,1,-1,-1,None,House,https://www.domain.com.au/816-800-swanston-street-carlton-vic-3053-2014658523,,0.4-0.8-1,3,
+2,51-macarthur-place-south-carlton-vic-3053,900000,14-May-2018,1,1,-1,-1,None,House,https://www.domain.com.au/51-macarthur-place-south-carlton-vic-3053-2014305725,,0.3-1.4-0.6,3,May/2018/900000.0/SOLD
+3,164-canning-street-carlton-vic-3053,1252000,17-Feb-2018,1,1,1,-1,None,House,https://www.domain.com.au/164-canning-street-carlton-vic-3053-2014118522,,0.4-1.4-0.4,3,Feb/2018/470.0/SOLD
+4,18-macarthur-place-north-carlton-vic-3053,1465000,07-Aug-2017,1,1,-1,-1,None,House,https://www.domain.com.au/18-macarthur-place-north-carlton-vic-3053-2013730143,,0.3-1.5-0.7,3,Aug/2017/1465000.0/SOLD-Dec/2015/1117000.0/SOLD
+5,93-kay-street-carlton-vic-3053,700000,23-Nov-2015,1,1,-1,-1,None,House,https://www.domain.com.au/93-kay-street-carlton-vic-3053-2012354578,,0.3-1.4-0.6,3,Nov/2015/370.0/SOLD-Feb/2014/700000.0/SOLD
+6,23-owen-street-carlton-vic-3053,900000,16-May-2015,1,1,-1,-1,None,House,https://www.domain.com.au/23-owen-street-carlton-vic-3053-2011921778,,0.4-1.5-1.6,3,May/2015/900000.0/SOLD-Aug/2004/401000.0/SOLD
+7,93-kay-street-carlton-vic-3053,700000,28-Feb-2014,1,1,-1,-1,None,House,https://www.domain.com.au/93-kay-street-carlton-vic-3053-2010973130,,0.3-1.4-0.6,3,Nov/2015/370.0/SOLD-Feb/2014/700000.0/SOLD
+8,415/22-orr-street-carlton-vic-3053,172800,25-Jul-2012,1,1,-1,-1,None,House,https://www.domain.com.au/415-22-orr-street-carlton-vic-3053-2008912927,,0.6-1.3-0.7,3,
+9,57/121-rathdowne-street-carlton-vic-3053,400000,28-Apr-2012,1,1,1,-1,None,House,https://www.domain.com.au/57-121-rathdowne-street-carlton-vic-3053-2009607447,,0.2-1.4-0.4,3,
+10,28-rathdowne-street-carlton-vic-3053,595000,23-Sep-2011,1,1,-1,-1,None,House,https://www.domain.com.au/28-rathdowne-street-carlton-vic-3053-2009165324,,0.3-1.3-0.6,3,Sep/2011/720.0/SOLD
+11,816/800-swanston-street-carlton-vic-3053,280000,25-Jan-2011,1,1,-1,-1,None,House,https://www.domain.com.au/816-800-swanston-street-carlton-vic-3053-2008559991,,0.4-0.8-1.1,3,
+12,1508/570-lygon-street-carlton-vic-3053,210000,04-Dec-2010,1,1,-1,-1,None,House,https://www.domain.com.au/1508-570-lygon-street-carlton-vic-3053-2008594869,,0.3-1.2-0.6,3,
+13,1306/570-lygon-street-carlton-vic-3053,212000,15-Jun-2009,1,1,1,-1,None,House,https://www.domain.com.au/1306-570-lygon-street-carlton-vic-3053-2007782321,,0.3-1.1-0.6,3,

@@ -1,0 +1,207 @@
+,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+0,204/254-hampshire-road-sunshine-vic-3020,570000,22-Nov-2021,2,2,1,-1,None,House,https://www.domain.com.au/204-254-hampshire-road-sunshine-vic-3020-2017439519,,0.6-2.7-3.7,3,
+1,42-ardoyne-street-sunshine-vic-3020,431000,31-Oct-2021,2,1,1,292,m2,House,https://www.domain.com.au/42-ardoyne-street-sunshine-vic-3020-2017196575,,0.8-0.9-4,3,Oct/2021/431000.0/SOLD-Aug/1991/74000.0/SOLD
+2,4a-roselea-court-sunshine-vic-3020,647000,30-Oct-2021,2,1,1,-1,None,House,https://www.domain.com.au/4a-roselea-court-sunshine-vic-3020-2017133053,"Air conditioning-""Heating""-""Built in wardrobes""-""Close to transport""-""Close to shops""-""Close to schools""-""Study""",0.8-2.1-3.2,3,Oct/2021/647000.0/SOLD
+3,52-ardoyne-street-sunshine-vic-3020,870000,23-Oct-2021,2,1,1,570,m2,House,https://www.domain.com.au/52-ardoyne-street-sunshine-vic-3020-2017276848,Secure Parking*,0.7-0.8-3.9,3,Oct/2021/870000.0/SOLD-Jul/2015/471000.0/SOLD
+4,312/254-hampshire-road-sunshine-vic-3020,570000,23-Sep-2021,2,2,1,-1,None,House,https://www.domain.com.au/312-254-hampshire-road-sunshine-vic-3020-2017277810,,0.6-2.7-3.7,3,
+5,153-cornwall-road-sunshine-vic-3020,915000,18-Jul-2021,2,1,1,510,m2,House,https://www.domain.com.au/153-cornwall-road-sunshine-vic-3020-2017079798,,0.5-0.5-1.2,3,Jul/2021/915000.0/SOLD-Mar/2015/330.0/SOLD
+6,52-couch-street-sunshine-vic-3020,740000,29-May-2021,2,1,-1,427,m2,House,https://www.domain.com.au/52-couch-street-sunshine-vic-3020-2016968036,"Internal Laundry*-""Heating*""-""Garden*""",0.5-0.5-3.7,3,May/2021/740000.0/SOLD-Sep/2012/315.0/SOLD
+7,8-gertrude-street-sunshine-vic-3020,1100000,16-May-2021,2,1,1,-1,None,House,https://www.domain.com.au/8-gertrude-street-sunshine-vic-3020-2016953468,,0.7-1.2-3,3,May/2021/1100000.0/SOLD-Jan/1993/320.0/SOLD
+8,6-mcgrath-street-sunshine-vic-3020,785000,08-May-2021,2,1,-1,-1,None,House,https://www.domain.com.au/6-mcgrath-street-sunshine-vic-3020-2016920092,"Air conditioning*-""Built in wardrobes*""-""Heating*""-""Garden*""",0.5-1.1-1.4,3,May/2021/785000.0/SOLD
+9,9-neil-street-sunshine-vic-3020,1360000,01-May-2021,2,1,3,600,m2,House,https://www.domain.com.au/9-neil-street-sunshine-vic-3020-2016909296,,0.9-2.4-3.5,3,May/2021/300.0/SOLD
+10,2-yewers-street-sunshine-vic-3020,538000,24-Apr-2021,2,1,-1,-1,None,House,https://www.domain.com.au/2-yewers-street-sunshine-vic-3020-2016898815,"Internal Laundry*-""Garden*""-""Floorboards""",0.5-1.1-1.4,3,Apr/2021/538000.0/SOLD
+11,9-stonemark-street-sunshine-vic-3020,839000,19-Apr-2021,2,1,3,515,m2,House,https://www.domain.com.au/9-stonemark-street-sunshine-vic-3020-2016880043,,0.8-2.2-3.4,3,Apr/2021/839000.0/SOLD
+12,37-boreham-street-sunshine-vic-3020,685000,12-Apr-2021,2,1,4,561,m2,House,https://www.domain.com.au/37-boreham-street-sunshine-vic-3020-2016872712,,1-4.2-4.8,3,Apr/2021/685000.0/SOLD
+13,16-wilkinson-road-sunshine-vic-3020,750000,02-Mar-2021,2,1,-1,527,m2,House,https://www.domain.com.au/16-wilkinson-road-sunshine-vic-3020-2016772794,,0.6-1-2.7,3,Feb/2021/750000.0/SOLD-Aug/1986/49000.0/SOLD
+14,11-mellor-street-sunshine-vic-3020,830000,20-Feb-2021,2,2,1,527,m2,House,https://www.domain.com.au/11-mellor-street-sunshine-vic-3020-2016745887,Air conditioning,0.8-2.3-3.4,3,Feb/2021/830000.0/SOLD
+15,8-stonemark-street-sunshine-vic-3020,637000,09-Feb-2021,2,1,2,321,m2,House,https://www.domain.com.au/8-stonemark-street-sunshine-vic-3020-2016621676,,0.7-2.3-3.4,3,Jan/2021/637000.0/SOLD-Jan/2001/156500.0/SOLD
+16,29-alice-street-sunshine-vic-3020,615000,21-Dec-2020,2,2,1,330,m2,House,https://www.domain.com.au/29-alice-street-sunshine-vic-3020-2016288843,,0.2-0.7-1.1,3,Dec/2020/615000.0/SOLD-Feb/2017/1050000.0/SOLD
+17,16-nixon-street-sunshine-vic-3020,650000,23-Oct-2020,2,1,1,-1,None,House,https://www.domain.com.au/16-nixon-street-sunshine-vic-3020-2016527855,"Air conditioning*-""Secure Parking*""-""Heating*""-""Shed*""-""Garden*""",0.5-1.2-1.4,3,Oct/2020/650000.0/SOLD
+18,31-dunbar-avenue-sunshine-vic-3020,585500,22-Jul-2020,2,1,-1,517,m2,House,https://www.domain.com.au/31-dunbar-avenue-sunshine-vic-3020-2016320267,,0.9-0.9-4.1,3,Jul/2020/585500.0/SOLD
+19,1/19-hertford-road-sunshine-vic-3020,640000,11-May-2020,2,1,2,-1,None,House,https://www.domain.com.au/1-19-hertford-road-sunshine-vic-3020-2016103868,,1-2.3-3.3,3,
+20,75-dickson-street-sunshine-vic-3020,1020000,02-Mar-2020,2,1,2,743,m2,House,https://www.domain.com.au/75-dickson-street-sunshine-vic-3020-2016042749,,0.6-1.4-3,3,Feb/2020/1020000.0/SOLD-Nov/1995/100.0/SOLD
+21,4-jessie-street-sunshine-vic-3020,750000,22-Feb-2020,2,1,1,-1,None,House,https://www.domain.com.au/4-jessie-street-sunshine-vic-3020-2016019604,,0.9-1.5-3.5,3,Feb/2020/750000.0/SOLD
+22,7-lorenz-street-sunshine-vic-3020,660000,06-Nov-2019,2,1,-1,-1,None,House,https://www.domain.com.au/7-lorenz-street-sunshine-vic-3020-2015775086,,0.6-0.8-2.4,3,Oct/2019/370.0/SOLD
+23,18-cornwall-road-sunshine-vic-3020,915000,28-Oct-2019,2,1,3,631,m2,House,https://www.domain.com.au/18-cornwall-road-sunshine-vic-3020-2015681975,,0.8-1.7-3.6,3,Oct/2019/915000.0/SOLD-Feb/1995/103000.0/SOLD
+24,2a-mellor-street-sunshine-vic-3020,591000,21-Oct-2019,2,1,3,298,m2,House,https://www.domain.com.au/2a-mellor-street-sunshine-vic-3020-2015653988,,0.8-2.4-3.5,3,Oct/2019/591000.0/SOLD
+25,24-neil-street-sunshine-vic-3020,1030000,23-Sep-2019,2,1,1,497,m2,House,https://www.domain.com.au/24-neil-street-sunshine-vic-3020-2015537299,,0.9-2.4-3.5,3,Sep/2019/1030000.0/SOLD
+26,17-farnsworth-street-sunshine-vic-3020,665000,14-Sep-2019,2,1,2,-1,None,House,https://www.domain.com.au/17-farnsworth-street-sunshine-vic-3020-2015518350,,0.8-2.1-3.3,3,Sep/2019/665000.0/SOLD
+27,68-wright-street-sunshine-vic-3020,500000,06-Aug-2019,2,1,-1,464,m2,House,https://www.domain.com.au/68-wright-street-sunshine-vic-3020-2015299265,"Secure Parking-""Built in wardrobes""-""Floorboards""-""Split System AirCon""-""Split System Heating""",0.6-0.8-3.9,3,Aug/2019/500000.0/SOLD
+28,10-ernest-street-sunshine-vic-3020,620000,06-Jul-2019,2,1,1,517,m2,House,https://www.domain.com.au/10-ernest-street-sunshine-vic-3020-2015333643,,0.3-0.5-1,3,Jul/2019/620000.0/SOLD
+29,97-wright-street-sunshine-vic-3020,505000,31-May-2019,2,1,2,562,m2,House,https://www.domain.com.au/97-wright-street-sunshine-vic-3020-2014813240,"Built in wardrobes-""Floorboards""-""Carport""-""Fully fenced""-""Open car spaces""",0.6-0.6-3.8,3,Apr/2019/505000.0/SOLD-May/1994/62500.0/SOLD
+30,11-chapman-street-sunshine-vic-3020,685000,13-Apr-2019,2,1,1,538,m2,House,https://www.domain.com.au/11-chapman-street-sunshine-vic-3020-2015016842,,0.5-0.6-3.7,3,Apr/2019/685000.0/SOLD-Nov/2003/215000.0/SOLD-Nov/1992/72500.0/SOLD
+31,2-martin-street-sunshine-vic-3020,595000,02-Mar-2019,2,1,2,-1,None,House,https://www.domain.com.au/2-martin-street-sunshine-vic-3020-2014900342,,0.4-1.6-3.1,3,Mar/2019/400.0/SOLD
+32,166-morris-street-sunshine-vic-3020,565000,13-Dec-2018,2,1,1,-1,None,House,https://www.domain.com.au/166-morris-street-sunshine-vic-3020-2014799183,,0.2-0.3-3.4,3,
+33,41-benjamin-street-sunshine-vic-3020,670000,01-Dec-2018,2,1,1,-1,None,House,https://www.domain.com.au/41-benjamin-street-sunshine-vic-3020-2014756837,"Built in wardrobes-""Close to schools""-""Close to shops""-""Close to transport""-""Study""",0.3-0.5-3.6,3,Dec/2018/670000.0/SOLD-Sep/2009/356000.0/SOLD
+34,101-fraser-street-sunshine-vic-3020,578000,10-Nov-2018,2,1,1,583,m2,House,https://www.domain.com.au/101-fraser-street-sunshine-vic-3020-2014693250,,0.8-1.1-2.8,3,
+35,5-anderson-road-sunshine-vic-3020,513500,08-Oct-2018,2,1,-1,-1,None,House,https://www.domain.com.au/5-anderson-road-sunshine-vic-3020-2014627267,"Air conditioning-""Heating""-""Built in wardrobes""-""Close to schools""-""Close to shops""-""Close to transport""",0.5-0.6-3.7,3,Oct/2018/513500.0/SOLD-May/2009/262000.0/SOLD-May/2007/245000.0/SOLD
+36,16a-baker-street-sunshine-vic-3020,502000,06-Oct-2018,2,1,1,-1,None,House,https://www.domain.com.au/16a-baker-street-sunshine-vic-3020-2014621477,,0.4-1-1.3,3,Oct/2018/502000.0/SOLD-Jan/2015/375000.0/SOLD-Jun/2010/320000.0/SOLD
+37,26-benjamin-street-sunshine-vic-3020,780000,09-Jul-2018,2,1,2,-1,None,House,https://www.domain.com.au/26-benjamin-street-sunshine-vic-3020-2014447222,,0.3-0.5-3.6,3,Jul/2018/780000.0/SOLD-Sep/2015/601000.0/SOLD-Dec/2005/276000.0/SOLD
+38,50-matthews-street-sunshine-vic-3020,670000,23-Jun-2018,2,1,1,-1,None,House,https://www.domain.com.au/50-matthews-street-sunshine-vic-3020-2014402579,,0.8-1.8-3.7,3,Jun/2018/410.0/SOLD
+39,7-yewers-street-sunshine-vic-3020,490000,11-Jun-2018,2,1,1,280,m2,House,https://www.domain.com.au/7-yewers-street-sunshine-vic-3020-2014369542,,0.5-1.1-1.4,3,Jun/2018/490000.0/SOLD-Sep/2011/250.0/SOLD
+40,1/6-farnsworth-street-sunshine-vic-3020,585000,26-Mar-2018,2,1,1,-1,None,House,https://www.domain.com.au/1-6-farnsworth-street-sunshine-vic-3020-2014211874,,0.8-2.2-3.4,3,
+41,8-hampshire-road-sunshine-vic-3020,690000,24-Mar-2018,2,1,3,-1,None,House,https://www.domain.com.au/8-hampshire-road-sunshine-vic-3020-2014210464,,0.5-0.6-3.8,3,Mar/2018/690000.0/SOLD-Aug/1986/55000.0/SOLD
+42,1/5-walter-street-sunshine-vic-3020,627000,24-Mar-2018,2,1,1,-1,None,House,https://www.domain.com.au/1-5-walter-street-sunshine-vic-3020-2014209766,,1.1-1.7-3.8,3,
+43,12/136-wright-street-sunshine-vic-3020,325000,19-Mar-2018,2,1,1,-1,None,House,https://www.domain.com.au/12-136-wright-street-sunshine-vic-3020-2014191496,,0.5-0.6-3.7,3,
+44,2-farnsworth-street-sunshine-vic-3020,940000,13-Feb-2018,2,1,2,577,m2,House,https://www.domain.com.au/2-farnsworth-street-sunshine-vic-3020-2013946668,,0.8-2.3-3.4,3,May/2020/720000.0/SOLD-Jan/2018/940000.0/SOLD
+45,30-high-street-sunshine-vic-3020,760000,09-Dec-2017,2,1,1,510,m2,House,https://www.domain.com.au/30-high-street-sunshine-vic-3020-2014000429,,0.6-1.2-1.5,3,Dec/2017/760000.0/SOLD
+46,35-dunbar-avenue-sunshine-vic-3020,730000,25-Nov-2017,2,1,-1,-1,None,House,https://www.domain.com.au/35-dunbar-avenue-sunshine-vic-3020-2013956469,,0.9-1-4.1,3,Nov/2017/730000.0/SOLD-Sep/2016/550000.0/SOLD
+47,92-cornwall-road-sunshine-vic-3020,785000,18-Nov-2017,2,1,2,-1,None,House,https://www.domain.com.au/92-cornwall-road-sunshine-vic-3020-2013957695,,0.4-0.9-1.3,3,Nov/2017/290.0/SOLD
+48,64/639-ballarat-road-sunshine-vic-3020,280000,17-Oct-2017,2,1,1,-1,None,Retirement Living,https://www.domain.com.au/64-639-ballarat-road-sunshine-vic-3020-2016621809,,0.9-2.3-2.3,3,
+49,36-chapman-street-sunshine-vic-3020,705000,09-Oct-2017,2,1,1,444,m2,House,https://www.domain.com.au/36-chapman-street-sunshine-vic-3020-2013845919,"Close to schools-""Close to shops""-""Close to transport""-""Garden""-""Secure Parking""",0.4-0.5-3.7,3,Oct/2017/705000.0/SOLD
+50,2-cobrey-street-sunshine-vic-3020,537500,09-Sep-2017,2,1,-1,-1,None,House,https://www.domain.com.au/2-cobrey-street-sunshine-vic-3020-2013773747,,0.7-1.3-1.5,3,Sep/2017/537500.0/SOLD
+51,74-hertford-road-sunshine-vic-3020,965000,26-Aug-2017,2,1,1,755,m2,House,https://www.domain.com.au/74-hertford-road-sunshine-vic-3020-2013744464,,0.5-0.8-2.6,3,Aug/2017/965000.0/SOLD-Nov/1989/40000.0/SOLD
+52,64-ardoyne-street-sunshine-vic-3020,690000,14-Aug-2017,2,1,1,612,m2,House,https://www.domain.com.au/64-ardoyne-street-sunshine-vic-3020-2013719017,,0.6-0.7-3.8,3,Aug/2017/690000.0/SOLD
+53,64-ardoyne-street-sunshine-vic-3020,690000,12-Aug-2017,2,1,1,612,m2,House,https://www.domain.com.au/64-ardoyne-street-sunshine-vic-3020-2015984387,,0.6-0.7-3.8,3,Aug/2017/690000.0/SOLD
+54,80-wright-street-sunshine-vic-3020,615000,08-Aug-2017,2,1,-1,-1,None,House,https://www.domain.com.au/80-wright-street-sunshine-vic-3020-2013716440,,0.6-0.7-3.9,3,Aug/2017/615000.0/SOLD-Oct/2013/320000.0/SOLD
+55,362-hampshire-crescent-sunshine-vic-3020,1505000,24-Jun-2017,2,1,1,697,m2,House,https://www.domain.com.au/362-hampshire-crescent-sunshine-vic-3020-2013613773,,0.8-2-3.1,3,Jun/2017/1505000.0/SOLD
+56,54/79-wright-street-sunshine-vic-3020,500000,08-Jun-2017,2,2,1,-1,None,House,https://www.domain.com.au/54-79-wright-street-sunshine-vic-3020-2013642955,"Courtyard-""Fully fenced""-""Remote Garage""-""Split-System Air Conditioning""-""Split-System Heating""",0.7-0.7-4,3,
+57,47-anderson-road-sunshine-vic-3020,551000,18-Mar-2017,2,1,2,613,m2,House,https://www.domain.com.au/47-anderson-road-sunshine-vic-3020-2013394956,,0.2-0.4-3.4,3,Mar/2017/551000.0/SOLD
+58,1-markstone-court-sunshine-vic-3020,710000,04-Mar-2017,2,1,2,-1,None,House,https://www.domain.com.au/1-markstone-court-sunshine-vic-3020-2013364889,,0.7-2.3-3.4,3,Mar/2017/340.0/SOLD
+59,2a-ritchie-court-sunshine-vic-3020,490000,04-Mar-2017,2,1,1,-1,None,House,https://www.domain.com.au/2a-ritchie-court-sunshine-vic-3020-2013365580,"Air conditioning-""Heating""-""Close to schools""-""Close to shops""-""Close to transport""-""Study""",0.5-1.6-3,3,Mar/2017/490000.0/SOLD
+60,26-union-street-sunshine-vic-3020,655002,11-Feb-2017,2,1,1,487,m2,House,https://www.domain.com.au/26-union-street-sunshine-vic-3020-2013284988,,0.7-1.3-1.5,3,Feb/2017/655002.0/SOLD-May/2012/380000.0/SOLD
+61,12-victoria-street-sunshine-vic-3020,820000,03-Feb-2017,2,2,1,487,m2,House,https://www.domain.com.au/12-victoria-street-sunshine-vic-3020-2013300094,,0.5-1.7-3.3,3,
+62,20-tribe-street-sunshine-vic-3020,500000,05-Dec-2016,2,1,2,346,m2,House,https://www.domain.com.au/20-tribe-street-sunshine-vic-3020-2013166072,,0.4-0.5-1.1,3,Jan/2018/700000.0/SOLD-Dec/2016/497000.0/SOLD
+63,18-alice-street-sunshine-vic-3020,755000,26-Nov-2016,2,1,2,530,m2,House,https://www.domain.com.au/18-alice-street-sunshine-vic-3020-2013147526,Alarm,0.2-0.8-1.1,3,Nov/2016/755000.0/SOLD-Oct/2011/443000.0/SOLD-Oct/2008/356000.0/SOLD
+64,11-taunton-street-sunshine-vic-3020,702000,24-Nov-2016,2,1,-1,611,m2,House,https://www.domain.com.au/11-taunton-street-sunshine-vic-3020-2013155159,,0.5-0.8-2.7,3,Nov/2016/350.0/SOLD-Feb/1998/702000.0/SOLD
+65,59-hertford-road-sunshine-vic-3020,825000,15-Oct-2016,2,1,3,580,m2,House,https://www.domain.com.au/59-hertford-road-sunshine-vic-3020-2013055073,,0.6-0.8-2.5,3,Oct/2016/825000.0/SOLD
+66,35-dunbar-avenue-sunshine-vic-3020,550000,17-Sep-2016,2,1,-1,-1,None,House,https://www.domain.com.au/35-dunbar-avenue-sunshine-vic-3020-2012994009,,0.9-1-4.1,3,Nov/2017/730000.0/SOLD-Sep/2016/550000.0/SOLD
+67,2/6-farnsworth-street-sunshine-vic-3020,435000,12-Aug-2016,2,1,1,-1,None,House,https://www.domain.com.au/2-6-farnsworth-street-sunshine-vic-3020-2012900406,,0.8-2.2-3.4,3,
+68,3-barclay-street-(albion)-sunshine-vic-3020,460000,30-Jul-2016,2,1,2,-1,None,House,https://www.domain.com.au/3-barclay-street-albion-sunshine-vic-3020-2012898764,,0.5-1.1-2.2,3,
+69,82-hertford-road-sunshine-vic-3020,688000,17-Jul-2016,2,1,1,611,m2,House,https://www.domain.com.au/82-hertford-road-sunshine-vic-3020-2012874789,,0.4-0.7-2.6,3,Jul/2016/320.0/SOLD
+70,25-benjamin-street-sunshine-vic-3020,573000,16-Jul-2016,2,1,-1,-1,None,Terrace,https://www.domain.com.au/25-benjamin-street-sunshine-vic-3020-2012862524,,0.3-0.5-3.6,3,Jul/2016/573000.0/SOLD
+71,11-drayton-street-sunshine-vic-3020,627000,09-Jul-2016,2,1,1,-1,None,House,https://www.domain.com.au/11-drayton-street-sunshine-vic-3020-2012847489,,0.6-1.8-3.5,3,
+72,28-selwyn-street-sunshine-vic-3020,541000,25-Jun-2016,2,1,1,-1,None,House,https://www.domain.com.au/28-selwyn-street-sunshine-vic-3020-2012822053,,0.4-1.5-2.3,3,
+73,7-whitty-street-sunshine-vic-3020,555000,18-Jun-2016,2,1,1,-1,None,House,https://www.domain.com.au/7-whitty-street-sunshine-vic-3020-2012808510,,0.5-1.6-3,3,Jun/2016/555000.0/SOLD
+74,143b-cornwall-road-sunshine-vic-3020,483000,06-Jun-2016,2,2,1,-1,None,House,https://www.domain.com.au/143b-cornwall-road-sunshine-vic-3020-2012783375,,0.5-0.6-2.5,3,Jul/2017/590000.0/SOLD-Jun/2016/483000.0/SOLD
+75,88-monash-street-sunshine-vic-3020,720000,31-May-2016,2,1,2,-1,None,House,https://www.domain.com.au/88-monash-street-sunshine-vic-3020-2012768069,"Air conditioning-""Fireplace(s)""-""Built in wardrobes""-""Balcony / Deck""-""Floorboards""-""Fully fenced""-""Secure Parking""-""Study""",0.5-1.6-3.1,3,
+76,4/162-cornwall-road-sunshine-vic-3020,425000,14-May-2016,2,1,1,-1,None,House,https://www.domain.com.au/4-162-cornwall-road-sunshine-vic-3020-2012731645,,0.4-0.5-1.1,3,
+77,12-coolamon-street-(albion)-sunshine-vic-3020,600000,09-May-2016,2,1,1,-1,None,House,https://www.domain.com.au/12-coolamon-street-albion-sunshine-vic-3020-2012751848,,0.2-1.4-2.1,3,
+78,6-yewers-street-sunshine-vic-3020,492000,30-Apr-2016,2,1,1,-1,None,House,https://www.domain.com.au/6-yewers-street-sunshine-vic-3020-2012682130,,0.5-1.1-1.4,3,Apr/2016/492000.0/SOLD
+79,11-gunnedah-street-(albion)-sunshine-vic-3020,565000,03-Apr-2016,2,1,4,530,m2,House,https://www.domain.com.au/11-gunnedah-street-albion-sunshine-vic-3020-2012624254,,0.2-1.4-2,3,
+80,9-cornwall-road-sunshine-vic-3020,785500,06-Feb-2016,2,1,1,-1,None,House,https://www.domain.com.au/9-cornwall-road-sunshine-vic-3020-2012499319,,0.8-1.8-3.6,3,Feb/2016/785500.0/SOLD
+81,13-martin-street-sunshine-vic-3020,770000,22-Jan-2016,2,1,2,409,m2,House,https://www.domain.com.au/13-martin-street-sunshine-vic-3020-2012531902,"Air-Conditioner-""Fireplace(s)""",0.5-1.6-3,3,Jan/2016/385.0/SOLD-Apr/2002/770000.0/SOLD
+82,14-kinnane-crescent-sunshine-vic-3020,385000,17-Dec-2015,2,1,1,-1,None,House,https://www.domain.com.au/14-kinnane-crescent-sunshine-vic-3020-2012449915,,0.9-2.2-3.3,3,
+83,10-high-street-sunshine-vic-3020,490000,23-Oct-2015,2,1,2,500,m2,House,https://www.domain.com.au/10-high-street-sunshine-vic-3020-2012311828,,0.6-1.2-1.4,3,Jan/2021/896000.0/SOLD-Oct/2015/300.0/SOLD
+84,25-cooper-street-sunshine-vic-3020,490000,17-Oct-2015,2,1,1,-1,None,House,https://www.domain.com.au/25-cooper-street-sunshine-vic-3020-2012258753,Study,0.6-1.2-3.1,3,Oct/2015/490000.0/SOLD-Jul/2010/360.0/SOLD
+85,18-mellor-street-sunshine-vic-3020,626000,10-Oct-2015,2,1,-1,637,m2,House,https://www.domain.com.au/18-mellor-street-sunshine-vic-3020-2012259143,Study,0.8-2.3-3.4,3,Oct/2015/350.0/SOLD
+86,8-tribe-street-sunshine-vic-3020,650000,01-Oct-2015,2,1,2,-1,None,House,https://www.domain.com.au/8-tribe-street-sunshine-vic-3020-2012261942,,0.3-0.5-1.1,3,Jan/2018/675000.0/SOLD-Oct/2015/650000.0/SOLD
+87,1/33-parsons-street-sunshine-vic-3020,420000,22-Sep-2015,2,1,1,-1,None,House,https://www.domain.com.au/1-33-parsons-street-sunshine-vic-3020-2012184366,,0.9-1.6-3.6,3,
+88,527-ballarat-road-sunshine-vic-3020,435000,05-Sep-2015,2,1,1,505,m2,House,https://www.domain.com.au/527-ballarat-road-sunshine-vic-3020-2012187629,Study,0.2-1.8-2.4,3,
+89,19-leonard-street-sunshine-vic-3020,576000,15-Aug-2015,2,1,-1,-1,None,House,https://www.domain.com.au/19-leonard-street-sunshine-vic-3020-2012120201,,0.9-2.1-3.2,3,Aug/2015/576000.0/SOLD-Jul/2006/270.0/SOLD
+90,49-couch-street-sunshine-vic-3020,490500,25-Jul-2015,2,1,1,-1,None,House,https://www.domain.com.au/49-couch-street-sunshine-vic-3020-2012088543,,0.5-0.6-3.8,3,Jul/2015/490500.0/SOLD-Jul/1987/50000.0/SOLD
+91,10-chapman-street-sunshine-vic-3020,522000,30-May-2015,2,1,-1,-1,None,House,https://www.domain.com.au/10-chapman-street-sunshine-vic-3020-2011933753,,0.4-0.6-3.7,3,May/2015/522000.0/SOLD-Mar/1995/88500.0/SOLD-Oct/1992/82000.0/SOLD
+92,4-armstrong-street-sunshine-vic-3020,615000,26-May-2015,2,2,1,650,m2,House,https://www.domain.com.au/4-armstrong-street-sunshine-vic-3020-2011921936,,0.3-0.6-3.1,3,
+93,12-mellor-street-sunshine-vic-3020,527500,25-May-2015,2,1,1,-1,None,House,https://www.domain.com.au/12-mellor-street-sunshine-vic-3020-2011944670,"Close to schools-""Close to shops""-""Close to transport""-""Floorboards""-""Secure Parking""",0.8-2.3-3.4,3,May/2015/300.0/SOLD
+94,28-mcintosh-street-sunshine-vic-3020,525000,09-May-2015,2,1,1,-1,None,House,https://www.domain.com.au/28-mcintosh-street-sunshine-vic-3020-2011900947,,0.8-1.1-2.8,3,May/2015/525000.0/SOLD
+95,4-walter-street-sunshine-vic-3020,571000,18-Apr-2015,2,1,-1,700,m2,House,https://www.domain.com.au/4-walter-street-sunshine-vic-3020-2011837235,"Pergola-""Bungalow""",1.1-1.7-3.8,3,Apr/2015/340.0/SOLD
+96,3/12-14-drummartin-street-sunshine-vic-3020,255000,23-Mar-2015,2,1,1,-1,None,House,https://www.domain.com.au/3-12-14-drummartin-street-sunshine-vic-3020-2011678270,,0.5-1.1-2.4,3,
+97,153-cornwall-road-sunshine-vic-3020,550000,12-Mar-2015,2,1,2,-1,None,House,https://www.domain.com.au/153-cornwall-road-sunshine-vic-3020-2011730638,,0.5-0.5-2.4,3,Jul/2021/915000.0/SOLD-Mar/2015/330.0/SOLD
+98,14-newman-street-sunshine-vic-3020,449500,02-Mar-2015,2,1,-1,-1,None,House,https://www.domain.com.au/14-newman-street-sunshine-vic-3020-2011693096,"Air conditioning-""Heating""-""Shed""",0.3-0.4-0.9,3,Feb/2015/449500.0/SOLD-Jun/2010/295.0/SOLD
+99,24-dunbar-avenue-sunshine-vic-3020,335000,16-Feb-2015,2,1,1,349,m2,House,https://www.domain.com.au/24-dunbar-avenue-sunshine-vic-3020-2011140816,,0.8-0.9-4,3,Jan/2015/335000.0/SOLD-Feb/2010/300.0/SOLD
+100,1/38-dunbar-avenue-sunshine-vic-3020,367500,14-Feb-2015,2,2,1,-1,None,House,https://www.domain.com.au/1-38-dunbar-avenue-sunshine-vic-3020-2011695447,,0.9-1-4.1,3,
+101,31-stanford-street-sunshine-vic-3020,370000,13-Dec-2014,2,1,1,-1,None,House,https://www.domain.com.au/31-stanford-street-sunshine-vic-3020-2011615504,"Air conditioning-""Built in wardrobes""-""Close to schools""-""Close to shops""-""Close to transport""-""Garden""-""Secure Parking""",0.4-0.6-3.6,3,Dec/2014/1738.0/SOLD-Mar/2011/370000.0/SOLD
+102,86-cornwall-road-sunshine-vic-3020,435000,12-Dec-2014,2,1,2,-1,None,House,https://www.domain.com.au/86-cornwall-road-sunshine-vic-3020-2011520574,,0.4-0.9-1.3,3,
+103,29-duke-street-sunshine-vic-3020,555000,08-Nov-2014,2,1,2,-1,None,House,https://www.domain.com.au/29-duke-street-sunshine-vic-3020-2011495955,Study,0.9-1.5-3.6,3,Nov/2014/555000.0/SOLD
+104,151-cornwall-road-sunshine-vic-3020,450000,18-Oct-2014,2,1,1,510,m2,House,https://www.domain.com.au/151-cornwall-road-sunshine-vic-3020-2011418597,,0.5-0.5-2.4,3,Oct/2014/450000.0/SOLD
+105,6-perth-avenue-(albion)-sunshine-vic-3020,380000,15-Sep-2014,2,1,-1,-1,None,House,https://www.domain.com.au/6-perth-avenue-albion-sunshine-vic-3020-2011386526,,0.4-1.7-2.2,3,
+106,11-monica-street-sunshine-vic-3020,565000,23-Aug-2014,2,1,1,-1,None,House,https://www.domain.com.au/11-monica-street-sunshine-vic-3020-2011321815,,0.8-1.5-3.5,3,Aug/2014/565000.0/SOLD
+107,3/15-watt-street-sunshine-vic-3020,345000,21-Aug-2014,2,1,1,-1,None,House,https://www.domain.com.au/3-15-watt-street-sunshine-vic-3020-2011172214,,0.3-0.4-2.9,3,
+108,22-dulcie-street-sunshine-vic-3020,530000,02-Aug-2014,2,1,-1,605,m2,House,https://www.domain.com.au/22-dulcie-street-sunshine-vic-3020-2011287812,Study,0.5-0.8-2.5,3,Aug/2014/350.0/SOLD
+109,3/39-fraser-street-sunshine-vic-3020,320000,17-Jul-2014,2,1,1,-1,None,House,https://www.domain.com.au/3-39-fraser-street-sunshine-vic-3020-2011269267,,0.7-0.9-2.7,3,
+110,2/2-alexandra-avenue-sunshine-vic-3020,275600,09-Jul-2014,2,1,1,-1,None,House,https://www.domain.com.au/2-2-alexandra-avenue-sunshine-vic-3020-2011268734,,0.8-1.2-2.8,3,
+111,10-farnsworth-street-sunshine-vic-3020,410000,24-Apr-2014,2,1,2,-1,None,House,https://www.domain.com.au/10-farnsworth-street-sunshine-vic-3020-2011021824,,0.8-2.2-3.3,3,Feb/2016/605000.0/SOLD-Apr/2014/300.0/SOLD
+112,108-devonshire-road-sunshine-vic-3020,381000,05-Apr-2014,2,1,-1,-1,None,House,https://www.domain.com.au/108-devonshire-road-sunshine-vic-3020-2011023035,,0.5-1-1.4,3,Apr/2014/381000.0/SOLD
+113,371-ballarat-road-sunshine-vic-3020,301000,11-Mar-2014,2,1,1,-1,None,House,https://www.domain.com.au/371-ballarat-road-sunshine-vic-3020-2010977925,Study,0.2-0.5-0.8,3,Mar/2014/301000.0/SOLD-Jun/2003/195000.0/SOLD
+114,2/104-monash-street-sunshine-vic-3020,290000,07-Mar-2014,2,1,1,-1,None,House,https://www.domain.com.au/2-104-monash-street-sunshine-vic-3020-2010844803,,0.4-1.6-3.1,3,
+115,67-benjamin-street-sunshine-vic-3020,498000,17-Jan-2014,2,1,2,-1,None,House,https://www.domain.com.au/67-benjamin-street-sunshine-vic-3020-2010766552,,0.3-0.4-3.6,3,Nov/2013/498000.0/SOLD-Nov/2010/446000.0/SOLD
+116,40-dulcie-street-sunshine-vic-3020,557500,19-Dec-2013,2,1,1,-1,None,House,https://www.domain.com.au/40-dulcie-street-sunshine-vic-3020-2010694010,,0.6-0.7-2.4,3,Nov/2015/772000.0/SOLD-Oct/2013/557500.0/SOLD
+117,80-wright-street-sunshine-vic-3020,320000,18-Dec-2013,2,1,1,-1,None,House,https://www.domain.com.au/80-wright-street-sunshine-vic-3020-2010501170,,0.6-0.7-3.8,3,Aug/2017/615000.0/SOLD-Oct/2013/320000.0/SOLD
+118,1-lowe-crescent-sunshine-vic-3020,330000,18-Dec-2013,2,1,2,-1,None,House,https://www.domain.com.au/1-lowe-crescent-sunshine-vic-3020-2010798511,,0.4-1.1-1.3,3,Nov/2013/330000.0/SOLD-Aug/2009/297000.0/SOLD
+119,20-tribe-street-sunshine-vic-3020,546000,30-Nov-2013,2,1,1,-1,None,House,https://www.domain.com.au/20-tribe-street-sunshine-vic-3020-2010806646,,0.4-0.5-1,3,Jan/2018/700000.0/SOLD-Dec/2016/497000.0/SOLD
+120,5-leith-avenue-sunshine-vic-3020,484000,30-Nov-2013,2,1,1,728,m2,House,https://www.domain.com.au/5-leith-avenue-sunshine-vic-3020-2010805023,,0.1-0.2-3.4,3,Apr/2017/330.0/SOLD
+121,73-chapman-street-sunshine-vic-3020,500000,23-Nov-2013,2,1,-1,640,m2,House,https://www.domain.com.au/73-chapman-street-sunshine-vic-3020-2010791930,,0.4-0.5-3.6,3,Nov/2013/500000.0/SOLD
+122,13-andrew-street-sunshine-vic-3020,394000,09-Nov-2013,2,1,1,-1,None,House,https://www.domain.com.au/13-andrew-street-sunshine-vic-3020-2010747905,,0.5-0.7-2.5,3,Dec/2018/735000.0/SOLD-Aug/2014/560000.0/SOLD-Nov/2013/394000.0/SOLD
+123,2-ernest-street-sunshine-vic-3020,441500,19-Oct-2013,2,1,1,-1,None,House,https://www.domain.com.au/2-ernest-street-sunshine-vic-3020-2010710620,,0.2-0.5-1,3,Oct/2013/390.0/SOLD
+124,17-burnewang-street-sunshine-vic-3020,410000,30-Aug-2013,2,1,2,-1,None,House,https://www.domain.com.au/17-burnewang-street-sunshine-vic-3020-2010575302,,0.6-1.1-2.6,3,
+125,15-martin-street-sunshine-vic-3020,315000,17-Aug-2013,2,1,-1,-1,None,House,https://www.domain.com.au/15-martin-street-sunshine-vic-3020-2010592260,,0.5-1.5-3,3,Aug/2013/340.0/SOLD-Apr/1999/315000.0/SOLD
+126,14-armstrong-street-sunshine-vic-3020,460000,16-Jul-2013,2,1,1,-1,None,House,https://www.domain.com.au/14-armstrong-street-sunshine-vic-3020-2010521637,,0.4-0.7-3.1,3,
+127,17-mckay-street-sunshine-vic-3020,452500,05-Jul-2013,2,1,2,-1,None,House,https://www.domain.com.au/17-mckay-street-sunshine-vic-3020-2010527941,,0.6-1.6-3.3,3,Jul/2013/400.0/SOLD
+128,31-ernest-street-sunshine-vic-3020,440000,29-Jun-2013,2,1,1,-1,None,House,https://www.domain.com.au/31-ernest-street-sunshine-vic-3020-2010492967,,0.3-0.4-1,3,Jun/2013/440000.0/SOLD
+129,4-23-bardsley-street-sunshine-vic-3020,205000,04-Jun-2013,2,1,1,-1,None,House,https://www.domain.com.au/4-23-bardsley-street-sunshine-vic-3020-2010239984,,0.4-0.5-3.4,3,
+130,5-dubbo-street-(albion)-sunshine-vic-3020,410000,18-Apr-2013,2,1,1,-1,None,House,https://www.domain.com.au/5-dubbo-street-albion-sunshine-vic-3020-2009657953,,0.4-1.6-2.2,3,
+131,12-newman-street-sunshine-vic-3020,360000,27-Mar-2013,2,1,-1,-1,None,House,https://www.domain.com.au/12-newman-street-sunshine-vic-3020-2010296037,,0.3-0.4-0.9,3,Mar/2013/360000.0/SOLD
+132,1/1-rosdale-place-sunshine-vic-3020,360000,07-Mar-2013,2,1,1,-1,None,House,https://www.domain.com.au/1-1-rosdale-place-sunshine-vic-3020-2010255216,,0.4-0.6-2.8,3,
+133,5-hayden-crescent-(albion)-sunshine-vic-3020,320000,21-Feb-2013,2,1,-1,-1,None,House,https://www.domain.com.au/5-hayden-crescent-albion-sunshine-vic-3020-2010091665,,0.5-1.1-2.2,3,
+134,9-farnsworth-street-sunshine-vic-3020,370000,14-Dec-2012,2,1,1,524,m2,House,https://www.domain.com.au/9-farnsworth-street-sunshine-vic-3020-2010119711,,0.8-2.2-3.3,3,Dec/2012/350.0/SOLD
+135,54-adelaide-street-sunshine-vic-3020,375000,30-Nov-2012,2,1,1,-1,None,House,https://www.domain.com.au/54-adelaide-street-sunshine-vic-3020-2010042183,,0.2-1.4-2.1,3,
+136,19-servante-street-sunshine-vic-3020,515000,10-Oct-2012,2,1,1,-1,None,House,https://www.domain.com.au/19-servante-street-sunshine-vic-3020-2010003668,,0.7-1.4-3.1,3,Oct/2012/350.0/SOLD-Oct/2008/515000.0/SOLD
+137,517-ballarat-road-(albion)-sunshine-vic-3020,285000,02-Oct-2012,2,1,-1,-1,None,House,https://www.domain.com.au/517-ballarat-road-albion-sunshine-vic-3020-2010008806,,0.3-1.8-2.4,3,
+138,27-drayton-street-sunshine-vic-3020,496500,14-Sep-2012,2,1,4,601,m2,House,https://www.domain.com.au/27-drayton-street-sunshine-vic-3020-2009753707,"Air conditioning-""Heating""-""Deck""-""Courtyard""-""Secure Parking""-""Floorboards""-""Fully fenced""-""Cable or Satellite""",0.5-1.8-3.4,3,Sep/2012/496500.0/SOLD-Apr/2006/240000.0/SOLD-Jun/2002/247000.0/SOLD
+139,8/1-lorraine-court-sunshine-vic-3020,281000,28-Aug-2012,2,1,1,-1,None,House,https://www.domain.com.au/8-1-lorraine-court-sunshine-vic-3020-2009692075,,0.7-0.7-2.8,3,
+140,1a-sturt-street-sunshine-vic-3020,355000,13-Jul-2012,2,1,1,-1,None,House,https://www.domain.com.au/1a-sturt-street-sunshine-vic-3020-2009625483,"Built in wardrobes-""Close to schools""-""Close to shops""-""Close to transport""-""Formal Lounge""-""Garden""-""Security Alarm""-""Secure Parking""",0.3-0.4-1,3,Jun/2012/355000.0/SOLD
+141,23-hertford-road-sunshine-vic-3020,423000,25-Jun-2012,2,1,-1,-1,None,House,https://www.domain.com.au/23-hertford-road-sunshine-vic-3020-2009700522,,0.9-2.3-3.4,3,Dec/2020/1050000.0/SOLD
+142,18-perth-avenue-sunshine-vic-3020,370000,24-Jun-2012,2,1,1,697,m2,House,https://www.domain.com.au/18-perth-avenue-sunshine-vic-3020-2009766909,,0.4-1.7-2.1,3,
+143,4/11-13-mclean-street-sunshine-vic-3020,350000,13-Jun-2012,2,1,1,-1,None,House,https://www.domain.com.au/4-11-13-mclean-street-sunshine-vic-3020-2009430830,,0.5-1.4-2.4,3,
+144,26-union-street-sunshine-vic-3020,380000,30-May-2012,2,1,1,-1,None,House,https://www.domain.com.au/26-union-street-sunshine-vic-3020-2009646889,,0.7-1.3-1.5,3,Feb/2017/655002.0/SOLD-May/2012/380000.0/SOLD
+145,25-parsons-street-sunshine-vic-3020,408000,11-May-2012,2,1,2,601,m2,House,https://www.domain.com.au/25-parsons-street-sunshine-vic-3020-2009766911,,1-1.6-3.6,3,Apr/2012/408000.0/SOLD-Jan/2001/168000.0/SOLD-Oct/1999/125000.0/SOLD
+146,44-derrimut-street-(albion)-sunshine-vic-3020,360000,08-May-2012,2,1,2,-1,None,House,https://www.domain.com.au/44-derrimut-street-albion-sunshine-vic-3020-2009639121,,0.3-1.5-2.2,3,
+147,2/19-derrimut-street-sunshine-vic-3020,350000,07-Mar-2012,2,2,1,-1,None,House,https://www.domain.com.au/2-19-derrimut-street-sunshine-vic-3020-2009193161,,0.2-1.5-1.9,3,
+148,16-mckay-street-sunshine-vic-3020,450000,05-Mar-2012,2,1,1,-1,None,House,https://www.domain.com.au/16-mckay-street-sunshine-vic-3020-2009489052,,0.6-1.6-3.3,3,Mar/2012/460000.0/SOLD-Sep/1985/54000.0/SOLD-Feb/1978/33200.0/SOLD
+149,73-monash-street-sunshine-vic-3020,435000,11-Nov-2011,2,1,2,470,m2,House,https://www.domain.com.au/73-monash-street-sunshine-vic-3020-2009193159,,0.6-1.5-3.3,3,
+150,9-newman-street-sunshine-vic-3020,430000,29-Oct-2011,2,1,-1,-1,None,House,https://www.domain.com.au/9-newman-street-sunshine-vic-3020-2009291553,,0.2-0.4-0.9,3,Oct/2011/430000.0/SOLD-Nov/2004/206000.0/SOLD
+151,3-barclay-street-sunshine-vic-3020,315000,19-Aug-2011,2,1,2,465,m2,House,https://www.domain.com.au/3-barclay-street-sunshine-vic-3020-2009036837,,0.5-1.1-2.2,3,
+152,21-chapman-street-sunshine-vic-3020,355000,24-Jun-2011,2,1,-1,-1,None,House,https://www.domain.com.au/21-chapman-street-sunshine-vic-3020-2008858374,,0.4-0.6-3.7,3,
+153,4-norwood-street-sunshine-vic-3020,405000,06-Apr-2011,2,1,1,-1,None,House,https://www.domain.com.au/4-norwood-street-sunshine-vic-3020-2008838609,,0.8-1.8-2.5,3,
+154,31-stanford-street-sunshine-vic-3020,380000,22-Mar-2011,2,1,-1,-1,None,House,https://www.domain.com.au/31-stanford-street-sunshine-vic-3020-2008831144,,0.4-0.6-3.6,3,Dec/2014/1738.0/SOLD-Mar/2011/370000.0/SOLD
+155,1-benjamin-street-sunshine-vic-3020,390000,17-Feb-2011,2,1,-1,-1,None,House,https://www.domain.com.au/1-benjamin-street-sunshine-vic-3020-2008532859,,0.4-0.7-3.7,3,Jun/2011/390000.0/SOLD-Nov/2009/285000.0/SOLD-Aug/2007/231500.0/SOLD
+156,1/6-farnsworth-street-sunshine-vic-3020,349000,06-Dec-2010,2,1,1,-1,None,House,https://www.domain.com.au/1-6-farnsworth-street-sunshine-vic-3020-2008561286,,0.8-2.2-3.4,3,
+157,11/4-forrest-street-sunshine-vic-3020,225000,30-Nov-2010,2,1,1,-1,None,House,https://www.domain.com.au/11-4-forrest-street-sunshine-vic-3020-2008389193,,0.6-0.8-2.6,3,
+158,29-benjamin-street-sunshine-vic-3020,390000,30-Oct-2010,2,1,-1,-1,None,House,https://www.domain.com.au/29-benjamin-street-sunshine-vic-3020-2008588254,,0.3-0.5-3.6,3,
+159,91-benjamin-street-sunshine-vic-3020,420000,22-Oct-2010,2,1,1,-1,None,House,https://www.domain.com.au/91-benjamin-street-sunshine-vic-3020-2008528256,,0.3-0.4-3.5,3,Oct/2010/270.0/SOLD-Oct/2006/420000.0/SOLD
+160,3-mckay-street-sunshine-vic-3020,465000,19-Oct-2010,2,1,1,-1,None,House,https://www.domain.com.au/3-mckay-street-sunshine-vic-3020-2008589250,,0.6-1.6-3.4,3,
+161,12-mellor-street-sunshine-vic-3020,473000,20-Sep-2010,2,2,2,-1,None,House,https://www.domain.com.au/12-mellor-street-sunshine-vic-3020-2008523876,,0.8-2.3-3.4,3,May/2015/300.0/SOLD
+162,93-fraser-street-sunshine-vic-3020,410000,20-Sep-2010,2,1,1,-1,None,House,https://www.domain.com.au/93-fraser-street-sunshine-vic-3020-2008517172,,0.8-1.1-2.7,3,Sep/2010/410000.0/SOLD-Mar/1995/77500.0/SOLD-Jun/1992/75000.0/SOLD
+163,54-sydney-street-sunshine-vic-3020,495000,11-Sep-2010,2,1,8,-1,None,House,https://www.domain.com.au/54-sydney-street-sunshine-vic-3020-2008497892,,0.4-1.2-2.1,3,
+164,18-thomson-street-sunshine-vic-3020,420000,04-Sep-2010,2,1,-1,-1,None,House,https://www.domain.com.au/18-thomson-street-sunshine-vic-3020-2008497894,,0.3-0.8-1.2,3,Sep/2009/420000.0/SOLD
+165,16-snowden-street-sunshine-vic-3020,425000,04-Aug-2010,2,1,-1,-1,None,House,https://www.domain.com.au/16-snowden-street-sunshine-vic-3020-2008435881,,0.8-2.2-3.3,3,Jul/2010/250.0/SOLD
+166,13/20-talmage-street-sunshine-vic-3020,252000,10-Jul-2010,2,1,1,-1,None,House,https://www.domain.com.au/13-20-talmage-street-sunshine-vic-3020-2008408880,,0.5-2-2.8,3,
+167,3/2a-alexandra-street-sunshine-vic-3020,380000,03-Jul-2010,2,1,1,-1,None,Villa,https://www.domain.com.au/3-2a-alexandra-street-sunshine-vic-3020-2008397304,,0.8-1.2-2.8,3,
+168,1/141-anderson-road-sunshine-vic-3020,312000,24-Jun-2010,2,1,1,-1,None,Villa,https://www.domain.com.au/1-141-anderson-road-sunshine-vic-3020-2008374860,,0.8-0.9-2.4,3,
+169,60-armstrong-street-sunshine-vic-3020,510000,05-Jun-2010,2,1,1,-1,None,House,https://www.domain.com.au/60-armstrong-street-sunshine-vic-3020-2008343081,,0.3-0.7-3.3,3,
+170,17-fraser-street-sunshine-vic-3020,490000,29-May-2010,2,1,-1,-1,None,House,https://www.domain.com.au/17-fraser-street-sunshine-vic-3020-2008335683,,0.5-0.7-2.7,3,May/2010/490000.0/SOLD-May/2007/280000.0/SOLD
+171,6/22-forrest-street-sunshine-vic-3020,300000,22-May-2010,2,1,1,-1,None,House,https://www.domain.com.au/6-22-forrest-street-sunshine-vic-3020-2008327516,,0.7-0.9-2.6,3,
+172,10-monash-street-sunshine-vic-3020,380000,01-May-2010,2,1,1,-1,None,House,https://www.domain.com.au/10-monash-street-sunshine-vic-3020-2008277190,,0.7-1.3-1.5,3,
+173,6/136-wright-street-sunshine-vic-3020,255000,23-Apr-2010,2,1,-1,-1,None,House,https://www.domain.com.au/6-136-wright-street-sunshine-vic-3020-2008320573,,0.5-0.6-3.8,3,
+174,18-union-street-sunshine-vic-3020,383500,19-Apr-2010,2,1,-1,-1,None,House,https://www.domain.com.au/18-union-street-sunshine-vic-3020-2008265033,,0.7-1.3-1.5,3,
+175,6-yewers-street-sunshine-vic-3020,465000,17-Apr-2010,2,1,1,-1,None,House,https://www.domain.com.au/6-yewers-street-sunshine-vic-3020-2008281592,,0.5-1.1-1.4,3,Apr/2016/492000.0/SOLD
+176,4-armstrong-street-sunshine-vic-3020,507000,27-Mar-2010,2,1,1,-1,None,House,https://www.domain.com.au/4-armstrong-street-sunshine-vic-3020-2008243294,,0.3-0.6-3.1,3,
+177,4/1-cannon-street-sunshine-vic-3020,270000,09-Mar-2010,2,1,1,-1,None,House,https://www.domain.com.au/4-1-cannon-street-sunshine-vic-3020-2008112827,,0.6-0.6-3.8,3,
+178,22-gunnedah-street-sunshine-vic-3020,325000,16-Feb-2010,2,1,1,-1,None,Villa,https://www.domain.com.au/22-gunnedah-street-sunshine-vic-3020-2008059862,,0.1-1.5-2,3,
+179,24-dunbar-avenue-sunshine-vic-3020,328000,15-Feb-2010,2,1,-1,-1,None,House,https://www.domain.com.au/24-dunbar-avenue-sunshine-vic-3020-2008157478,,0.8-0.8-4,3,Jan/2015/335000.0/SOLD-Feb/2010/300.0/SOLD
+180,525-ballarat-road-sunshine-vic-3020,335000,04-Feb-2010,2,1,1,-1,None,House,https://www.domain.com.au/525-ballarat-road-sunshine-vic-3020-2008157473,,0.2-1.7-2.4,3,
+181,2/123-anderson-road-sunshine-vic-3020,220000,30-Jan-2010,2,1,1,-1,None,House,https://www.domain.com.au/2-123-anderson-road-sunshine-vic-3020-2008163882,,0.8-0.9-2.5,3,
+182,8-taunton-street-sunshine-vic-3020,465000,27-Jan-2010,2,1,1,-1,None,House,https://www.domain.com.au/8-taunton-street-sunshine-vic-3020-2008155542,,0.5-0.9-2.7,3,
+183,18-matthews-street-sunshine-vic-3020,500000,02-Nov-2009,2,1,-1,-1,None,House,https://www.domain.com.au/18-matthews-street-sunshine-vic-3020-2008009324,,1-1.8-3.8,3,Apr/2016/595000.0/SOLD-Jul/2015/660000.0/SOLD
+184,2/24-ernest-street-sunshine-vic-3020,352000,26-Oct-2009,2,1,1,-1,None,House,https://www.domain.com.au/2-24-ernest-street-sunshine-vic-3020-2008007862,,0.3-0.3-0.9,3,
+185,4-lynch-street-sunshine-vic-3020,470000,10-Oct-2009,2,1,2,-1,None,House,https://www.domain.com.au/4-lynch-street-sunshine-vic-3020-2007983211,,1-2.2-3.3,3,
+186,4/135-anderson-road-sunshine-vic-3020,280000,23-Sep-2009,2,1,1,-1,None,House,https://www.domain.com.au/4-135-anderson-road-sunshine-vic-3020-2007995184,,0.8-0.9-2.5,3,
+187,1-lowe-crescent-sunshine-vic-3020,297500,19-Sep-2009,2,1,1,-1,None,House,https://www.domain.com.au/1-lowe-crescent-sunshine-vic-3020-2007769093,,0.4-1.1-1.3,3,Nov/2013/330000.0/SOLD-Aug/2009/297000.0/SOLD
+188,3-cannon-street-sunshine-vic-3020,287500,26-Aug-2009,2,1,1,-1,None,House,https://www.domain.com.au/3-cannon-street-sunshine-vic-3020-2007574765,,0.6-0.7-3.9,3,
+189,21-norma-street-sunshine-vic-3020,482000,26-Aug-2009,2,1,2,-1,None,House,https://www.domain.com.au/21-norma-street-sunshine-vic-3020-2007902480,,0.8-1.4-3.5,3,
+190,32-chapman-street-sunshine-vic-3020,330000,22-Aug-2009,2,1,2,-1,None,House,https://www.domain.com.au/32-chapman-street-sunshine-vic-3020-2007893983,Undercover Parking,0.4-0.5-3.7,3,
+191,1-parsons-street-sunshine-vic-3020,473000,15-Aug-2009,2,1,1,-1,None,House,https://www.domain.com.au/1-parsons-street-sunshine-vic-3020-2007890597,,1-1.6-3.7,3,Sep/2014/435000.0/SOLD-Aug/2009/473500.0/SOLD-Aug/1997/101250.0/SOLD
+192,5-leith-avenue-sunshine-vic-3020,427500,01-Aug-2009,2,1,1,-1,None,House,https://www.domain.com.au/5-leith-avenue-sunshine-vic-3020-2007877918,Secure Parking,0.1-0.2-3.4,3,Apr/2017/330.0/SOLD
+193,68-wright-street-sunshine-vic-3020,265000,24-Jul-2009,2,1,1,-1,None,House,https://www.domain.com.au/68-wright-street-sunshine-vic-3020-2007867261,,0.6-0.8-3.9,3,Aug/2019/500000.0/SOLD
+194,5/36-forrest-street-sunshine-vic-3020,325000,06-Jul-2009,2,1,1,-1,None,House,https://www.domain.com.au/5-36-forrest-street-sunshine-vic-3020-2007533364,Secure Parking,0.8-0.8-2.6,3,
+195,33-benjamin-street-sunshine-vic-3020,316000,03-Jul-2009,2,1,-1,-1,None,House,https://www.domain.com.au/33-benjamin-street-sunshine-vic-3020-2007651595,,0.3-0.5-3.6,3,Jun/2009/316000.0/SOLD-Apr/1998/88000.0/SOLD-May/1997/70000.0/SOLD
+196,14-norwood-street-sunshine-vic-3020,306000,30-Jun-2009,2,1,3,-1,None,House,https://www.domain.com.au/14-norwood-street-sunshine-vic-3020-2007781081,"Undercover Parking-""Secure Parking""",0.7-1.9-2.4,3,
+197,70-wright-street-sunshine-vic-3020,265000,15-Jun-2009,2,1,1,-1,None,House,https://www.domain.com.au/70-wright-street-sunshine-vic-3020-2007769092,,0.6-0.8-3.9,3,May/2009/265000.0/SOLD
+198,33-alice-street-sunshine-vic-3020,290000,12-Jun-2009,2,1,2,-1,None,House,https://www.domain.com.au/33-alice-street-sunshine-vic-3020-2007618562,"Undercover Parking-""Secure Parking""",0.2-0.7-1.1,3,May/2009/260.0/SOLD-Dec/2005/290000.0/SOLD
+199,80-chapman-street-sunshine-vic-3020,360000,31-May-2009,2,1,2,-1,None,House,https://www.domain.com.au/80-chapman-street-sunshine-vic-3020-2007736365,,0.4-0.5-3.6,3,May/2009/300.0/SOLD
+200,3/164-cornwall-road-sunshine-vic-3020,330000,11-May-2009,2,2,1,-1,None,House,https://www.domain.com.au/3-164-cornwall-road-sunshine-vic-3020-2007710622,"Secure Parking-""Study""",0.4-0.5-1.1,3,
+201,6-couper-angus-grove-sunshine-vic-3020,290000,11-May-2009,2,1,2,-1,None,House,https://www.domain.com.au/6-couper-angus-grove-sunshine-vic-3020-2007653322,"Undercover Parking-""Secure Parking""",1.1-4.3-4.9,3,Apr/2009/290000.0/SOLD-Oct/2002/204500.0/SOLD-Jan/1994/68500.0/SOLD
+202,96b-morris-street-sunshine-vic-3020,314000,28-Apr-2009,2,1,2,-1,None,House,https://www.domain.com.au/96b-morris-street-sunshine-vic-3020-2007668442,,0.3-0.6-3.5,3,Mar/2009/314000.0/SOLD-Apr/1996/96000.0/SOLD
+203,20-gunnedah-street-sunshine-vic-3020,340000,27-Feb-2009,2,1,1,-1,None,House,https://www.domain.com.au/20-gunnedah-street-sunshine-vic-3020-2007593803,Secure Parking,0.1-1.5-2,3,
+204,1-dorothy-avenue-sunshine-vic-3020,375000,17-Feb-2009,2,1,1,725,m2,House,https://www.domain.com.au/1-dorothy-avenue-sunshine-vic-3020-2007526225,,0.3-0.7-1.2,3,Feb/2016/718000.0/SOLD-Jan/2009/375000.0/SOLD
+205,26-cranbourne-avenue-sunshine-vic-3020,275000,09-Feb-2009,2,1,2,-1,None,House,https://www.domain.com.au/26-cranbourne-avenue-sunshine-vic-3020-2007198351,,0.7-0.8-1.8,3,

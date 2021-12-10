@@ -1,0 +1,21 @@
+,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+0,5-hodgson-terrace-richmond-vic-3121,818000,04-Dec-2021,1,1,-1,-1,None,House,https://www.domain.com.au/5-hodgson-terrace-richmond-vic-3121-2017399573,,0.5-0.5-0.7,3,Dec/2021/818000.0/SOLD
+1,27-rose-street-richmond-vic-3121,1005000,24-Apr-2021,1,1,1,-1,None,House,https://www.domain.com.au/27-rose-street-richmond-vic-3121-2016895458,,0.3-1.2-1.2,3,Apr/2021/1004999.9999999999/SOLD-Jul/2013/675000.0/SOLD-May/2007/487000.0/SOLD
+2,8-10-allans-place-richmond-vic-3121,1800000,27-Mar-2021,1,1,-1,270,m2,House,https://www.domain.com.au/8-10-allans-place-richmond-vic-3121-2016840426,,0.2-0.3-0.4,3,
+3,33-bunting-street-richmond-vic-3121,866750,13-Nov-2020,1,1,-1,-1,None,House,https://www.domain.com.au/33-bunting-street-richmond-vic-3121-2016606444,,0.5-0.9-1,3,Nov/2020/866750.0/SOLD
+4,3-hodgson-terrace-richmond-vic-3121,735000,03-Aug-2019,1,1,-1,-1,None,House,https://www.domain.com.au/3-hodgson-terrace-richmond-vic-3121-2015431261,,0.5-0.5-0.7,3,Aug/2019/735000.0/SOLD
+5,17-gipps-street-richmond-vic-3121,1117000,14-Jul-2018,1,1,-1,121,m2,House,https://www.domain.com.au/17-gipps-street-richmond-vic-3121-2014449760,,0.8-0.9-0.9,3,Jun/2021/1300000.0/SOLD
+6,54-elizabeth-street-richmond-vic-3121,890000,16-Jun-2018,1,1,1,-1,None,House,https://www.domain.com.au/54-elizabeth-street-richmond-vic-3121-2014410014,,0.3-1-1,3,Jun/2018/890000.0/SOLD-Nov/1985/50000.0/SOLD
+7,11-grattan-place-richmond-vic-3121,983000,23-Mar-2018,1,1,-1,-1,None,House,https://www.domain.com.au/11-grattan-place-richmond-vic-3121-2014207013,,0.9-1.1-1.2,3,Mar/2018/983000.0/SOLD
+8,2-moore-street-richmond-vic-3121,911000,29-Apr-2017,1,1,-1,-1,None,House,https://www.domain.com.au/2-moore-street-richmond-vic-3121-2013505842,,0.5-0.9-1.2,3,Apr/2017/911000.0/SOLD
+9,20-north-street-richmond-vic-3121,981000,18-Feb-2017,1,1,-1,-1,None,House,https://www.domain.com.au/20-north-street-richmond-vic-3121-2013294996,,0.3-0.7-0.7,3,May/2021/1355000.0/SOLD-Feb/2017/981000.0/SOLD
+10,205/18-tanner-street-richmond-vic-3121,510000,21-Nov-2016,1,1,1,-1,None,House,https://www.domain.com.au/205-18-tanner-street-richmond-vic-3121-2012539933,"Air conditioning-""Intercom""-""Dishwasher""-""Balcony / Deck""-""Study""-""Secure Parking""-""Floorboards""-""Built in wardrobes""",1.1-1.2-1.3,3,
+11,58-hunter-street-richmond-vic-3121,800000,02-Dec-2015,1,1,-1,-1,None,House,https://www.domain.com.au/58-hunter-street-richmond-vic-3121-2012403031,,0.4-0.5-0.7,3,Dec/2015/750.0/SOLD
+12,3/96-york-street-richmond-vic-3121,327500,14-Nov-2015,1,1,1,-1,None,House,https://www.domain.com.au/3-96-york-street-richmond-vic-3121-2012149093,,0.1-0.7-0.8,3,
+13,53-york-street-richmond-vic-3121,645000,25-Oct-2014,1,1,-1,-1,None,House,https://www.domain.com.au/53-york-street-richmond-vic-3121-2011477946,,0.2-0.9-1,3,Sep/2018/830000.0/SOLD-Oct/2014/480.0/SOLD
+14,7-lightfoot-street-richmond-vic-3121,720000,19-Jul-2014,1,1,1,-1,None,House,https://www.domain.com.au/7-lightfoot-street-richmond-vic-3121-2011270952,,0.3-0.6-0.9,3,Jun/2017/850000.0/SOLD-Jul/2014/720000.0/SOLD
+15,74-bunting-street-richmond-vic-3121,695000,14-Jun-2014,1,1,-1,-1,None,House,https://www.domain.com.au/74-bunting-street-richmond-vic-3121-2011140205,,0.6-0.9-1.1,3,Oct/2020/970.0/SOLD-Jun/2014/1515000.0/SOLD
+16,12/9-tennyson-street-richmond-vic-3121,297500,28-Apr-2014,1,1,1,-1,None,House,https://www.domain.com.au/12-9-tennyson-street-richmond-vic-3121-2010971623,,1-1.2-1.2,3,
+17,58-hunter-street-richmond-vic-3121,592000,14-Dec-2013,1,1,-1,104,m2,House,https://www.domain.com.au/58-hunter-street-richmond-vic-3121-2010848550,,0.4-0.5-0.7,3,Dec/2015/750.0/SOLD
+18,326-mary-street-richmond-vic-3121,680000,16-Nov-2013,1,1,-1,-1,None,House,https://www.domain.com.au/326-mary-street-richmond-vic-3121-2010786465,,0.3-1.7-1.7,3,Nov/2013/680000.0/SOLD-Mar/1986/54800.0/SOLD
+19,63-westbank-terrace-richmond-vic-3121,451000,31-Mar-2012,1,1,1,-1,None,House,https://www.domain.com.au/63-westbank-terrace-richmond-vic-3121-2009553309,,0.1-0.6-1.1,3,Mar/2012/475.0/SOLD

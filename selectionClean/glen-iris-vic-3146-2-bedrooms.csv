@@ -1,0 +1,75 @@
+,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+0,15-celia-street-glen-iris-vic-3146,2200000,04-Dec-2021,2,1,2,650,m2,House,https://www.domain.com.au/15-celia-street-glen-iris-vic-3146-2017402469,,0.9-2.4-9.4,3,Dec/2021/2200000.0/SOLD
+1,107-tooronga-road-glen-iris-vic-3146,1530000,13-Oct-2021,2,1,1,-1,None,House,https://www.domain.com.au/107-tooronga-road-glen-iris-vic-3146-2017296762,,0.9-2.5-7.3,3,Oct/2021/1530000.0/SOLD-Mar/2012/530.0/SOLD
+2,2/2-victor-road-glen-iris-vic-3146,870000,20-Mar-2021,2,1,1,-1,None,Villa,https://www.domain.com.au/2-2-victor-road-glen-iris-vic-3146-2016818024,,0.2-3.2-10.6,3,
+3,41-rosedale-road-glen-iris-vic-3146,1560000,28-Feb-2021,2,1,2,-1,None,House,https://www.domain.com.au/41-rosedale-road-glen-iris-vic-3146-2016883596,,0.6-2.8-10,3,Feb/2021/1560000.0/SOLD
+4,2-nyora-road-glen-iris-vic-3146,1980000,12-Dec-2020,2,1,2,643,m2,House,https://www.domain.com.au/2-nyora-road-glen-iris-vic-3146-2016643532,,0.7-2.6-10.3,3,Dec/2020/1980000.0/SOLD
+5,2/5-7-osborne-avenue-glen-iris-vic-3146,850000,08-Dec-2020,2,2,2,-1,None,Villa,https://www.domain.com.au/2-5-7-osborne-avenue-glen-iris-vic-3146-2016616172,"Internal Laundry*-""Secure Parking*""-""Broadband internet access*""-""Bath*""-""Balcony / Deck*""-""Courtyard""-""Built in wardrobes""-""Dishwasher""-""Air conditioning""-""Gas Heating""",1-2-7.8,3,
+6,3/31-yeovil-road-glen-iris-vic-3146,808000,06-Oct-2020,2,1,1,-1,None,Villa,https://www.domain.com.au/3-31-yeovil-road-glen-iris-vic-3146-2016361919,"Air conditioning-""Courtyard""-""Built in wardrobes""-""Dishwasher""-""Ducted Heating""-""Floorboards""",0.5-2-9.1,3,
+7,4/30-scott-grove-glen-iris-vic-3146,765000,20-Jul-2020,2,1,1,-1,None,Villa,https://www.domain.com.au/4-30-scott-grove-glen-iris-vic-3146-2016354407,,1.4-1.9-7.9,3,
+8,1/73-glen-iris-road-glen-iris-vic-3146,828000,02-Jun-2020,2,1,2,-1,None,Villa,https://www.domain.com.au/1-73-glen-iris-road-glen-iris-vic-3146-2016264428,,0.8-2.5-9.6,3,
+9,8-denman-avenue-glen-iris-vic-3146,1310000,14-Dec-2019,2,1,3,-1,None,House,https://www.domain.com.au/8-denman-avenue-glen-iris-vic-3146-2015965180,,0.7-2.2-9.2,3,Dec/2019/1310000.0/SOLD
+10,13-lithgow-street-glen-iris-vic-3146,1810000,03-Aug-2019,2,1,1,803,m2,House,https://www.domain.com.au/13-lithgow-street-glen-iris-vic-3146-2015425023,,0.3-2.4-8.9,3,Aug/2019/1810000.0/SOLD
+11,2/13-estella-street-glen-iris-vic-3146,757500,28-May-2019,2,1,2,-1,None,Villa,https://www.domain.com.au/2-13-estella-street-glen-iris-vic-3146-2015218341,,0.4-3-10.7,3,
+12,2a-barbara-avenue-glen-iris-vic-3146,1105000,06-Apr-2019,2,1,2,-1,None,House,https://www.domain.com.au/2a-barbara-avenue-glen-iris-vic-3146-2015007941,,0.5-2-8.9,3,Jan/2021/1240000.0/SOLD-Apr/2019/1105000.0/SOLD
+13,2/1-howard-street-glen-iris-vic-3146,917000,02-Mar-2019,2,1,2,-1,None,House,https://www.domain.com.au/2-1-howard-street-glen-iris-vic-3146-2014907579,,0.6-2.6-9.8,3,
+14,185-glen-iris-road-glen-iris-vic-3146,1510000,13-Oct-2018,2,1,2,660,m2,House,https://www.domain.com.au/185-glen-iris-road-glen-iris-vic-3146-2014642782,,0.1-2.9-10.3,3,Oct/2018/650.0/SOLD
+15,2/9-maverston-street-glen-iris-vic-3146,1220000,15-Sep-2018,2,2,2,-1,None,Villa,https://www.domain.com.au/2-9-maverston-street-glen-iris-vic-3146-2014589543,,0.7-2.4-9.1,3,
+16,21-lithgow-street-glen-iris-vic-3146,1140000,15-Sep-2018,2,1,2,403,m2,House,https://www.domain.com.au/21-lithgow-street-glen-iris-vic-3146-2014583431,,0.4-2.4-9,3,Sep/2018/1140000.0/SOLD-Sep/2011/707500.0/SOLD
+17,14-richards-avenue-glen-iris-vic-3146,2400000,05-Mar-2018,2,1,3,-1,None,House,https://www.domain.com.au/14-richards-avenue-glen-iris-vic-3146-2014209811,,0.5-2.1-9.7,3,Mar/2018/595.0/SOLD
+18,7/4-karana-place-glen-iris-vic-3146,921000,24-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/7-4-karana-place-glen-iris-vic-3146-2014140803,,0.7-2.9-7,3,
+19,1/51-osborne-avenue-glen-iris-vic-3146,706000,24-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/1-51-osborne-avenue-glen-iris-vic-3146-2014140597,,1.2-1.4-8.3,3,
+20,2/4-peace-street-glen-iris-vic-3146,730000,24-Feb-2018,2,1,2,-1,None,Villa,https://www.domain.com.au/2-4-peace-street-glen-iris-vic-3146-2014140830,"Courtyard-""Remote Garage""-""Built in wardrobes""-""Dishwasher""-""Ducted Heating""-""Gas Heating""",0.3-3.1-10.7,3,
+21,17-pascoe-street-glen-iris-vic-3146,1312500,10-Feb-2018,2,1,1,-1,None,House,https://www.domain.com.au/17-pascoe-street-glen-iris-vic-3146-2014106373,,0.4-1.5-9.8,3,
+22,3/9-maverston-street-glen-iris-vic-3146,1186000,10-Feb-2018,2,1,2,233,m2,Villa,https://www.domain.com.au/3-9-maverston-street-glen-iris-vic-3146-2014071122,,0.7-2.4-9.1,3,
+23,34-essex-street-glen-iris-vic-3146,1231000,02-Dec-2017,2,1,2,-1,None,House,https://www.domain.com.au/34-essex-street-glen-iris-vic-3146-2013998185,,0.6-2.8-7.2,3,Dec/2017/1231000.0/SOLD-Jul/2010/801000.0/SOLD-Apr/2006/424000.0/SOLD
+24,193-glen-iris-road-glen-iris-vic-3146,1800000,29-Nov-2017,2,1,1,760,m2,House,https://www.domain.com.au/193-glen-iris-road-glen-iris-vic-3146-2013968247,,0.1-3-10.3,3,Nov/2017/1800000.0/SOLD
+25,1/15-iris-road-glen-iris-vic-3146,830000,16-Nov-2017,2,1,3,192,m2,Villa,https://www.domain.com.au/1-15-iris-road-glen-iris-vic-3146-2013693321,"Secure Parking-""Air conditioning""-""Floorboards""-""Built in wardrobes""-""Internal Laundry""-""Gas""-""Bath""-""Dishwasher""-""Fully fenced""-""Garden / Courtyard""-""Alarm System""-""Double glazed windows""-""Heating""-""Wall / ceiling insulation""",0.4-1.5-9.3,3,
+26,2/9-park-road-glen-iris-vic-3146,845000,11-Nov-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/2-9-park-road-glen-iris-vic-3146-2013926076,,0.5-1.3-9.3,3,
+27,2a-barbara-avenue-glen-iris-vic-3146,1126000,30-Oct-2017,2,1,1,-1,None,House,https://www.domain.com.au/2a-barbara-avenue-glen-iris-vic-3146-2013890409,,0.5-2-8.9,3,Jan/2021/1240000.0/SOLD-Apr/2019/1105000.0/SOLD
+28,1/5-queens-parade-glen-iris-vic-3146,812000,16-Sep-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/1-5-queens-parade-glen-iris-vic-3146-2013798985,,0.8-1.7-8.8,3,
+29,111-tooronga-road-glen-iris-vic-3146,1366000,16-Sep-2017,2,2,1,-1,None,House,https://www.domain.com.au/111-tooronga-road-glen-iris-vic-3146-2013802834,,0.9-2.6-7.4,3,Sep/2017/1366000.0/SOLD-Mar/2016/1127500.0/SOLD-Sep/2011/820000.0/SOLD
+30,20-nash-street-glen-iris-vic-3146,1275000,05-Sep-2017,2,1,2,348,m2,House,https://www.domain.com.au/20-nash-street-glen-iris-vic-3146-2013775412,,1.3-1.8-7.9,3,Sep/2017/1275000.0/SOLD-Jul/2005/425000.0/SOLD
+31,6-bardolph-street-glen-iris-vic-3146,708000,19-Aug-2017,2,1,1,151,m2,Villa,https://www.domain.com.au/6-bardolph-street-glen-iris-vic-3146-2013739388,,0.6-2.4-9.1,3,Aug/2017/708000.0/SOLD-Mar/2013/445.0/SOLD
+32,3/67-carroll-crescent-glen-iris-vic-3146,820000,14-Aug-2017,2,1,2,-1,None,House,https://www.domain.com.au/3-67-carroll-crescent-glen-iris-vic-3146-2013745290,,1.2-1.4-8.4,3,
+33,4/19-richards-avenue-glen-iris-vic-3146,835000,12-Aug-2017,2,1,1,-1,None,House,https://www.domain.com.au/4-19-richards-avenue-glen-iris-vic-3146-2013724928,,0.5-2.1-9.6,3,
+34,3-ranelagh-court-glen-iris-vic-3146,1372000,17-Jun-2017,2,1,2,391,m2,House,https://www.domain.com.au/3-ranelagh-court-glen-iris-vic-3146-2013609067,,0.3-2.2-8.9,3,Jun/2017/1372000.0/SOLD-May/2014/840000.0/SOLD-Dec/2000/275000.0/SOLD
+35,22-montana-street-glen-iris-vic-3146,1865000,10-Dec-2016,2,1,3,650,m2,House,https://www.domain.com.au/22-montana-street-glen-iris-vic-3146-2013233551,,0.7-2.1-9.5,3,Dec/2016/530.0/SOLD
+36,102-great-valley-road-glen-iris-vic-3146,1920000,12-Nov-2016,2,1,1,-1,None,House,https://www.domain.com.au/102-great-valley-road-glen-iris-vic-3146-2013132183,,0.6-2.3-9.6,3,Nov/2016/1920000.0/SOLD-Sep/1993/205000.0/SOLD
+37,115-tooronga-road-glen-iris-vic-3146,1020000,05-Nov-2016,2,1,-1,251,m2,House,https://www.domain.com.au/115-tooronga-road-glen-iris-vic-3146-2013134368,,0.9-2.6-7.4,3,Nov/2016/1020000.0/SOLD-Dec/2007/637000.0/SOLD-Aug/1999/230000.0/SOLD
+38,56-wills-street-glen-iris-vic-3146,920000,15-Oct-2016,2,1,2,334,m2,House,https://www.domain.com.au/56-wills-street-glen-iris-vic-3146-2013076701,,0.8-2.3-7.7,3,Dec/1994/380.0/SOLD
+39,1597-malvern-road-glen-iris-vic-3146,1280000,16-Jul-2016,2,1,1,-1,None,House,https://www.domain.com.au/1597-malvern-road-glen-iris-vic-3146-2012878894,,1.2-1.7-8.1,3,May/2018/2032430.0000000002/SOLD-Jul/2016/580.0/SOLD
+40,17-rosedale-road-glen-iris-vic-3146,1720000,22-Jun-2016,2,2,2,-1,None,House,https://www.domain.com.au/17-rosedale-road-glen-iris-vic-3146-2012817143,,0.4-3-10,3,Jun/2016/575.0/SOLD
+41,6/1522-malvern-road-glen-iris-vic-3146,860000,23-Apr-2016,2,2,1,-1,None,House,https://www.domain.com.au/6-1522-malvern-road-glen-iris-vic-3146-2012601856,,1.3-1.7-8.1,3,
+42,111-tooronga-road-glen-iris-vic-3146,1127500,05-Mar-2016,2,2,-1,247,m2,House,https://www.domain.com.au/111-tooronga-road-glen-iris-vic-3146-2012581455,,0.9-2.6-7.4,3,Sep/2017/1366000.0/SOLD-Mar/2016/1127500.0/SOLD-Sep/2011/820000.0/SOLD
+43,45-albion-road-glen-iris-vic-3146,1450000,05-Mar-2016,2,1,2,620,m2,House,https://www.domain.com.au/45-albion-road-glen-iris-vic-3146-2012592665,,0.6-3.1-10.9,3,Apr/2016/1450000.0/SOLD-Sep/1991/165000.0/SOLD-Feb/1986/85000.0/SOLD
+44,31-rix-street-glen-iris-vic-3146,950000,19-Dec-2015,2,1,2,-1,None,House,https://www.domain.com.au/31-rix-street-glen-iris-vic-3146-2012424819,,0.9-1-9.5,3,Dec/2015/950000.0/SOLD-Mar/2009/550000.0/SOLD
+45,11-rowen-street-glen-iris-vic-3146,1520000,05-Dec-2015,2,1,1,-1,None,House,https://www.domain.com.au/11-rowen-street-glen-iris-vic-3146-2012414598,,0.6-1.6-9.6,3,Dec/2015/1520000.0/SOLD-Feb/1990/184500.0/SOLD
+46,3/1508-malvern-road-glen-iris-vic-3146,820000,24-Oct-2015,2,1,1,-1,None,Villa,https://www.domain.com.au/3-1508-malvern-road-glen-iris-vic-3146-2012295708,,1.3-1.7-8.1,3,
+47,1/1-belmont-avenue-glen-iris-vic-3146,740000,24-Oct-2015,2,1,1,-1,None,House,https://www.domain.com.au/1-1-belmont-avenue-glen-iris-vic-3146-2012295040,,1.2-2.1-7.6,3,
+48,8a-parkin-street-glen-iris-vic-3146,1100000,12-Oct-2015,2,1,1,-1,None,House,https://www.domain.com.au/8a-parkin-street-glen-iris-vic-3146-2012192346,,0.8-0.9-9.5,3,Apr/2021/1380000.0/SOLD-Oct/2015/1100000.0/SOLD
+49,40-essex-street-glen-iris-vic-3146,860000,08-Aug-2015,2,1,-1,365,m2,House,https://www.domain.com.au/40-essex-street-glen-iris-vic-3146-2012117032,,0.6-2.8-7.1,3,Aug/2015/860000.0/SOLD
+50,4-louis-street-glen-iris-vic-3146,902500,25-Jul-2015,2,1,2,-1,None,House,https://www.domain.com.au/4-louis-street-glen-iris-vic-3146-2012080873,,1.3-2.6-7.2,3,Jul/2015/450.0/SOLD
+51,5/49-osborne-avenue-glen-iris-vic-3146,950000,16-May-2015,2,2,2,-1,None,House,https://www.domain.com.au/5-49-osborne-avenue-glen-iris-vic-3146-2011927211,,1.2-1.4-8.3,3,
+52,42-grandview-avenue-glen-iris-vic-3146,1381000,28-Mar-2015,2,1,1,-1,None,House,https://www.domain.com.au/42-grandview-avenue-glen-iris-vic-3146-2011808876,,0.5-2.2-9.1,3,Mar/2015/1381000.0/SOLD
+53,8/2-june-crescent-glen-iris-vic-3146,545000,16-Aug-2014,2,1,2,-1,None,House,https://www.domain.com.au/8-2-june-crescent-glen-iris-vic-3146-2011329865,,0.4-3.2-10.8,3,
+54,3-ranelagh-court-glen-iris-vic-3146,840000,29-May-2014,2,1,1,-1,None,House,https://www.domain.com.au/3-ranelagh-court-glen-iris-vic-3146-2011180273,,0.3-2.2-8.9,3,Jun/2017/1372000.0/SOLD-May/2014/840000.0/SOLD-Dec/2000/275000.0/SOLD
+55,1-cusdin-street-glen-iris-vic-3146,1323000,30-Nov-2013,2,1,1,-1,None,House,https://www.domain.com.au/1-cusdin-street-glen-iris-vic-3146-2010810389,,0.6-2.3-9.2,3,May/2021/4520000.0/SOLD-Nov/2013/1323000.0/SOLD
+56,6/23-osborne-avenue-glen-iris-vic-3146,551000,26-Nov-2013,2,1,1,-1,None,House,https://www.domain.com.au/6-23-osborne-avenue-glen-iris-vic-3146-2010812414,,1.1-1.8-8,3,
+57,29-dent-street-glen-iris-vic-3146,1110000,23-Nov-2013,2,1,4,-1,None,House,https://www.domain.com.au/29-dent-street-glen-iris-vic-3146-2010802933,,0.7-2.7-10.8,3,Nov/2013/1110000.0/SOLD-Sep/1990/165000.0/SOLD
+58,191-glen-iris-road-glen-iris-vic-3146,1125000,26-Oct-2013,2,1,2,-1,None,House,https://www.domain.com.au/191-glen-iris-road-glen-iris-vic-3146-2010739546,,0.1-3-10.3,3,Oct/2013/1125000.0/SOLD
+59,6a-bonnyview-street-glen-iris-vic-3146,795000,14-Sep-2013,2,1,1,-1,None,House,https://www.domain.com.au/6a-bonnyview-street-glen-iris-vic-3146-2010654483,,0.6-1.8-9.1,3,Sep/2018/995.0/SOLD
+60,2-king-street-glen-iris-vic-3146,735000,17-Aug-2013,2,1,2,-1,None,House,https://www.domain.com.au/2-king-street-glen-iris-vic-3146-2010611398,,1.1-1.7-8.1,3,Sep/2013/735000.0/SOLD-Nov/2006/795000.0/SOLD-Feb/2001/343000.0/SOLD
+61,1a-york-road-glen-iris-vic-3146,730000,03-Aug-2013,2,1,1,303,m2,House,https://www.domain.com.au/1a-york-road-glen-iris-vic-3146-2010611405,,1-2.1-7.8,3,Oct/2017/900.0/SOLD
+62,113-tooronga-road-glen-iris-vic-3146,800000,08-Oct-2011,2,1,-1,-1,None,House,https://www.domain.com.au/113-tooronga-road-glen-iris-vic-3146-2009230544,,0.9-2.6-7.4,3,Oct/2011/800000.0/SOLD
+63,4/31-yeovil-road-glen-iris-vic-3146,470000,13-Aug-2011,2,1,1,-1,None,House,https://www.domain.com.au/4-31-yeovil-road-glen-iris-vic-3146-2009120584,,0.5-2-9.1,3,
+64,49-liston-street-glen-iris-vic-3146,890000,20-Apr-2011,2,1,1,-1,None,House,https://www.domain.com.au/49-liston-street-glen-iris-vic-3146-2008924938,,0.7-1.3-9.7,3,Apr/2011/890000.0/SOLD-Mar/1989/140000.0/SOLD
+65,9-hillside-parade-glen-iris-vic-3146,841000,20-Nov-2010,2,1,2,-1,None,House,https://www.domain.com.au/9-hillside-parade-glen-iris-vic-3146-2008650371,,0.2-2-9.1,3,Nov/2010/841000.0/SOLD-Feb/2007/676000.0/SOLD-Jan/1998/212000.0/SOLD
+66,3/102-bath-road-glen-iris-vic-3146,470000,14-Jul-2010,2,1,1,-1,None,House,https://www.domain.com.au/3-102-bath-road-glen-iris-vic-3146-2008443869,,1.1-1.2-1.2,3,
+67,4/4-karana-place-glen-iris-vic-3146,645000,22-May-2010,2,1,1,-1,None,Villa,https://www.domain.com.au/4-4-karana-place-glen-iris-vic-3146-2008340972,,0.6-2.9-7.1,3,
+68,51a-rosedale-road-glen-iris-vic-3146,780000,14-May-2010,2,2,1,-1,None,House,https://www.domain.com.au/51a-rosedale-road-glen-iris-vic-3146-2008353150,,0.8-2.6-9.9,3,Sep/2019/850.0/SOLD-May/2010/1340000.0/SOLD
+69,15-towerhill-road-glen-iris-vic-3146,1100000,27-Mar-2010,2,1,1,-1,None,House,https://www.domain.com.au/15-towerhill-road-glen-iris-vic-3146-2008231007,,0.8-2.5-7.4,3,
+70,40-gardiner-pde-glen-iris-vic-3146,894000,29-Aug-2009,2,1,1,-1,None,House,https://www.domain.com.au/40-gardiner-pde-glen-iris-vic-3146-2007925548,,0.7-2.3-9.8,3,Apr/2015/2400000.0/SOLD-Aug/2009/894000.0/SOLD
+71,12-jesse-street-glen-iris-vic-3146,900000,20-Oct-2007,2,1,1,-1,None,House,https://www.domain.com.au/12-jesse-street-glen-iris-vic-3146-2006694573,Secure Parking,0.9-1.6-9.1,3,Oct/2007/900000.0/SOLD
+72,102-valley-parade-glen-iris-vic-3146,400000,03-Mar-2006,2,1,2,-1,None,House,https://www.domain.com.au/102-valley-parade-glen-iris-vic-3146-2005428390,"Undercover Parking-""Secure Parking""",0.6-2.4-9.5,3,
+73,24-charles-street-glen-iris-vic-3146,638000,29-Mar-2005,2,2,-1,-1,None,House,https://www.domain.com.au/24-charles-street-glen-iris-vic-3146-2004579064,,0.8-1.7-9,3,Mar/2005/638000.0/SOLD
