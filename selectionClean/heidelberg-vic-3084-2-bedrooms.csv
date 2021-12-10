@@ -1,30 +1,30 @@
-address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
-148-brown-street-heidelberg-vic-3084,1430000,13-Nov-2021,2,1,1,680,m2,House,https://www.domain.com.au/148-brown-street-heidelberg-vic-3084-2017327947,,0.7-2.5-0.6,3,Nov/2021/1430000.0/SOLD
-202-hawdon-street-heidelberg-vic-3084,1010000,17-Jul-2021,2,2,1,271,m2,House,https://www.domain.com.au/202-hawdon-street-heidelberg-vic-3084-2017113371,"Air conditioning-""Study""-""Gas Heating""-""Secure Parking""",0.8-2-1.1,3,Jul/2021/1010000.0/SOLD-Dec/2012/450.0/SOLD
-1-bronte-street-heidelberg-vic-3084,1001000,27-Mar-2021,2,1,1,443,m2,House,https://www.domain.com.au/1-bronte-street-heidelberg-vic-3084-2016838047,,0.6-2.1-0.9,3,Mar/2021/1000999.9999999999/SOLD-Jul/2013/485.0/SOLD
-lot-1/180-hawdon-street-heidelberg-vic-3084,850000,06-Jan-2021,2,2,1,-1,None,New house and land,https://www.domain.com.au/lot-1-180-hawdon-street-heidelberg-vic-3084-2016720511,,0.6-2.1-0.9,3,
-97-buckingham-drive-heidelberg-vic-3084,920000,06-Jul-2019,2,2,2,653,m2,House,https://www.domain.com.au/97-buckingham-drive-heidelberg-vic-3084-2015335237,,0.5-0.7-1.4,3,Jun/2019/920000.0/SOLD
-23-anderson-street-heidelberg-vic-3084,1100000,10-Apr-2019,2,1,-1,934,m2,House,https://www.domain.com.au/23-anderson-street-heidelberg-vic-3084-2015020414,,0.6-1.3-1.2,3,Apr/2019/1100000.0/SOLD
+"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"
+148-brown-street-heidelberg-vic-3084,1430000,13-Nov-2021,2,1,1,680,m2,House,https://www.domain.com.au/148-brown-street-heidelberg-vic-3084-2017327947,nan,0.7-2.5-0.6,3,Nov/2021/1430000.0/SOLD
+202-hawdon-street-heidelberg-vic-3084,1010000,17-Jul-2021,2,2,1,271,m2,House,https://www.domain.com.au/202-hawdon-street-heidelberg-vic-3084-2017113371,Air conditioning-Study-Gas Heating-Secure Parking,0.8-2-1.1,3,Jul/2021/1010000.0/SOLD-Dec/2012/450.0/SOLD
+1-bronte-street-heidelberg-vic-3084,1001000,27-Mar-2021,2,1,1,443,m2,House,https://www.domain.com.au/1-bronte-street-heidelberg-vic-3084-2016838047,nan,0.6-2.1-0.9,3,Mar/2021/1000999.9999999999/SOLD-Jul/2013/485.0/SOLD
+lot-1/180-hawdon-street-heidelberg-vic-3084,850000,06-Jan-2021,2,2,1,-1,None,New house and land,https://www.domain.com.au/lot-1-180-hawdon-street-heidelberg-vic-3084-2016720511,nan,0.6-2.1-0.9,3,
+97-buckingham-drive-heidelberg-vic-3084,920000,06-Jul-2019,2,2,2,653,m2,House,https://www.domain.com.au/97-buckingham-drive-heidelberg-vic-3084-2015335237,nan,0.5-0.7-1.4,3,Jun/2019/920000.0/SOLD
+23-anderson-street-heidelberg-vic-3084,1100000,10-Apr-2019,2,1,-1,934,m2,House,https://www.domain.com.au/23-anderson-street-heidelberg-vic-3084-2015020414,nan,0.6-1.3-1.2,3,Apr/2019/1100000.0/SOLD
 1/55-57-brown-street-heidelberg-vic-3084,745000,16-Mar-2019,2,2,1,-1,None,House,https://www.domain.com.au/1-55-57-brown-street-heidelberg-vic-3084-2013870514,Study,0.3-2-0.6,3,
-15-weyburn-court-heidelberg-vic-3084,1030000,24-Mar-2018,2,1,-1,725,m2,House,https://www.domain.com.au/15-weyburn-court-heidelberg-vic-3084-2014215403,,0.2-2.2-0.5,3,Mar/2018/1030000.0/SOLD-Aug/2003/487500.0/SOLD-Feb/1990/250000.0/SOLD
-4/9-clyde-court-heidelberg-vic-3084,710000,28-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/4-9-clyde-court-heidelberg-vic-3084-2014153382,,0.7-1.7-1.1,3,
-1/110-brown-street-heidelberg-vic-3084,805000,24-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/1-110-brown-street-heidelberg-vic-3084-2014136075,,0.4-2.3-0.7,3,
-4/152-hawdon-street-heidelberg-vic-3084,648500,25-Nov-2017,2,1,1,-1,None,House,https://www.domain.com.au/4-152-hawdon-street-heidelberg-vic-3084-2013964280,,0.4-2.1-0.7,3,
-1-powlett-street-heidelberg-vic-3084,445000,03-Jul-2017,2,1,1,-1,None,New house and land,https://www.domain.com.au/1-powlett-street-heidelberg-vic-3084-2011971237,,0.9-2.9-0.2,3,Jul/2017/445000.0/SOLD-Dec/2009/350.0/SOLD
-5-learmonth-street-heidelberg-vic-3084,1010000,30-Apr-2016,2,1,1,621,m2,House,https://www.domain.com.au/5-learmonth-street-heidelberg-vic-3084-2012707749,,1-2.1-1,3,Apr/2016/1010000.0/SOLD-Oct/2004/407000.0/SOLD
-8/12-jika-street-heidelberg-vic-3084,632500,19-Mar-2016,2,1,2,-1,None,House,https://www.domain.com.au/8-12-jika-street-heidelberg-vic-3084-2012584247,,0.4-2.2-0.3,3,
-3/75-rosanna-road-heidelberg-vic-3084,485500,20-Feb-2016,2,1,1,-1,None,Villa,https://www.domain.com.au/3-75-rosanna-road-heidelberg-vic-3084-2012550709,,0.4-1.9-0.7,3,
-8/7-rill-street-heidelberg-vic-3084,540000,21-Nov-2015,2,1,1,-1,None,House,https://www.domain.com.au/8-7-rill-street-heidelberg-vic-3084-2012365290,,0.8-2.3-0.8,3,
-18-cartmell-street-heidelberg-vic-3084,800000,26-Sep-2015,2,1,1,263,m2,House,https://www.domain.com.au/18-cartmell-street-heidelberg-vic-3084-2012228878,,0.2-2.4-0.3,3,Sep/2015/800000.0/SOLD
-124-brown-street-heidelberg-vic-3084,895000,06-Dec-2014,2,2,2,761,m2,House,https://www.domain.com.au/124-brown-street-heidelberg-vic-3084-2011579215,,0.5-2.4-0.7,3,Dec/2014/895000.0/SOLD-Sep/1995/164000.0/SOLD
-157-northern-road-heidelberg-vic-3084,590000,11-Apr-2014,2,1,-1,-1,None,House,https://www.domain.com.au/157-northern-road-heidelberg-vic-3084-2011110397,,0.2-0.7-1.5,3,
-35-bronte-street-heidelberg-vic-3084,882000,01-Mar-2014,2,1,1,834,m2,House,https://www.domain.com.au/35-bronte-street-heidelberg-vic-3084-2010966035,,0.8-2.2-0.9,3,Mar/2014/882000.0/SOLD
-1-bronte-street-heidelberg-vic-3084,677500,27-Jul-2013,2,1,1,-1,None,House,https://www.domain.com.au/1-bronte-street-heidelberg-vic-3084-2010545561,,0.6-2.1-0.9,3,Mar/2021/1000999.9999999999/SOLD-Jul/2013/485.0/SOLD
-5/8-10-jika-street-heidelberg-vic-3084,467000,11-May-2013,2,1,2,-1,None,Villa,https://www.domain.com.au/5-8-10-jika-street-heidelberg-vic-3084-2010407884,,0.5-2.2-0.4,3,
+15-weyburn-court-heidelberg-vic-3084,1030000,24-Mar-2018,2,1,-1,725,m2,House,https://www.domain.com.au/15-weyburn-court-heidelberg-vic-3084-2014215403,nan,0.2-2.2-0.5,3,Mar/2018/1030000.0/SOLD-Aug/2003/487500.0/SOLD-Feb/1990/250000.0/SOLD
+4/9-clyde-court-heidelberg-vic-3084,710000,28-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/4-9-clyde-court-heidelberg-vic-3084-2014153382,nan,0.7-1.7-1.1,3,
+1/110-brown-street-heidelberg-vic-3084,805000,24-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/1-110-brown-street-heidelberg-vic-3084-2014136075,nan,0.4-2.3-0.7,3,
+4/152-hawdon-street-heidelberg-vic-3084,648500,25-Nov-2017,2,1,1,-1,None,House,https://www.domain.com.au/4-152-hawdon-street-heidelberg-vic-3084-2013964280,nan,0.4-2.1-0.7,3,
+1-powlett-street-heidelberg-vic-3084,445000,03-Jul-2017,2,1,1,-1,None,New house and land,https://www.domain.com.au/1-powlett-street-heidelberg-vic-3084-2011971237,nan,0.9-2.9-0.2,3,Jul/2017/445000.0/SOLD-Dec/2009/350.0/SOLD
+5-learmonth-street-heidelberg-vic-3084,1010000,30-Apr-2016,2,1,1,621,m2,House,https://www.domain.com.au/5-learmonth-street-heidelberg-vic-3084-2012707749,nan,1-2.1-1,3,Apr/2016/1010000.0/SOLD-Oct/2004/407000.0/SOLD
+8/12-jika-street-heidelberg-vic-3084,632500,19-Mar-2016,2,1,2,-1,None,House,https://www.domain.com.au/8-12-jika-street-heidelberg-vic-3084-2012584247,nan,0.4-2.2-0.3,3,
+3/75-rosanna-road-heidelberg-vic-3084,485500,20-Feb-2016,2,1,1,-1,None,Villa,https://www.domain.com.au/3-75-rosanna-road-heidelberg-vic-3084-2012550709,nan,0.4-1.9-0.7,3,
+8/7-rill-street-heidelberg-vic-3084,540000,21-Nov-2015,2,1,1,-1,None,House,https://www.domain.com.au/8-7-rill-street-heidelberg-vic-3084-2012365290,nan,0.8-2.3-0.8,3,
+18-cartmell-street-heidelberg-vic-3084,800000,26-Sep-2015,2,1,1,263,m2,House,https://www.domain.com.au/18-cartmell-street-heidelberg-vic-3084-2012228878,nan,0.2-2.4-0.3,3,Sep/2015/800000.0/SOLD
+124-brown-street-heidelberg-vic-3084,895000,06-Dec-2014,2,2,2,761,m2,House,https://www.domain.com.au/124-brown-street-heidelberg-vic-3084-2011579215,nan,0.5-2.4-0.7,3,Dec/2014/895000.0/SOLD-Sep/1995/164000.0/SOLD
+157-northern-road-heidelberg-vic-3084,590000,11-Apr-2014,2,1,-1,-1,None,House,https://www.domain.com.au/157-northern-road-heidelberg-vic-3084-2011110397,nan,0.2-0.7-1.5,3,
+35-bronte-street-heidelberg-vic-3084,882000,01-Mar-2014,2,1,1,834,m2,House,https://www.domain.com.au/35-bronte-street-heidelberg-vic-3084-2010966035,nan,0.8-2.2-0.9,3,Mar/2014/882000.0/SOLD
+1-bronte-street-heidelberg-vic-3084,677500,27-Jul-2013,2,1,1,-1,None,House,https://www.domain.com.au/1-bronte-street-heidelberg-vic-3084-2010545561,nan,0.6-2.1-0.9,3,Mar/2021/1000999.9999999999/SOLD-Jul/2013/485.0/SOLD
+5/8-10-jika-street-heidelberg-vic-3084,467000,11-May-2013,2,1,2,-1,None,Villa,https://www.domain.com.au/5-8-10-jika-street-heidelberg-vic-3084-2010407884,nan,0.5-2.2-0.4,3,
 202-hawdon-street-heidelberg-vic-3084,482000,15-Dec-2012,2,1,1,-1,None,House,https://www.domain.com.au/202-hawdon-street-heidelberg-vic-3084-2010135887,Study,0.8-2-1.1,3,Jul/2021/1010000.0/SOLD-Dec/2012/450.0/SOLD
-53-mortimer-street-heidelberg-vic-3084,760000,20-Aug-2011,2,2,2,708,m2,House,https://www.domain.com.au/53-mortimer-street-heidelberg-vic-3084-2009130055,,1.1-2-1,3,Aug/2011/760000.0/SOLD
+53-mortimer-street-heidelberg-vic-3084,760000,20-Aug-2011,2,2,2,708,m2,House,https://www.domain.com.au/53-mortimer-street-heidelberg-vic-3084-2009130055,nan,1.1-2-1,3,Aug/2011/760000.0/SOLD
 44-barkly-place-heidelberg-vic-3084,765000,16-Apr-2011,2,1,2,-1,None,House,https://www.domain.com.au/44-barkly-place-heidelberg-vic-3084-2008893508,Study,0.9-2.8-0.9,3,Apr/2011/280.0/SOLD
-1-mortimer-street-heidelberg-vic-3084,638000,04-Sep-2010,2,2,1,-1,None,House,https://www.domain.com.au/1-mortimer-street-heidelberg-vic-3084-2008508989,,0.9-2.4-0.6,3,Nov/2016/1027500.0000000001/SOLD-Sep/2010/638000.0/SOLD-Feb/1999/210000.0/SOLD
-41-manton-street-heidelberg-vic-3084,555000,24-Jul-2010,2,1,-1,-1,None,House,https://www.domain.com.au/41-manton-street-heidelberg-vic-3084-2008374543,,0.7-1.9-1.1,3,Apr/2020/900000.0/SOLD-Jul/2010/555000.0/SOLD
-10-olive-grove-heidelberg-vic-3084,810000,16-Jul-2010,2,1,-1,-1,None,House,https://www.domain.com.au/10-olive-grove-heidelberg-vic-3084-2008428521,,0.6-2.3-0.8,3,Sep/2018/855000.0/SOLD-Dec/2013/620000.0/SOLD-Jul/2010/810000.0/SOLD
-5-cartmell-street-heidelberg-vic-3084,635500,26-Jul-2008,2,1,3,-1,None,House,https://www.domain.com.au/5-cartmell-street-heidelberg-vic-3084-2007239657,,0.1-2.4-0.3,3,Jan/2012/1157500.0/SOLD
+1-mortimer-street-heidelberg-vic-3084,638000,04-Sep-2010,2,2,1,-1,None,House,https://www.domain.com.au/1-mortimer-street-heidelberg-vic-3084-2008508989,nan,0.9-2.4-0.6,3,Nov/2016/1027500.0000000001/SOLD-Sep/2010/638000.0/SOLD-Feb/1999/210000.0/SOLD
+41-manton-street-heidelberg-vic-3084,555000,24-Jul-2010,2,1,-1,-1,None,House,https://www.domain.com.au/41-manton-street-heidelberg-vic-3084-2008374543,nan,0.7-1.9-1.1,3,Apr/2020/900000.0/SOLD-Jul/2010/555000.0/SOLD
+10-olive-grove-heidelberg-vic-3084,810000,16-Jul-2010,2,1,-1,-1,None,House,https://www.domain.com.au/10-olive-grove-heidelberg-vic-3084-2008428521,nan,0.6-2.3-0.8,3,Sep/2018/855000.0/SOLD-Dec/2013/620000.0/SOLD-Jul/2010/810000.0/SOLD
+5-cartmell-street-heidelberg-vic-3084,635500,26-Jul-2008,2,1,3,-1,None,House,https://www.domain.com.au/5-cartmell-street-heidelberg-vic-3084-2007239657,nan,0.1-2.4-0.3,3,Jan/2012/1157500.0/SOLD

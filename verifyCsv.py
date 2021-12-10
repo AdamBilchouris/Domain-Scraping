@@ -5,7 +5,7 @@ import pandas as pd
 #https://www.pythoncentral.io/how-to-traverse-a-directory-tree-in-python-guide-to-os-walk/
 i = 0
 totalProperties = 0
-hasNoneDir = 'selection'
+hasNoneDir = 'selectionClean'
 for dirName, subdirList, fileList in os.walk(f'{hasNoneDir}/'):
     for fname in fileList:
         filePath = f'{dirName}/{fname}'

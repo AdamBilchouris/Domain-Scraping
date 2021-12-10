@@ -1,3 +1,3 @@
-address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
-81-corowa-crescent-greensborough-vic-3088,500000,15-Apr-2021,1,2,-1,795,m2,House,https://www.domain.com.au/81-corowa-crescent-greensborough-vic-3088-2016892511,,0.5-2.9-1.3,3,Apr/2021/500000.0/SOLD-Oct/1980/6800.0/SOLD
-lot-2/10-12-lemon-tree-lane-greensborough-vic-3088,1350000,16-Oct-2010,1,1,-1,1750,m2,House,https://www.domain.com.au/lot-2-10-12-lemon-tree-lane-greensborough-vic-3088-2008575827,,0.5-0.6-0.1,3,
+"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"
+81-corowa-crescent-greensborough-vic-3088,500000,15-Apr-2021,1,2,-1,795,m2,House,https://www.domain.com.au/81-corowa-crescent-greensborough-vic-3088-2016892511,nan,0.5-2.9-1.3,3,Apr/2021/500000.0/SOLD-Oct/1980/6800.0/SOLD
+lot-2/10-12-lemon-tree-lane-greensborough-vic-3088,1350000,16-Oct-2010,1,1,-1,1750,m2,House,https://www.domain.com.au/lot-2-10-12-lemon-tree-lane-greensborough-vic-3088-2008575827,nan,0.5-0.6-0.1,3,

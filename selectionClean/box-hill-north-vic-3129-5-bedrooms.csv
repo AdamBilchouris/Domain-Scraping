@@ -1,5 +1,5 @@
-address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
-2&3/13-medway-street-box-hill-north-vic-3129,2349000,04-Dec-2021,6,3,3,898,m2,House,https://www.domain.com.au/1-2-3-13-medway-street-box-hill-north-vic-3129-2017391947,,1-1.1-5,3,
+"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"
+2&3/13-medway-street-box-hill-north-vic-3129,2349000,04-Dec-2021,6,3,3,898,m2,House,https://www.domain.com.au/1-2-3-13-medway-street-box-hill-north-vic-3129-2017391947,nan,1-1.1-5,3,
 1845000,10-Oct-2021,5,4,2,-1,None,House,https://www.domain.com.au/218-dorking-road-box-hill-north-vic-3129-2017260217,"Gas*-""Internal Laundry*""-""Secure Parking*""-""Bath*""-""Heating*""-""Dishwasher*""-""Balcony / Deck*""",0.5-1.7-4,3,,
 1450000,01-May-2021,5,3,3,601,m2,House,https://www.domain.com.au/35-lyndhurst-crescent-box-hill-north-vic-3129-2016898802,"Gas*-""Internal Laundry*""-""Garden*""-""Balcony / Deck*""",0.7-1.6-3.8,3,May/2021/1450000.0/SOLD-Sep/1997/225000.0/SOLD,
 1270000,26-Apr-2021,5,1,2,591,m2,House,https://www.domain.com.au/32-second-avenue-box-hill-north-vic-3129-2016877597,Garden*,0.4-1.4-4.5,3,May/2021/1270000.0/SOLD,
@@ -16,7 +16,7 @@ address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,pr
 2171000,12-Oct-2019,5,2,2,1187,m2,House,https://www.domain.com.au/27-severn-street-box-hill-north-vic-3129-2015625260,,1.1-1.2-5,3,Oct/2019/2171000.0/SOLD-May/2018/700.0/SOLD,
 1260000,31-Aug-2019,5,4,4,624,m2,House,https://www.domain.com.au/51-kerrimuir-street-box-hill-north-vic-3129-2015521010,,0.1-1.4-4.5,3,Aug/2019/1260000.0/SOLD,
 1250000,31-Aug-2019,5,2,3,626,m2,House,https://www.domain.com.au/92-shannon-street-box-hill-north-vic-3129-2015507522,,0.5-0.8-4.1,3,Aug/2019/430.0/SOLD,
-2-&-3/74-medway-street-box-hill-north-vic-3129,2280000,03-May-2019,9,6,6,1202,m2,House,https://www.domain.com.au/1-2-3-74-medway-street-box-hill-north-vic-3129-2015031421,"Remote Garage-""Ducted Heating""-""Built in wardrobes""",0.5-1.2-4.3,3,
+2-&-3/74-medway-street-box-hill-north-vic-3129,2280000,03-May-2019,9,6,6,1202,m2,House,https://www.domain.com.au/1-2-3-74-medway-street-box-hill-north-vic-3129-2015031421,Remote Garage-Ducted Heating-Built in wardrobes,0.5-1.2-4.3,3,
 2000000,11-Feb-2019,5,3,2,-1,None,House,https://www.domain.com.au/10-second-avenue-box-hill-north-vic-3129-2014884113,,0.6-1.5-4.4,3,Feb/2019/2000000.0/SOLD-Sep/2016/862000.0/SOLD-Apr/1992/123000.0/SOLD,
 970000,08-Dec-2018,5,3,4,590,m2,House,https://www.domain.com.au/6-heathfield-rise-box-hill-north-vic-3129-2014646621,,0.5-1.2-4.7,3,Dec/2018/970000.0/SOLD-Feb/1987/550.0/SOLD,
 1445000,10-Nov-2018,5,3,-1,697,m2,House,https://www.domain.com.au/11-hillside-parade-box-hill-north-vic-3129-2014700370,,0.6-0.7-1,3,Nov/2018/1445000.0/SOLD-May/2005/535000.0/SOLD-Jun/2002/335566.0/SOLD,

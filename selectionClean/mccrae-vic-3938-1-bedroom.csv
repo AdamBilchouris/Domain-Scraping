@@ -1,9 +1,9 @@
-address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"
 beachbox-44-mccrae-vic-3938,124776,02-Mar-2021,1,1,-1,-1,None,House,https://www.domain.com.au/beachbox-44-mccrae-vic-3938-2016749634,Garden*,2.2-4.2-3,3,
-boat-shed-66-mccrae-vic-3938,190000,12-Jan-2021,1,1,-1,-1,None,House,https://www.domain.com.au/boat-shed-66-mccrae-vic-3938-2016644921,"Shed*-""Garden*""-""Solar panels*""-""Balcony / Deck""-""Water Views""",1.3-3.6-2.7,3,
-boatshed-f61-mccrae-vic-3938,300000,24-Nov-2020,1,1,-1,-1,None,House,https://www.domain.com.au/boatshed-f61-mccrae-vic-3938-2016619553,"Garden*-""Water Views""",2.1-4.2-3.1,3,
-58-flinders-street-mccrae-vic-3938,795000,29-Oct-2019,1,1,-1,1601,m2,House,https://www.domain.com.au/58-flinders-street-mccrae-vic-3938-2015694899,,2.1-4.2-3,3,Oct/2019/795000.0/SOLD
-beachbox-f11-mccrae-foreshore-mccrae-vic-3938,80000,26-Jul-2018,1,1,-1,15,m2,House,https://www.domain.com.au/beachbox-f11-mccrae-foreshore-mccrae-vic-3938-2014093189,"Floorboards-""Water Views""",2.1-4.4-3.6,3,
-f12-boat-shed-mccrae-foreshore-mccrae-vic-3938,280000,08-Mar-2018,1,1,-1,-1,None,House,https://www.domain.com.au/f12-boat-shed-mccrae-foreshore-mccrae-vic-3938-2014088019,,2.1-4.3-3.1,3,
-1a-william-street-mccrae-vic-3938,325000,08-May-2015,1,1,2,298,m2,House,https://www.domain.com.au/1a-william-street-mccrae-vic-3938-2011883356,"Heating-""Garden / Courtyard""-""Dishwasher""",1.8-4.1-3.1,3,
-3-talbot-grove-mccrae-vic-3938,337000,12-Apr-2014,1,1,-1,1174,m2,House,https://www.domain.com.au/3-talbot-grove-mccrae-vic-3938-2011052640,,1.8-3.5-2,3,Apr/2014/337000.0/SOLD
+boat-shed-66-mccrae-vic-3938,190000,12-Jan-2021,1,1,-1,-1,None,House,https://www.domain.com.au/boat-shed-66-mccrae-vic-3938-2016644921,Shed*-Garden*-Solar panels*-Balcony / Deck-Water Views,1.3-3.6-2.7,3,
+boatshed-f61-mccrae-vic-3938,300000,24-Nov-2020,1,1,-1,-1,None,House,https://www.domain.com.au/boatshed-f61-mccrae-vic-3938-2016619553,Garden*-Water Views,2.1-4.2-3.1,3,
+58-flinders-street-mccrae-vic-3938,795000,29-Oct-2019,1,1,-1,1601,m2,House,https://www.domain.com.au/58-flinders-street-mccrae-vic-3938-2015694899,nan,2.1-4.2-3,3,Oct/2019/795000.0/SOLD
+beachbox-f11-mccrae-foreshore-mccrae-vic-3938,80000,26-Jul-2018,1,1,-1,15,m2,House,https://www.domain.com.au/beachbox-f11-mccrae-foreshore-mccrae-vic-3938-2014093189,Floorboards-Water Views,2.1-4.4-3.6,3,
+f12-boat-shed-mccrae-foreshore-mccrae-vic-3938,280000,08-Mar-2018,1,1,-1,-1,None,House,https://www.domain.com.au/f12-boat-shed-mccrae-foreshore-mccrae-vic-3938-2014088019,nan,2.1-4.3-3.1,3,
+1a-william-street-mccrae-vic-3938,325000,08-May-2015,1,1,2,298,m2,House,https://www.domain.com.au/1a-william-street-mccrae-vic-3938-2011883356,Heating-Garden / Courtyard-Dishwasher,1.8-4.1-3.1,3,
+3-talbot-grove-mccrae-vic-3938,337000,12-Apr-2014,1,1,-1,1174,m2,House,https://www.domain.com.au/3-talbot-grove-mccrae-vic-3938-2011052640,nan,1.8-3.5-2,3,Apr/2014/337000.0/SOLD
