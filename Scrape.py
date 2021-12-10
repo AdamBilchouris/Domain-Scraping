@@ -1,7 +1,11 @@
 import urllib3
-from urllib.parse import urlencode
+from urllib.parse import urlencode, urlparse
 import certifi
 import bs4
+from fake_useragent import UserAgent
+ua = UserAgent()
+#from fp.fp import FreeProxy
+import time
 
 import sys, os, csv, time
 
@@ -148,7 +152,8 @@ class Property:
 
     def getListingDetails2(self):
         http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
-        res = http.request('GET', self.url)
+        headers = {'User-Agent': ua.random}
+        res = http.request('GET', self.url, headers=headers)
 
         soup = bs4.BeautifulSoup(res.data, 'html.parser')
 
@@ -359,8 +364,9 @@ class Property:
         self.salesHistory = salesHistory
                 
     def getSalesHistory2(self):
+        headers = {'User-Agent': ua.random}
         http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
-        res = http.request('GET', f'https://www.domain.com.au/property-profile/{self.address}')
+        res = http.request('GET', f'https://www.domain.com.au/property-profile/{self.address}', headers=headers)
         soup = bs4.BeautifulSoup(res.data, 'html.parser')
         
         salesHistory = []
@@ -489,12 +495,16 @@ for sub, pcode, state in content:
         #print(sub.lower().replace(' ', '-') + '-vic-' + pcode + '/house/' + bedroomsUrl[i])
         queries.append(sub.lower().replace(' ', '-') + '-vic-' + pcode + '/house/' + bedroomsUrl[i])
 
+banned = False
 sL = time.perf_counter()
 for q in queries:
     sQ = time.perf_counter()
-    props = []
+    #props = []
     print(q)
     j = 0
+    if banned == True:
+        break
+
     with open(folderName + '/' + q.replace('/house/', '-') + '.csv', 'w+') as f:
         f.write('"address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"\n')
         for i in range(1, 51, 1):
@@ -502,8 +512,14 @@ for q in queries:
             http = urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where())
             #newURL = DOMAIN_SOLD_BASE + 'mill-park-vic-3082/' + 'house/' + bedroomsUrl[4] + '/?' + urlencode(params)
             newURL = DOMAIN_SOLD_BASE + q + '/?' + urlencode(params)
-            res = http.request('GET', newURL, fields=params)
+            headers = {'User-Agent': ua.random}
+            res = http.request('GET', newURL, fields=params, headers=headers)
             soup = bs4.BeautifulSoup(res.data, 'html.parser')
+            
+            if res.status == 403:
+                print('403 - IP Banned')
+                banned = True
+                break
             
             if isNoMatch(soup):
                 print(f'Blank Page {i}')
@@ -513,16 +529,19 @@ for q in queries:
             properties = soup.find_all('li', class_='css-1qp9106')
             for p in properties:
                 print('Property = ', j)
+                time.sleep(2)
                 d = getPropertyData(p)
                 #prop = Property(d[2], d[1], d[0], d[3], d[4], extras, d[5])
                 prop = Property(d[2], d[1], d[0], d[3], d[4], d[5])
                 prop.getListingDetails2()
+                time.sleep(2)
                 prop.getSalesHistory2()
-                props.append(prop)
+                time.sleep(2)
+                #props.append(prop)
                 #print(prop.toString())
                 f.write(prop.toString() + '\n')
                 j += 1
-    
+
     #writeFile(folderName + '/' + q.replace('/house/', '-') + '.csv', props)
     eQ = time.perf_counter()
     print(q + ' time: ', (eQ - sQ))
