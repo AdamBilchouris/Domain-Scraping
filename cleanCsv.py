@@ -14,6 +14,7 @@ for dirName, subdirList, fileList in os.walk(f'{READ_DIR}/'):
         csv = pd.read_csv(filePath)
         csv['propertyType'] = csv['propertyType'].str.replace('"', '')
         csv['houseFeatures'] = csv['houseFeatures'].astype(str).str.replace('"', '')
+        csv['houseFeatures'] = csv['houseFeatures'].str.replace('nan', '')
         csv.to_csv(f'{WRITE_DIR}/{fname}', index=False)
         
         #change the header to have quotes again

@@ -1,4 +1,4 @@
 "address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"
-12/14-yarralea-street-alphington-vic-3078,443000,28-May-2021,1,1,1,-1,None,Villa,https://www.domain.com.au/12-14-yarralea-street-alphington-vic-3078-2017004354,nan,0.1-2.8-4.5,3,
-10/14-yarralea-street-alphington-vic-3078,355000,28-Jun-2017,1,1,1,-1,None,Villa,https://www.domain.com.au/10-14-yarralea-street-alphington-vic-3078-2013632585,nan,0.1-2.9-4.5,3,
-5/15-st-bernards-road-alphington-vic-3078,370000,03-Aug-2015,1,1,1,-1,None,House,https://www.domain.com.au/5-15-st-bernards-road-alphington-vic-3078-2011902024,nan,0.2-2.7-4.7,3,
+12/14-yarralea-street-alphington-vic-3078,443000,28-May-2021,1,1,1,-1,None,Villa,https://www.domain.com.au/12-14-yarralea-street-alphington-vic-3078-2017004354,,0.1-2.8-4.5,3,
+10/14-yarralea-street-alphington-vic-3078,355000,28-Jun-2017,1,1,1,-1,None,Villa,https://www.domain.com.au/10-14-yarralea-street-alphington-vic-3078-2013632585,,0.1-2.9-4.5,3,
+5/15-st-bernards-road-alphington-vic-3078,370000,03-Aug-2015,1,1,1,-1,None,House,https://www.domain.com.au/5-15-st-bernards-road-alphington-vic-3078-2011902024,,0.2-2.7-4.7,3,

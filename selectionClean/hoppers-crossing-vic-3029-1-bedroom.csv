@@ -1,3 +1,3 @@
 "address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"
-13a-barber-drive-hoppers-crossing-vic-3029,357500,08-Mar-2016,1,1,-1,-1,None,House,https://www.domain.com.au/13a-barber-drive-hoppers-crossing-vic-3029-2012612703,nan,0.7-1.2-0.9,3,Apr/2016/357500.0/SOLD
-12-coolabah-cres-hoppers-crossing-vic-3029,160000,31-Mar-2009,1,1,-1,-1,None,House,https://www.domain.com.au/12-coolabah-cres-hoppers-crossing-vic-3029-2007679507,nan,1-1.6-1.5,3,
+13a-barber-drive-hoppers-crossing-vic-3029,357500,08-Mar-2016,1,1,-1,-1,None,House,https://www.domain.com.au/13a-barber-drive-hoppers-crossing-vic-3029-2012612703,,0.7-1.2-0.9,3,Apr/2016/357500.0/SOLD
+12-coolabah-cres-hoppers-crossing-vic-3029,160000,31-Mar-2009,1,1,-1,-1,None,House,https://www.domain.com.au/12-coolabah-cres-hoppers-crossing-vic-3029-2007679507,,1-1.6-1.5,3,

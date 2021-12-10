@@ -1,67 +1,67 @@
 "address","price","date","bedrooms","bathrooms","parking_spaces","land_size","land_size_unit","propertyType","url","houseFeatures","schoolsDistance","schoolsCount","salesHistory"
-2/19-ellen-street-balwyn-vic-3103,742000,06-Nov-2021,2,1,2,-1,None,Villa,https://www.domain.com.au/2-19-ellen-street-balwyn-vic-3103-2017319502,nan,0.4-1.4-4.6,3,
-132-gordon-street-balwyn-vic-3103,2450000,09-Oct-2021,2,1,2,759,m2,House,https://www.domain.com.au/132-gordon-street-balwyn-vic-3103-2017171659,nan,0.7-1.2-4.7,3,Oct/2021/2450000.0/SOLD
-14-tivey-parade-balwyn-vic-3103,1180000,27-Jan-2021,2,1,1,291,m2,House,https://www.domain.com.au/14-tivey-parade-balwyn-vic-3103-2016702136,nan,0.8-1-4.5,3,Jan/2021/1180000.0/SOLD-Feb/2018/1125000.0/SOLD
-334-union-road-balwyn-vic-3103,1680000,18-Dec-2020,2,1,1,724,m2,House,https://www.domain.com.au/334-union-road-balwyn-vic-3103-2016626722,nan,0.7-1-1.4,3,Dec/2020/1680000.0/SOLD
+2/19-ellen-street-balwyn-vic-3103,742000,06-Nov-2021,2,1,2,-1,None,Villa,https://www.domain.com.au/2-19-ellen-street-balwyn-vic-3103-2017319502,,0.4-1.4-4.6,3,
+132-gordon-street-balwyn-vic-3103,2450000,09-Oct-2021,2,1,2,759,m2,House,https://www.domain.com.au/132-gordon-street-balwyn-vic-3103-2017171659,,0.7-1.2-4.7,3,Oct/2021/2450000.0/SOLD
+14-tivey-parade-balwyn-vic-3103,1180000,27-Jan-2021,2,1,1,291,m2,House,https://www.domain.com.au/14-tivey-parade-balwyn-vic-3103-2016702136,,0.8-1-4.5,3,Jan/2021/1180000.0/SOLD-Feb/2018/1125000.0/SOLD
+334-union-road-balwyn-vic-3103,1680000,18-Dec-2020,2,1,1,724,m2,House,https://www.domain.com.au/334-union-road-balwyn-vic-3103-2016626722,,0.7-1-1.4,3,Dec/2020/1680000.0/SOLD
 27-narrak-road-balwyn-vic-3103,1905000,12-Dec-2020,2,1,1,643,m2,House,https://www.domain.com.au/27-narrak-road-balwyn-vic-3103-2016643406,Air conditioning*-Built in wardrobes*-Secure Parking*-Heating*-Garden*,0.7-1.5-2.2,3,Dec/2020/1905000.0/SOLD-Jun/1997/210000.0/SOLD
-14a-austin-street-balwyn-vic-3103,1300000,04-Jul-2020,2,1,1,412,m2,House,https://www.domain.com.au/14a-austin-street-balwyn-vic-3103-2016305464,nan,0.6-1.4-5,3,
-20-yonga-road-balwyn-vic-3103,1500000,28-Feb-2020,2,1,1,486,m2,House,https://www.domain.com.au/20-yonga-road-balwyn-vic-3103-2015909416,nan,0.7-1.5-2.2,3,Feb/2020/1500000.0/SOLD-Jul/2018/1421000.0/SOLD
-51-monash-avenue-balwyn-vic-3103,2130000,22-Feb-2020,2,1,1,-1,None,House,https://www.domain.com.au/51-monash-avenue-balwyn-vic-3103-2016006354,nan,0.8-0.9-4.5,3,Feb/2020/2130000.0/SOLD
+14a-austin-street-balwyn-vic-3103,1300000,04-Jul-2020,2,1,1,412,m2,House,https://www.domain.com.au/14a-austin-street-balwyn-vic-3103-2016305464,,0.6-1.4-5,3,
+20-yonga-road-balwyn-vic-3103,1500000,28-Feb-2020,2,1,1,486,m2,House,https://www.domain.com.au/20-yonga-road-balwyn-vic-3103-2015909416,,0.7-1.5-2.2,3,Feb/2020/1500000.0/SOLD-Jul/2018/1421000.0/SOLD
+51-monash-avenue-balwyn-vic-3103,2130000,22-Feb-2020,2,1,1,-1,None,House,https://www.domain.com.au/51-monash-avenue-balwyn-vic-3103-2016006354,,0.8-0.9-4.5,3,Feb/2020/2130000.0/SOLD
 3/103-strabane-avenue-balwyn-vic-3103,795000,04-Jun-2019,2,2,1,-1,None,Villa,https://www.domain.com.au/3-103-strabane-avenue-balwyn-vic-3103-2015113734,Air conditioning-Built in wardrobes-Close to schools-Close to shops-Close to transport-Garden-Secure Parking-Floorboards-Terrace-Balcony-Study,0.6-0.8-1.2,3,
-20-yonga-road-balwyn-vic-3103,1421000,10-Jul-2018,2,1,1,-1,None,House,https://www.domain.com.au/20-yonga-road-balwyn-vic-3103-2014420391,nan,0.7-1.5-2.2,3,Feb/2020/1500000.0/SOLD-Jul/2018/1421000.0/SOLD
-29-kalimna-street-balwyn-vic-3103,1163000,12-May-2018,2,1,2,274,m2,House,https://www.domain.com.au/29-kalimna-street-balwyn-vic-3103-2014315795,nan,0.6-1.3-4.7,3,May/2018/1163000.0/SOLD
-59-yarrbat-avenue-balwyn-vic-3103,2407000,05-May-2018,2,2,2,762,m2,House,https://www.domain.com.au/59-yarrbat-avenue-balwyn-vic-3103-2014299628,nan,0.9-1.7-4.3,3,May/2018/2407000.0/SOLD
-2/10-brenbeal-street-balwyn-vic-3103,782000,24-Mar-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/2-10-brenbeal-street-balwyn-vic-3103-2014214147,nan,0.5-1.8-4.7,3,
-1/6-westminster-street-balwyn-vic-3103,896000,24-Feb-2018,2,1,2,-1,None,Villa,https://www.domain.com.au/1-6-westminster-street-balwyn-vic-3103-2014137646,nan,0.5-1.4-2,3,
-1/2a-parring-road-balwyn-vic-3103,1010000,10-Feb-2018,2,1,2,242,m2,Villa,https://www.domain.com.au/1-2a-parring-road-balwyn-vic-3103-2013942254,nan,0.4-1.9-2.1,3,
-15-northcote-avenue-balwyn-vic-3103,1710000,16-Dec-2017,2,1,2,627,m2,House,https://www.domain.com.au/15-northcote-avenue-balwyn-vic-3103-2014024085,nan,0.5-1.5-1.9,3,Mar/2018/1600000.0/SOLD
+20-yonga-road-balwyn-vic-3103,1421000,10-Jul-2018,2,1,1,-1,None,House,https://www.domain.com.au/20-yonga-road-balwyn-vic-3103-2014420391,,0.7-1.5-2.2,3,Feb/2020/1500000.0/SOLD-Jul/2018/1421000.0/SOLD
+29-kalimna-street-balwyn-vic-3103,1163000,12-May-2018,2,1,2,274,m2,House,https://www.domain.com.au/29-kalimna-street-balwyn-vic-3103-2014315795,,0.6-1.3-4.7,3,May/2018/1163000.0/SOLD
+59-yarrbat-avenue-balwyn-vic-3103,2407000,05-May-2018,2,2,2,762,m2,House,https://www.domain.com.au/59-yarrbat-avenue-balwyn-vic-3103-2014299628,,0.9-1.7-4.3,3,May/2018/2407000.0/SOLD
+2/10-brenbeal-street-balwyn-vic-3103,782000,24-Mar-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/2-10-brenbeal-street-balwyn-vic-3103-2014214147,,0.5-1.8-4.7,3,
+1/6-westminster-street-balwyn-vic-3103,896000,24-Feb-2018,2,1,2,-1,None,Villa,https://www.domain.com.au/1-6-westminster-street-balwyn-vic-3103-2014137646,,0.5-1.4-2,3,
+1/2a-parring-road-balwyn-vic-3103,1010000,10-Feb-2018,2,1,2,242,m2,Villa,https://www.domain.com.au/1-2a-parring-road-balwyn-vic-3103-2013942254,,0.4-1.9-2.1,3,
+15-northcote-avenue-balwyn-vic-3103,1710000,16-Dec-2017,2,1,2,627,m2,House,https://www.domain.com.au/15-northcote-avenue-balwyn-vic-3103-2014024085,,0.5-1.5-1.9,3,Mar/2018/1600000.0/SOLD
 2/32-northcote-avenue-balwyn-vic-3103,711000,09-Dec-2017,2,2,1,-1,None,Villa,https://www.domain.com.au/2-32-northcote-avenue-balwyn-vic-3103-2014016776,Floorboards-Built in wardrobes-Internal Laundry-Heating-Dishwasher-Secure Parking,0.4-1.6-2,3,
-98a-balwyn-road-balwyn-vic-3103,1050000,07-Dec-2017,2,1,1,492,m2,House,https://www.domain.com.au/98a-balwyn-road-balwyn-vic-3103-2013954571,nan,0.2-1.6-4.8,3,Dec/2017/1050000.0/SOLD
-11-grey-street-balwyn-vic-3103,2330000,20-Nov-2017,2,1,1,862,m2,House,https://www.domain.com.au/11-grey-street-balwyn-vic-3103-2013953288,nan,0.4-1.3-5.1,3,Nov/2017/2330000.0/SOLD
-11-power-street-balwyn-vic-3103,2400000,28-Oct-2017,2,1,1,-1,None,House,https://www.domain.com.au/11-power-street-balwyn-vic-3103-2013897269,nan,0.4-1.5-4.9,3,Oct/2017/2400000.0/SOLD
+98a-balwyn-road-balwyn-vic-3103,1050000,07-Dec-2017,2,1,1,492,m2,House,https://www.domain.com.au/98a-balwyn-road-balwyn-vic-3103-2013954571,,0.2-1.6-4.8,3,Dec/2017/1050000.0/SOLD
+11-grey-street-balwyn-vic-3103,2330000,20-Nov-2017,2,1,1,862,m2,House,https://www.domain.com.au/11-grey-street-balwyn-vic-3103-2013953288,,0.4-1.3-5.1,3,Nov/2017/2330000.0/SOLD
+11-power-street-balwyn-vic-3103,2400000,28-Oct-2017,2,1,1,-1,None,House,https://www.domain.com.au/11-power-street-balwyn-vic-3103-2013897269,,0.4-1.5-4.9,3,Oct/2017/2400000.0/SOLD
 12-metung-street-balwyn-vic-3103,2400000,28-Oct-2017,2,1,1,-1,None,House,https://www.domain.com.au/12-metung-street-balwyn-vic-3103-2013894296,Close to schools-Close to shops-Close to transport,0.8-1.1-4.9,3,Oct/2017/420.0/SOLD
 108a-balwyn-road-balwyn-vic-3103,1008000,28-Oct-2017,2,1,2,-1,None,Semi-detached,https://www.domain.com.au/108a-balwyn-road-balwyn-vic-3103-2013895244,Air conditioning-Built in wardrobes-Close to schools-Close to shops-Close to transport-Garden-Secure Parking-Separate Dining,0.3-1.5-4.7,3,Oct/2017/1008000.0/SOLD
-2/30-weir-street-balwyn-vic-3103,870000,02-Sep-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/2-30-weir-street-balwyn-vic-3103-2013772247,nan,0.3-1.3-2,3,
-19-nott-street-balwyn-vic-3103,1905000,30-Aug-2017,2,1,-1,-1,None,House,https://www.domain.com.au/19-nott-street-balwyn-vic-3103-2013757845,nan,0.9-1-4.5,3,Aug/2017/1905000.0/SOLD
-4/193-whitehorse-road-balwyn-vic-3103,710000,22-Jul-2017,2,1,2,-1,None,Villa,https://www.domain.com.au/4-193-whitehorse-road-balwyn-vic-3103-2013688950,nan,0.9-2.1-5.3,3,
-1/136-yarrbat-avenue-balwyn-vic-3103,1231000,24-Jun-2017,2,3,2,-1,None,House,https://www.domain.com.au/1-136-yarrbat-avenue-balwyn-vic-3103-2013622181,nan,0.4-1.2-1.7,3,
-45-frederick-st-balwyn-vic-3103,2180000,29-Apr-2017,2,1,2,-1,None,House,https://www.domain.com.au/45-frederick-st-balwyn-vic-3103-2013482274,nan,0.9-1-4.5,3,Apr/2017/2180000.0/SOLD
-18-tivey-parade-balwyn-vic-3103,1300000,25-Apr-2017,2,1,1,-1,None,House,https://www.domain.com.au/18-tivey-parade-balwyn-vic-3103-2013419828,nan,0.8-1-4.6,3,Apr/2017/1300000.0/SOLD
-19-terry-street-balwyn-vic-3103,1610000,01-Apr-2017,2,1,-1,375,m2,House,https://www.domain.com.au/19-terry-street-balwyn-vic-3103-2013437000,nan,0.7-1.4-5.2,3,
-3/10-westminster-street-balwyn-vic-3103,1215000,03-Dec-2016,2,2,2,-1,None,House,https://www.domain.com.au/3-10-westminster-street-balwyn-vic-3103-2013188044,nan,0.5-1.4-2,3,
-59-narrak-road-balwyn-vic-3103,1900000,06-Aug-2016,2,1,1,952,m2,House,https://www.domain.com.au/59-narrak-road-balwyn-vic-3103-2012917737,nan,0.7-1.4-2,3,Aug/2016/1900000.0/SOLD-Sep/2014/1700000.0/SOLD
+2/30-weir-street-balwyn-vic-3103,870000,02-Sep-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/2-30-weir-street-balwyn-vic-3103-2013772247,,0.3-1.3-2,3,
+19-nott-street-balwyn-vic-3103,1905000,30-Aug-2017,2,1,-1,-1,None,House,https://www.domain.com.au/19-nott-street-balwyn-vic-3103-2013757845,,0.9-1-4.5,3,Aug/2017/1905000.0/SOLD
+4/193-whitehorse-road-balwyn-vic-3103,710000,22-Jul-2017,2,1,2,-1,None,Villa,https://www.domain.com.au/4-193-whitehorse-road-balwyn-vic-3103-2013688950,,0.9-2.1-5.3,3,
+1/136-yarrbat-avenue-balwyn-vic-3103,1231000,24-Jun-2017,2,3,2,-1,None,House,https://www.domain.com.au/1-136-yarrbat-avenue-balwyn-vic-3103-2013622181,,0.4-1.2-1.7,3,
+45-frederick-st-balwyn-vic-3103,2180000,29-Apr-2017,2,1,2,-1,None,House,https://www.domain.com.au/45-frederick-st-balwyn-vic-3103-2013482274,,0.9-1-4.5,3,Apr/2017/2180000.0/SOLD
+18-tivey-parade-balwyn-vic-3103,1300000,25-Apr-2017,2,1,1,-1,None,House,https://www.domain.com.au/18-tivey-parade-balwyn-vic-3103-2013419828,,0.8-1-4.6,3,Apr/2017/1300000.0/SOLD
+19-terry-street-balwyn-vic-3103,1610000,01-Apr-2017,2,1,-1,375,m2,House,https://www.domain.com.au/19-terry-street-balwyn-vic-3103-2013437000,,0.7-1.4-5.2,3,
+3/10-westminster-street-balwyn-vic-3103,1215000,03-Dec-2016,2,2,2,-1,None,House,https://www.domain.com.au/3-10-westminster-street-balwyn-vic-3103-2013188044,,0.5-1.4-2,3,
+59-narrak-road-balwyn-vic-3103,1900000,06-Aug-2016,2,1,1,952,m2,House,https://www.domain.com.au/59-narrak-road-balwyn-vic-3103-2012917737,,0.7-1.4-2,3,Aug/2016/1900000.0/SOLD-Sep/2014/1700000.0/SOLD
 5-shrimpton-court-balwyn-vic-3103,1100000,02-Aug-2016,2,2,2,-1,None,House,https://www.domain.com.au/5-shrimpton-court-balwyn-vic-3103-2012912895,Swimming Pool,0.4-0.9-1.4,3,Aug/2016/1100000.0/SOLD
-2-collins-court-balwyn-vic-3103,2100000,27-Feb-2016,2,1,2,-1,None,House,https://www.domain.com.au/2-collins-court-balwyn-vic-3103-2012561278,nan,0.7-1.4-3.9,3,Feb/2016/2100000.0/SOLD-Jun/2001/450000.0/SOLD-Jan/1992/120000.0/SOLD
-4/362-belmore-road-balwyn-vic-3103,725000,21-Jan-2016,2,2,1,-1,None,House,https://www.domain.com.au/4-362-belmore-road-balwyn-vic-3103-2012176154,nan,0.7-1-1.1,3,
-44-birdwood-street-balwyn-vic-3103,1810000,10-Oct-2015,2,1,1,658,m2,House,https://www.domain.com.au/44-birdwood-street-balwyn-vic-3103-2012254528,nan,0.8-1.1-4.8,3,Oct/2015/1810000.0/SOLD
-124-belmore-road-balwyn-vic-3103,770000,08-Aug-2015,2,1,2,322,m2,House,https://www.domain.com.au/124-belmore-road-balwyn-vic-3103-2012110552,nan,0.6-0.7-4.1,3,Apr/2016/450.0/SOLD
-98-rochester-road-balwyn-vic-3103,2700000,20-Jun-2015,2,1,2,975,m2,House,https://www.domain.com.au/98-rochester-road-balwyn-vic-3103-2011984695,nan,0.2-1.2-1.9,3,Jun/2015/370.0/SOLD
-3/28-30-jersey-street-balwyn-vic-3103,600000,30-May-2015,2,1,2,-1,None,Villa,https://www.domain.com.au/3-28-30-jersey-street-balwyn-vic-3103-2011956383,nan,0.4-1-2,3,
-6-tonkin-avenue-balwyn-vic-3103,2065000,16-May-2015,2,1,1,696,m2,House,https://www.domain.com.au/6-tonkin-avenue-balwyn-vic-3103-2011929397,nan,1-1.2-4.1,3,Sep/2016/2150000.0/SOLD-May/2015/2065000.0/SOLD
-1-shrimpton-court-balwyn-vic-3103,1000000,14-Mar-2015,2,1,2,579,m2,House,https://www.domain.com.au/1-shrimpton-court-balwyn-vic-3103-2011770493,nan,0.4-0.9-1.5,3,Mar/2015/1000000.0/SOLD
+2-collins-court-balwyn-vic-3103,2100000,27-Feb-2016,2,1,2,-1,None,House,https://www.domain.com.au/2-collins-court-balwyn-vic-3103-2012561278,,0.7-1.4-3.9,3,Feb/2016/2100000.0/SOLD-Jun/2001/450000.0/SOLD-Jan/1992/120000.0/SOLD
+4/362-belmore-road-balwyn-vic-3103,725000,21-Jan-2016,2,2,1,-1,None,House,https://www.domain.com.au/4-362-belmore-road-balwyn-vic-3103-2012176154,,0.7-1-1.1,3,
+44-birdwood-street-balwyn-vic-3103,1810000,10-Oct-2015,2,1,1,658,m2,House,https://www.domain.com.au/44-birdwood-street-balwyn-vic-3103-2012254528,,0.8-1.1-4.8,3,Oct/2015/1810000.0/SOLD
+124-belmore-road-balwyn-vic-3103,770000,08-Aug-2015,2,1,2,322,m2,House,https://www.domain.com.au/124-belmore-road-balwyn-vic-3103-2012110552,,0.6-0.7-4.1,3,Apr/2016/450.0/SOLD
+98-rochester-road-balwyn-vic-3103,2700000,20-Jun-2015,2,1,2,975,m2,House,https://www.domain.com.au/98-rochester-road-balwyn-vic-3103-2011984695,,0.2-1.2-1.9,3,Jun/2015/370.0/SOLD
+3/28-30-jersey-street-balwyn-vic-3103,600000,30-May-2015,2,1,2,-1,None,Villa,https://www.domain.com.au/3-28-30-jersey-street-balwyn-vic-3103-2011956383,,0.4-1-2,3,
+6-tonkin-avenue-balwyn-vic-3103,2065000,16-May-2015,2,1,1,696,m2,House,https://www.domain.com.au/6-tonkin-avenue-balwyn-vic-3103-2011929397,,1-1.2-4.1,3,Sep/2016/2150000.0/SOLD-May/2015/2065000.0/SOLD
+1-shrimpton-court-balwyn-vic-3103,1000000,14-Mar-2015,2,1,2,579,m2,House,https://www.domain.com.au/1-shrimpton-court-balwyn-vic-3103-2011770493,,0.4-0.9-1.5,3,Mar/2015/1000000.0/SOLD
 19/3-kireep-road-balwyn-vic-3103,471200,03-Jan-2015,2,1,1,-1,None,House,https://www.domain.com.au/19-3-kireep-road-balwyn-vic-3103-2011576165,Balcony-Ducted Heating-Secure Parking-Built in wardrobes-Floorboards,0.6-1.9-4.7,3,
-22-kalimna-street-balwyn-vic-3103,1900000,20-Sep-2014,2,1,1,-1,None,House,https://www.domain.com.au/22-kalimna-street-balwyn-vic-3103-2011392292,nan,0.5-1.3-4.8,3,Apr/2016/3750000.0/SOLD-Sep/2014/1900000.0/SOLD
-4/207-whitehorse-road-balwyn-vic-3103,640000,20-Sep-2014,2,1,1,-1,None,House,https://www.domain.com.au/4-207-whitehorse-road-balwyn-vic-3103-2011394746,nan,0.7-1.5-5.1,3,
-59-narrak-road-balwyn-vic-3103,1700000,13-Sep-2014,2,1,1,952,m2,House,https://www.domain.com.au/59-narrak-road-balwyn-vic-3103-2011371003,nan,0.7-1.4-2,3,Aug/2016/1900000.0/SOLD-Sep/2014/1700000.0/SOLD
-30-monash-avenue-balwyn-vic-3103,1700000,28-Jun-2014,2,1,2,668,m2,House,https://www.domain.com.au/30-monash-avenue-balwyn-vic-3103-2011214976,nan,1-1-4.7,3,May/2017/4308000.0/SOLD-Jun/2014/1700000.0/SOLD
-3-beckett-street-balwyn-vic-3103,1601000,15-Feb-2014,2,1,2,740,m2,House,https://www.domain.com.au/3-beckett-street-balwyn-vic-3103-2010935374,nan,0.9-1.8-4.2,3,Feb/2014/580.0/SOLD
-3-henley-street-balwyn-vic-3103,1750000,21-Sep-2013,2,1,1,845,m2,House,https://www.domain.com.au/3-henley-street-balwyn-vic-3103-2010668937,nan,1-1-4.6,3,Mar/2015/2650000.0/SOLD-Sep/2013/1750000.0/SOLD
-13-head-street-balwyn-vic-3103,1203000,03-Aug-2013,2,1,1,743,m2,House,https://www.domain.com.au/13-head-street-balwyn-vic-3103-2010548766,nan,0.8-0.8-4.8,3,Aug/2013/1203000.0/SOLD-Dec/1983/65000.0/SOLD-Oct/1980/35000.0/SOLD
-59-fitzgerald-street-balwyn-vic-3103,1015000,29-Jun-2013,2,1,2,721,m2,House,https://www.domain.com.au/59-fitzgerald-street-balwyn-vic-3103-2010503389,nan,0.6-1.1-1.4,3,Mar/2016/3588000.0/SOLD-Jun/2013/1014999.9999999999/SOLD
-21-stroud-street-balwyn-vic-3103,936000,22-Jun-2013,2,1,-1,585,m2,House,https://www.domain.com.au/21-stroud-street-balwyn-vic-3103-2010481239,nan,0.6-0.8-4.2,3,Jun/2013/430.0/SOLD
-47-talbot-avenue-balwyn-vic-3103,990000,02-Mar-2013,2,1,-1,-1,None,House,https://www.domain.com.au/47-talbot-avenue-balwyn-vic-3103-2010256974,nan,0.4-1.4-2,3,Mar/2013/990000.0/SOLD
-46-monash-avenue-balwyn-vic-3103,823000,17-Nov-2012,2,1,1,-1,None,House,https://www.domain.com.au/46-monash-avenue-balwyn-vic-3103-2010085516,nan,0.8-1-4.6,3,Nov/2012/823000.0/SOLD-Aug/2007/665000.0/SOLD-Jun/2006/488000.0/SOLD
-5a-northcote-avenue-balwyn-vic-3103,872000,23-Jun-2012,2,1,2,509,m2,House,https://www.domain.com.au/5a-northcote-avenue-balwyn-vic-3103-2009723146,nan,0.5-1.4-1.8,3,Jun/2012/872000.0/SOLD
-4-paisley-street-balwyn-vic-3103,1050000,23-Nov-2011,2,-1,0Baths,618,m2,House,https://www.domain.com.au/4-paisley-street-balwyn-vic-3103-2009366900,nan,0.9-0.9-4.7,3,Feb/2012/1050000.0/SOLD-Apr/1999/290000.0/SOLD-Jul/1979/34500.0/SOLD
-30-elliot-avenue-balwyn-vic-3103,1260000,11-Jun-2011,2,1,2,-1,None,House,https://www.domain.com.au/30-elliot-avenue-balwyn-vic-3103-2009026483,nan,0.9-1.1-1.1,3,
+22-kalimna-street-balwyn-vic-3103,1900000,20-Sep-2014,2,1,1,-1,None,House,https://www.domain.com.au/22-kalimna-street-balwyn-vic-3103-2011392292,,0.5-1.3-4.8,3,Apr/2016/3750000.0/SOLD-Sep/2014/1900000.0/SOLD
+4/207-whitehorse-road-balwyn-vic-3103,640000,20-Sep-2014,2,1,1,-1,None,House,https://www.domain.com.au/4-207-whitehorse-road-balwyn-vic-3103-2011394746,,0.7-1.5-5.1,3,
+59-narrak-road-balwyn-vic-3103,1700000,13-Sep-2014,2,1,1,952,m2,House,https://www.domain.com.au/59-narrak-road-balwyn-vic-3103-2011371003,,0.7-1.4-2,3,Aug/2016/1900000.0/SOLD-Sep/2014/1700000.0/SOLD
+30-monash-avenue-balwyn-vic-3103,1700000,28-Jun-2014,2,1,2,668,m2,House,https://www.domain.com.au/30-monash-avenue-balwyn-vic-3103-2011214976,,1-1-4.7,3,May/2017/4308000.0/SOLD-Jun/2014/1700000.0/SOLD
+3-beckett-street-balwyn-vic-3103,1601000,15-Feb-2014,2,1,2,740,m2,House,https://www.domain.com.au/3-beckett-street-balwyn-vic-3103-2010935374,,0.9-1.8-4.2,3,Feb/2014/580.0/SOLD
+3-henley-street-balwyn-vic-3103,1750000,21-Sep-2013,2,1,1,845,m2,House,https://www.domain.com.au/3-henley-street-balwyn-vic-3103-2010668937,,1-1-4.6,3,Mar/2015/2650000.0/SOLD-Sep/2013/1750000.0/SOLD
+13-head-street-balwyn-vic-3103,1203000,03-Aug-2013,2,1,1,743,m2,House,https://www.domain.com.au/13-head-street-balwyn-vic-3103-2010548766,,0.8-0.8-4.8,3,Aug/2013/1203000.0/SOLD-Dec/1983/65000.0/SOLD-Oct/1980/35000.0/SOLD
+59-fitzgerald-street-balwyn-vic-3103,1015000,29-Jun-2013,2,1,2,721,m2,House,https://www.domain.com.au/59-fitzgerald-street-balwyn-vic-3103-2010503389,,0.6-1.1-1.4,3,Mar/2016/3588000.0/SOLD-Jun/2013/1014999.9999999999/SOLD
+21-stroud-street-balwyn-vic-3103,936000,22-Jun-2013,2,1,-1,585,m2,House,https://www.domain.com.au/21-stroud-street-balwyn-vic-3103-2010481239,,0.6-0.8-4.2,3,Jun/2013/430.0/SOLD
+47-talbot-avenue-balwyn-vic-3103,990000,02-Mar-2013,2,1,-1,-1,None,House,https://www.domain.com.au/47-talbot-avenue-balwyn-vic-3103-2010256974,,0.4-1.4-2,3,Mar/2013/990000.0/SOLD
+46-monash-avenue-balwyn-vic-3103,823000,17-Nov-2012,2,1,1,-1,None,House,https://www.domain.com.au/46-monash-avenue-balwyn-vic-3103-2010085516,,0.8-1-4.6,3,Nov/2012/823000.0/SOLD-Aug/2007/665000.0/SOLD-Jun/2006/488000.0/SOLD
+5a-northcote-avenue-balwyn-vic-3103,872000,23-Jun-2012,2,1,2,509,m2,House,https://www.domain.com.au/5a-northcote-avenue-balwyn-vic-3103-2009723146,,0.5-1.4-1.8,3,Jun/2012/872000.0/SOLD
+4-paisley-street-balwyn-vic-3103,1050000,23-Nov-2011,2,-1,0Baths,618,m2,House,https://www.domain.com.au/4-paisley-street-balwyn-vic-3103-2009366900,,0.9-0.9-4.7,3,Feb/2012/1050000.0/SOLD-Apr/1999/290000.0/SOLD-Jul/1979/34500.0/SOLD
+30-elliot-avenue-balwyn-vic-3103,1260000,11-Jun-2011,2,1,2,-1,None,House,https://www.domain.com.au/30-elliot-avenue-balwyn-vic-3103-2009026483,,0.9-1.1-1.1,3,
 2/40-talbot-avenue-balwyn-vic-3103,575000,04-Sep-2010,2,1,1,-1,None,House,https://www.domain.com.au/2-40-talbot-avenue-balwyn-vic-3103-2008508216,Built in wardrobes-Close to schools-Close to shops-Close to transport-Garden-Secure Parking,0.5-1.5-2,3,
-1-highland-avenue-balwyn-vic-3103,1270000,14-Aug-2010,2,1,1,-1,None,House,https://www.domain.com.au/1-highland-avenue-balwyn-vic-3103-2008476824,nan,0.9-1-4.2,3,Dec/2016/2180000.0/SOLD-Aug/2010/1270000.0/SOLD-Feb/1999/340000.0/SOLD
-9-kenilworth-street-balwyn-vic-3103,805000,15-May-2010,2,1,1,-1,None,House,https://www.domain.com.au/9-kenilworth-street-balwyn-vic-3103-2008333097,nan,0.5-1.3-1.6,3,Mar/2021/2475000.0/SOLD-Jul/2017/2390000.0/SOLD
-2/8-john-street-balwyn-vic-3103,650000,18-Mar-2010,2,1,1,121,m2,House,https://www.domain.com.au/2-8-john-street-balwyn-vic-3103-2008237682,nan,0.4-1.5-5,3,
+1-highland-avenue-balwyn-vic-3103,1270000,14-Aug-2010,2,1,1,-1,None,House,https://www.domain.com.au/1-highland-avenue-balwyn-vic-3103-2008476824,,0.9-1-4.2,3,Dec/2016/2180000.0/SOLD-Aug/2010/1270000.0/SOLD-Feb/1999/340000.0/SOLD
+9-kenilworth-street-balwyn-vic-3103,805000,15-May-2010,2,1,1,-1,None,House,https://www.domain.com.au/9-kenilworth-street-balwyn-vic-3103-2008333097,,0.5-1.3-1.6,3,Mar/2021/2475000.0/SOLD-Jul/2017/2390000.0/SOLD
+2/8-john-street-balwyn-vic-3103,650000,18-Mar-2010,2,1,1,121,m2,House,https://www.domain.com.au/2-8-john-street-balwyn-vic-3103-2008237682,,0.4-1.5-5,3,
 19-leonard-street-balwyn-vic-3103,741000,12-Sep-2009,2,1,2,-1,None,House,https://www.domain.com.au/19-leonard-street-balwyn-vic-3103-2007937181,Secure Parking,0.6-1.4-5.1,3,
 202/45-banool-road-balwyn-vic-3103,480000,22-Aug-2008,2,1,1,-1,None,House,https://www.domain.com.au/202-45-banool-road-balwyn-vic-3103-2006671968,Secure Parking,0.6-1.7-2.1,3,
 303-union-road-balwyn-vic-3103,700000,04-Apr-2008,2,2,2,-1,None,House,https://www.domain.com.au/303-union-road-balwyn-vic-3103-2006962337,Secure Parking,0.5-1-1.5,3,Apr/2008/330.0/SOLD
-126-belmore-road-balwyn-vic-3103,587000,08-Dec-2007,2,1,2,-1,None,Semi-detached,https://www.domain.com.au/126-belmore-road-balwyn-vic-3103-2006741609,nan,0.6-0.7-4.1,3,Sep/2009/1000.0/SOLD
+126-belmore-road-balwyn-vic-3103,587000,08-Dec-2007,2,1,2,-1,None,Semi-detached,https://www.domain.com.au/126-belmore-road-balwyn-vic-3103-2006741609,,0.6-0.7-4.1,3,Sep/2009/1000.0/SOLD
 5-ian-street-balwyn-vic-3103,831000,31-Mar-2007,2,1,1,-1,None,House,https://www.domain.com.au/5-ian-street-balwyn-vic-3103-2006316612,Secure Parking,0.6-1.3-4.5,3,Feb/2009/1716000.0/SOLD-Mar/2007/831000.0/SOLD
 4/27-northcote-avenue-balwyn-vic-3103,355000,24-Jun-2006,2,1,1,-1,None,House,https://www.domain.com.au/4-27-northcote-avenue-balwyn-vic-3103-2005360292,Secure Parking,0.4-1.5-2,3,
 2-stroud-street-balwyn-vic-3103,445000,01-Dec-2005,2,1,1,-1,None,House,https://www.domain.com.au/2-stroud-street-balwyn-vic-3103-2005215940,Undercover Parking-Study,0.6-0.8-4.3,3,Sep/2016/1401000.0/SOLD
