@@ -1,2 +1,2 @@
-,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
-0,16-kent-court-heidelberg-vic-3084,760000,18-Oct-2014,1,1,-1,827,m2,House,https://www.domain.com.au/16-kent-court-heidelberg-vic-3084-2011449317,,0.6-0.7-1.4,3,Oct/2014/760000.0/SOLD-Nov/1978/25500.0/SOLD
+address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+16-kent-court-heidelberg-vic-3084,760000,18-Oct-2014,1,1,-1,827,m2,House,https://www.domain.com.au/16-kent-court-heidelberg-vic-3084-2011449317,,0.6-0.7-1.4,3,Oct/2014/760000.0/SOLD-Nov/1978/25500.0/SOLD

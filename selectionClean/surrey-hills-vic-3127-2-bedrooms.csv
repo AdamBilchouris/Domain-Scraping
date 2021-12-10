@@ -1,60 +1,60 @@
-,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
-0,4/27-albert-crescent-surrey-hills-vic-3127,1020000,02-Dec-2021,2,1,2,-1,None,Villa,https://www.domain.com.au/4-27-albert-crescent-surrey-hills-vic-3127-2017421044,,0.4-1.8-2.5,3,
-1,3/23-clyde-street-surrey-hills-vic-3127,1025000,26-Oct-2021,2,1,2,-1,None,Villa,https://www.domain.com.au/3-23-clyde-street-surrey-hills-vic-3127-2017303380,,0.2-1.8-2.1,3,
-2,67-shepherd-street-surrey-hills-vic-3127,1244000,31-Jul-2021,2,1,1,265,m2,House,https://www.domain.com.au/67-shepherd-street-surrey-hills-vic-3127-2017092090,"Air conditioning*-""Gas*""-""Internal Laundry*""-""Secure Parking*""-""Heating*""-""Balcony / Deck*""",1.3-2.6-2.7,3,Jul/2021/1244000.0/SOLD-Nov/1996/152500.0/SOLD-Aug/1992/155000.0/SOLD
-3,36-glendale-street-surrey-hills-vic-3127,990000,01-May-2021,2,1,1,256,m2,House,https://www.domain.com.au/36-glendale-street-surrey-hills-vic-3127-2016455203,,0.8-2.4-6.7,3,May/2021/990000.0/SOLD-Mar/2009/465000.0/SOLD
-4,1/51-empress-road-surrey-hills-vic-3127,1252000,13-Mar-2021,2,2,2,298,m2,House,https://www.domain.com.au/1-51-empress-road-surrey-hills-vic-3127-2016812884,"Internal Laundry*-""Secure Parking*""-""Fireplace(s)*""-""Dishwasher*""-""Garden*""",0.4-1.9-2,3,
-5,1-harding-street-surrey-hills-vic-3127,1650000,13-May-2020,2,2,2,963,m2,House,https://www.domain.com.au/1-harding-street-surrey-hills-vic-3127-2016201513,,0.6-2.1-2.8,3,May/2020/1650000.0/SOLD
-6,269-elgar-road-surrey-hills-vic-3127,1140000,02-May-2020,2,1,1,630,m2,House,https://www.domain.com.au/269-elgar-road-surrey-hills-vic-3127-2016115970,,1.2-2.6-2.6,3,May/2020/400.0/SOLD
-7,7-glendale-street-surrey-hills-vic-3127,1510000,22-Feb-2020,2,1,1,629,m2,House,https://www.domain.com.au/7-glendale-street-surrey-hills-vic-3127-2016034251,,0.9-2.4-7,3,Feb/2020/1510000.0/SOLD
-8,4-edyvean-street-surrey-hills-vic-3127,1545000,28-Oct-2019,2,1,2,666,m2,House,https://www.domain.com.au/4-edyvean-street-surrey-hills-vic-3127-2015627213,,0.6-2.4-2.8,3,Oct/2019/1545000.0/SOLD-Jan/1978/34400.0/SOLD
-9,39-empress-road-surrey-hills-vic-3127,1650000,26-Oct-2019,2,1,1,-1,None,House,https://www.domain.com.au/39-empress-road-surrey-hills-vic-3127-2015700609,,0.4-1.8-1.9,3,Oct/2019/1650000.0/SOLD-Dec/1985/88000.0/SOLD
-10,7-weybridge-street-surrey-hills-vic-3127,1550000,10-Aug-2019,2,1,-1,506,m2,House,https://www.domain.com.au/7-weybridge-street-surrey-hills-vic-3127-2015454027,,0.5-1.6-2.4,3,Aug/2019/1550000.0/SOLD-Sep/1986/850.0/SOLD
-11,34-pine-street-surrey-hills-vic-3127,1060000,12-Mar-2019,2,2,2,-1,None,House,https://www.domain.com.au/34-pine-street-surrey-hills-vic-3127-2014920905,,1-2.6-3,3,Mar/2019/1060000.0/SOLD-Sep/2011/563000.0/SOLD
-12,13-sunbury-crescent-surrey-hills-vic-3127,1560000,29-Nov-2018,2,1,2,1260,m2,House,https://www.domain.com.au/13-sunbury-crescent-surrey-hills-vic-3127-2014680241,,0.6-2-2.2,3,Nov/2018/1560000.0/SOLD
-13,4/70-essex-road-surrey-hills-vic-3127,805000,02-Nov-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/4-70-essex-road-surrey-hills-vic-3127-2014701975,,0.7-1.6-2.4,3,
-14,3/70-essex-road-surrey-hills-vic-3127,805000,08-Sep-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/3-70-essex-road-surrey-hills-vic-3127-2014571406,,0.7-1.6-2.4,3,
-15,1/16-sherwood-road-surrey-hills-vic-3127,1000000,01-Sep-2018,2,1,1,-1,None,House,https://www.domain.com.au/1-16-sherwood-road-surrey-hills-vic-3127-2014549556,,0.9-2.6-6.8,3,
-16,1/20-thornton-avenue-surrey-hills-vic-3127,958000,24-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/1-20-thornton-avenue-surrey-hills-vic-3127-2014135956,,0.3-1.7-2.1,3,
-17,2/4-wells-street-surrey-hills-vic-3127,747500,07-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/2-4-wells-street-surrey-hills-vic-3127-2013954525,,0.3-1.6-1.9,3,
-18,47-warrigal-road-surrey-hills-vic-3127,1235000,12-Dec-2017,2,1,2,670,m2,House,https://www.domain.com.au/47-warrigal-road-surrey-hills-vic-3127-2013968942,,0.6-2.3-6.5,3,Sep/2019/1275000.0/SOLD-Dec/2017/475.0/SOLD
-19,1/557-whitehorse-road-surrey-hills-vic-3127,771000,09-Dec-2017,2,1,1,-1,None,Duplex,https://www.domain.com.au/1-557-whitehorse-road-surrey-hills-vic-3127-2014006037,,0.4-1.6-2.4,3,
-20,4-frimley-road-surrey-hills-vic-3127,1376000,18-Nov-2017,2,1,2,337,m2,House,https://www.domain.com.au/4-frimley-road-surrey-hills-vic-3127-2013948828,,0.6-1.9-2.3,3,Mar/2018/1376000.0/SOLD-Dec/2003/366500.0/SOLD
-21,2/3-payne-street-surrey-hills-vic-3127,825000,28-Oct-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/2-3-payne-street-surrey-hills-vic-3127-2013896585,,0.4-1.2-1.8,3,
-22,4/9-middlesex-road-surrey-hills-vic-3127,855000,23-Sep-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/4-9-middlesex-road-surrey-hills-vic-3127-2013811638,,0.8-1.6-1.9,3,
-23,7/6-park-road-surrey-hills-vic-3127,724000,16-Sep-2017,2,1,1,-1,None,House,https://www.domain.com.au/7-6-park-road-surrey-hills-vic-3127-2013802058,,1.3-3-7.2,3,
-24,4/58-windsor-crescent-surrey-hills-vic-3127,800000,02-Sep-2017,2,1,1,-1,None,House,https://www.domain.com.au/4-58-windsor-crescent-surrey-hills-vic-3127-2013773567,,0.4-1.7-2.4,3,
-25,15-charles-street-surrey-hills-vic-3127,1930000,31-Jul-2017,2,1,1,858,m2,House,https://www.domain.com.au/15-charles-street-surrey-hills-vic-3127-2013672743,,1-1.8-2.3,3,Jul/2017/1930000.0/SOLD
-26,1/6-blackburn-street-surrey-hills-vic-3127,1250000,12-May-2017,2,2,1,323,m2,House,https://www.domain.com.au/1-6-blackburn-street-surrey-hills-vic-3127-2013543395,,0.3-1.9-2.5,3,
-27,706-canterbury-road-surrey-hills-vic-3127,750000,12-Dec-2016,2,1,1,-1,None,House,https://www.domain.com.au/706-canterbury-road-surrey-hills-vic-3127-2013213970,,0.3-2.1-2.7,3,Dec/2016/750000.0/SOLD
-28,102/176-union-road-surrey-hills-vic-3127,645000,12-Nov-2016,2,2,1,-1,None,House,https://www.domain.com.au/102-176-union-road-surrey-hills-vic-3127-2013015436,,0.3-2.2-2.2,3,
-29,16-park-road-surrey-hills-vic-3127,1018000,06-Aug-2016,2,1,2,-1,None,House,https://www.domain.com.au/16-park-road-surrey-hills-vic-3127-2012874214,,1.3-3-7.1,3,Aug/2016/1018000.0/SOLD-Oct/1992/130000.0/SOLD-Jan/1992/130000.0/SOLD
-30,5/35-durham-road-surrey-hills-vic-3127,620000,01-Aug-2016,2,1,1,-1,None,House,https://www.domain.com.au/5-35-durham-road-surrey-hills-vic-3127-2012766401,,0.7-1.6-2.1,3,
-31,4/9-11-new-street-surrey-hills-vic-3127,690000,24-May-2016,2,1,1,-1,None,House,https://www.domain.com.au/4-9-11-new-street-surrey-hills-vic-3127-2012756129,,0.7-2.6-2.6,3,
-32,3/16-kent-road-surrey-hills-vic-3127,821000,19-Mar-2016,2,1,2,-1,None,House,https://www.domain.com.au/3-16-kent-road-surrey-hills-vic-3127-2012614674,,0.7-1.8-2.3,3,
-33,9-chestnut-street-surrey-hills-vic-3127,1529000,20-Jun-2015,2,1,1,832,m2,House,https://www.domain.com.au/9-chestnut-street-surrey-hills-vic-3127-2012003418,,1.4-2.9-3,3,
-34,30-pine-street-surrey-hills-vic-3127,1370000,22-Nov-2014,2,1,1,-1,None,House,https://www.domain.com.au/30-pine-street-surrey-hills-vic-3127-2011545355,,1-2.7-3,3,Nov/2014/1370000.0/SOLD
-35,62-windsor-crescent-surrey-hills-vic-3127,950000,15-Nov-2014,2,1,2,-1,None,House,https://www.domain.com.au/62-windsor-crescent-surrey-hills-vic-3127-2011526564,,0.5-1.7-2.4,3,Nov/2014/950000.0/SOLD-Mar/2009/646000.0/SOLD
-36,2/43-middlesex-road-surrey-hills-vic-3127,770000,25-Oct-2014,2,1,1,-1,None,House,https://www.domain.com.au/2-43-middlesex-road-surrey-hills-vic-3127-2011467627,,0.6-1.5-2,3,
-37,4/18-benwerrin-road-surrey-hills-vic-3127,711000,13-Sep-2014,2,1,1,-1,None,House,https://www.domain.com.au/4-18-benwerrin-road-surrey-hills-vic-3127-2011372618,,0.5-2-2.8,3,
-38,14-theodore-street-surrey-hills-vic-3127,1100000,16-Aug-2014,2,1,1,-1,None,House,https://www.domain.com.au/14-theodore-street-surrey-hills-vic-3127-2011363138,,0.8-1.9-2.5,3,Aug/2014/480.0/SOLD-May/1994/1100000.0/SOLD
-39,33-langford-street-surrey-hills-vic-3127,1605000,26-Oct-2013,2,2,2,-1,None,House,https://www.domain.com.au/33-langford-street-surrey-hills-vic-3127-2010733665,,0.4-1.7-2.3,3,Oct/2013/1605000.0/SOLD
-40,1/40-durham-road-surrey-hills-vic-3127,623500,21-Sep-2013,2,1,1,-1,None,House,https://www.domain.com.au/1-40-durham-road-surrey-hills-vic-3127-2010670007,"Air conditioning-""Close to schools""-""Close to shops""-""Close to transport""",0.6-1.5-2.1,3,
-41,61-union-road-;--corner-warwick-avenue-surrey-hills-vic-3127,750000,14-Sep-2013,2,1,2,429,m2,House,https://www.domain.com.au/61-union-road-corner-warwick-avenue-surrey-hills-vic-3127-2010662425,,0.6-2.1-2.5,3,
-42,1/16-sherwood-road-surrey-hills-vic-3127,811000,17-Aug-2013,2,1,1,360,m2,House,https://www.domain.com.au/1-16-sherwood-road-surrey-hills-vic-3127-2010597512,,0.9-2.6-6.8,3,
-43,113-broughton-road-surrey-hills-vic-3127,641000,01-Dec-2012,2,1,1,-1,None,House,https://www.domain.com.au/113-broughton-road-surrey-hills-vic-3127-2010107957,,1.2-2.8-2.9,3,Oct/2014/460.0/SOLD-Dec/2012/806000.0/SOLD
-44,21-ross-street-surrey-hills-vic-3127,875000,13-Sep-2012,2,1,2,627,m2,House,https://www.domain.com.au/21-ross-street-surrey-hills-vic-3127-2009874744,,0.2-1.8-2.1,3,Apr/2013/1057500.0/SOLD-Sep/2012/875000.0/SOLD-Mar/1977/40000.0/SOLD
-45,3/11-blackburn-street-surrey-hills-vic-3127,635000,31-Mar-2012,2,1,2,-1,None,Villa,https://www.domain.com.au/3-11-blackburn-street-surrey-hills-vic-3127-2009537679,,0.4-1.8-2.5,3,
-46,34-pine-street-surrey-hills-vic-3127,563000,27-Sep-2011,2,1,2,329,m2,House,https://www.domain.com.au/34-pine-street-surrey-hills-vic-3127-2009194128,,1-2.6-3,3,Mar/2019/1060000.0/SOLD-Sep/2011/563000.0/SOLD
-47,1/314-canterbury-road---corner-essex-road-surrey-hills-vic-3127,582500,02-Oct-2010,2,1,1,-1,None,House,https://www.domain.com.au/1-314-canterbury-road-corner-essex-road-surrey-hills-vic-3127-2008553678,,0.7-1.8-2.1,3,
-48,2/11-leura-street-surrey-hills-vic-3127,604500,19-Jun-2010,2,1,2,-1,None,House,https://www.domain.com.au/2-11-leura-street-surrey-hills-vic-3127-2008378581,,0.6-1.4-1.8,3,
-49,1-suffolk-road-surrey-hills-vic-3127,832500,29-May-2010,2,1,2,-1,None,House,https://www.domain.com.au/1-suffolk-road-surrey-hills-vic-3127-2008354453,,0.6-1.9-2.2,3,May/2010/500.0/SOLD
-50,18-howell-avenue-surrey-hills-vic-3127,1161000,05-Dec-2009,2,1,2,-1,None,House,https://www.domain.com.au/18-howell-avenue-surrey-hills-vic-3127-2008092030,Secure Parking,0.7-2.5-2.8,3,Mar/2012/1775000.0/SOLD-Dec/2009/1161000.0/SOLD
-51,215-elgar-road-surrey-hills-vic-3127,688000,14-Jul-2009,2,1,-1,-1,None,House,https://www.domain.com.au/215-elgar-road-surrey-hills-vic-3127-2007666943,,1.3-2.9-7.2,3,
-52,1/18-essex-road-surrey-hills-vic-3127,450000,15-Dec-2007,2,1,2,-1,None,House,https://www.domain.com.au/1-18-essex-road-surrey-hills-vic-3127-2006827432,,0.8-1.7-2.1,3,
-53,14-lambourne-street-surrey-hills-vic-3127,480500,03-Mar-2007,2,1,1,-1,None,Semi-detached,https://www.domain.com.au/14-lambourne-street-surrey-hills-vic-3127-2006284037,Undercover Parking,1.1-2.6-2.7,3,May/2008/665000.0/SOLD-Mar/2007/480500.0/SOLD
-54,6/11-new-street-surrey-hills-vic-3127,374000,13-May-2006,2,1,-1,-1,None,House,https://www.domain.com.au/6-11-new-street-surrey-hills-vic-3127-2005578561,,0.7-2.6-2.6,3,
-55,328-canterbury-road-surrey-hills-vic-3127,411000,10-Dec-2005,2,1,4,-1,None,House,https://www.domain.com.au/328-canterbury-road-surrey-hills-vic-3127-2005287275,"Undercover Parking-""Secure Parking""",0.7-1.9-2.1,3,Dec/2005/411000.0/SOLD
-56,4-david-street-surrey-hills-vic-3127,620000,03-Dec-2005,2,1,2,-1,None,House,https://www.domain.com.au/4-david-street-surrey-hills-vic-3127-2005257301,Undercover Parking,0.6-2-2.2,3,Dec/2005/340.0/SOLD
-57,3-rosemont-street-surrey-hills-vic-3127,540000,29-Oct-2005,2,1,-1,-1,None,House,https://www.domain.com.au/3-rosemont-street-surrey-hills-vic-3127-2005185244,,0.4-2-2.8,3,Jul/2006/1585000.0/SOLD-Oct/2005/540000.0/SOLD
-58,106-croydon-road-surrey-hills-vic-3127,550500,08-Mar-2005,2,1,-1,-1,None,House,https://www.domain.com.au/106-croydon-road-surrey-hills-vic-3127-2004813677,,0.4-2.1-2.2,3,Dec/2009/1615000.0/SOLD-May/2008/875000.0/SOLD
+address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+4/27-albert-crescent-surrey-hills-vic-3127,1020000,02-Dec-2021,2,1,2,-1,None,Villa,https://www.domain.com.au/4-27-albert-crescent-surrey-hills-vic-3127-2017421044,,0.4-1.8-2.5,3,
+3/23-clyde-street-surrey-hills-vic-3127,1025000,26-Oct-2021,2,1,2,-1,None,Villa,https://www.domain.com.au/3-23-clyde-street-surrey-hills-vic-3127-2017303380,,0.2-1.8-2.1,3,
+67-shepherd-street-surrey-hills-vic-3127,1244000,31-Jul-2021,2,1,1,265,m2,House,https://www.domain.com.au/67-shepherd-street-surrey-hills-vic-3127-2017092090,"Air conditioning*-""Gas*""-""Internal Laundry*""-""Secure Parking*""-""Heating*""-""Balcony / Deck*""",1.3-2.6-2.7,3,Jul/2021/1244000.0/SOLD-Nov/1996/152500.0/SOLD-Aug/1992/155000.0/SOLD
+36-glendale-street-surrey-hills-vic-3127,990000,01-May-2021,2,1,1,256,m2,House,https://www.domain.com.au/36-glendale-street-surrey-hills-vic-3127-2016455203,,0.8-2.4-6.7,3,May/2021/990000.0/SOLD-Mar/2009/465000.0/SOLD
+1/51-empress-road-surrey-hills-vic-3127,1252000,13-Mar-2021,2,2,2,298,m2,House,https://www.domain.com.au/1-51-empress-road-surrey-hills-vic-3127-2016812884,"Internal Laundry*-""Secure Parking*""-""Fireplace(s)*""-""Dishwasher*""-""Garden*""",0.4-1.9-2,3,
+1-harding-street-surrey-hills-vic-3127,1650000,13-May-2020,2,2,2,963,m2,House,https://www.domain.com.au/1-harding-street-surrey-hills-vic-3127-2016201513,,0.6-2.1-2.8,3,May/2020/1650000.0/SOLD
+269-elgar-road-surrey-hills-vic-3127,1140000,02-May-2020,2,1,1,630,m2,House,https://www.domain.com.au/269-elgar-road-surrey-hills-vic-3127-2016115970,,1.2-2.6-2.6,3,May/2020/400.0/SOLD
+7-glendale-street-surrey-hills-vic-3127,1510000,22-Feb-2020,2,1,1,629,m2,House,https://www.domain.com.au/7-glendale-street-surrey-hills-vic-3127-2016034251,,0.9-2.4-7,3,Feb/2020/1510000.0/SOLD
+4-edyvean-street-surrey-hills-vic-3127,1545000,28-Oct-2019,2,1,2,666,m2,House,https://www.domain.com.au/4-edyvean-street-surrey-hills-vic-3127-2015627213,,0.6-2.4-2.8,3,Oct/2019/1545000.0/SOLD-Jan/1978/34400.0/SOLD
+39-empress-road-surrey-hills-vic-3127,1650000,26-Oct-2019,2,1,1,-1,None,House,https://www.domain.com.au/39-empress-road-surrey-hills-vic-3127-2015700609,,0.4-1.8-1.9,3,Oct/2019/1650000.0/SOLD-Dec/1985/88000.0/SOLD
+7-weybridge-street-surrey-hills-vic-3127,1550000,10-Aug-2019,2,1,-1,506,m2,House,https://www.domain.com.au/7-weybridge-street-surrey-hills-vic-3127-2015454027,,0.5-1.6-2.4,3,Aug/2019/1550000.0/SOLD-Sep/1986/850.0/SOLD
+34-pine-street-surrey-hills-vic-3127,1060000,12-Mar-2019,2,2,2,-1,None,House,https://www.domain.com.au/34-pine-street-surrey-hills-vic-3127-2014920905,,1-2.6-3,3,Mar/2019/1060000.0/SOLD-Sep/2011/563000.0/SOLD
+13-sunbury-crescent-surrey-hills-vic-3127,1560000,29-Nov-2018,2,1,2,1260,m2,House,https://www.domain.com.au/13-sunbury-crescent-surrey-hills-vic-3127-2014680241,,0.6-2-2.2,3,Nov/2018/1560000.0/SOLD
+4/70-essex-road-surrey-hills-vic-3127,805000,02-Nov-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/4-70-essex-road-surrey-hills-vic-3127-2014701975,,0.7-1.6-2.4,3,
+3/70-essex-road-surrey-hills-vic-3127,805000,08-Sep-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/3-70-essex-road-surrey-hills-vic-3127-2014571406,,0.7-1.6-2.4,3,
+1/16-sherwood-road-surrey-hills-vic-3127,1000000,01-Sep-2018,2,1,1,-1,None,House,https://www.domain.com.au/1-16-sherwood-road-surrey-hills-vic-3127-2014549556,,0.9-2.6-6.8,3,
+1/20-thornton-avenue-surrey-hills-vic-3127,958000,24-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/1-20-thornton-avenue-surrey-hills-vic-3127-2014135956,,0.3-1.7-2.1,3,
+2/4-wells-street-surrey-hills-vic-3127,747500,07-Feb-2018,2,1,1,-1,None,Villa,https://www.domain.com.au/2-4-wells-street-surrey-hills-vic-3127-2013954525,,0.3-1.6-1.9,3,
+47-warrigal-road-surrey-hills-vic-3127,1235000,12-Dec-2017,2,1,2,670,m2,House,https://www.domain.com.au/47-warrigal-road-surrey-hills-vic-3127-2013968942,,0.6-2.3-6.5,3,Sep/2019/1275000.0/SOLD-Dec/2017/475.0/SOLD
+1/557-whitehorse-road-surrey-hills-vic-3127,771000,09-Dec-2017,2,1,1,-1,None,Duplex,https://www.domain.com.au/1-557-whitehorse-road-surrey-hills-vic-3127-2014006037,,0.4-1.6-2.4,3,
+4-frimley-road-surrey-hills-vic-3127,1376000,18-Nov-2017,2,1,2,337,m2,House,https://www.domain.com.au/4-frimley-road-surrey-hills-vic-3127-2013948828,,0.6-1.9-2.3,3,Mar/2018/1376000.0/SOLD-Dec/2003/366500.0/SOLD
+2/3-payne-street-surrey-hills-vic-3127,825000,28-Oct-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/2-3-payne-street-surrey-hills-vic-3127-2013896585,,0.4-1.2-1.8,3,
+4/9-middlesex-road-surrey-hills-vic-3127,855000,23-Sep-2017,2,1,1,-1,None,Villa,https://www.domain.com.au/4-9-middlesex-road-surrey-hills-vic-3127-2013811638,,0.8-1.6-1.9,3,
+7/6-park-road-surrey-hills-vic-3127,724000,16-Sep-2017,2,1,1,-1,None,House,https://www.domain.com.au/7-6-park-road-surrey-hills-vic-3127-2013802058,,1.3-3-7.2,3,
+4/58-windsor-crescent-surrey-hills-vic-3127,800000,02-Sep-2017,2,1,1,-1,None,House,https://www.domain.com.au/4-58-windsor-crescent-surrey-hills-vic-3127-2013773567,,0.4-1.7-2.4,3,
+15-charles-street-surrey-hills-vic-3127,1930000,31-Jul-2017,2,1,1,858,m2,House,https://www.domain.com.au/15-charles-street-surrey-hills-vic-3127-2013672743,,1-1.8-2.3,3,Jul/2017/1930000.0/SOLD
+1/6-blackburn-street-surrey-hills-vic-3127,1250000,12-May-2017,2,2,1,323,m2,House,https://www.domain.com.au/1-6-blackburn-street-surrey-hills-vic-3127-2013543395,,0.3-1.9-2.5,3,
+706-canterbury-road-surrey-hills-vic-3127,750000,12-Dec-2016,2,1,1,-1,None,House,https://www.domain.com.au/706-canterbury-road-surrey-hills-vic-3127-2013213970,,0.3-2.1-2.7,3,Dec/2016/750000.0/SOLD
+102/176-union-road-surrey-hills-vic-3127,645000,12-Nov-2016,2,2,1,-1,None,House,https://www.domain.com.au/102-176-union-road-surrey-hills-vic-3127-2013015436,,0.3-2.2-2.2,3,
+16-park-road-surrey-hills-vic-3127,1018000,06-Aug-2016,2,1,2,-1,None,House,https://www.domain.com.au/16-park-road-surrey-hills-vic-3127-2012874214,,1.3-3-7.1,3,Aug/2016/1018000.0/SOLD-Oct/1992/130000.0/SOLD-Jan/1992/130000.0/SOLD
+5/35-durham-road-surrey-hills-vic-3127,620000,01-Aug-2016,2,1,1,-1,None,House,https://www.domain.com.au/5-35-durham-road-surrey-hills-vic-3127-2012766401,,0.7-1.6-2.1,3,
+4/9-11-new-street-surrey-hills-vic-3127,690000,24-May-2016,2,1,1,-1,None,House,https://www.domain.com.au/4-9-11-new-street-surrey-hills-vic-3127-2012756129,,0.7-2.6-2.6,3,
+3/16-kent-road-surrey-hills-vic-3127,821000,19-Mar-2016,2,1,2,-1,None,House,https://www.domain.com.au/3-16-kent-road-surrey-hills-vic-3127-2012614674,,0.7-1.8-2.3,3,
+9-chestnut-street-surrey-hills-vic-3127,1529000,20-Jun-2015,2,1,1,832,m2,House,https://www.domain.com.au/9-chestnut-street-surrey-hills-vic-3127-2012003418,,1.4-2.9-3,3,
+30-pine-street-surrey-hills-vic-3127,1370000,22-Nov-2014,2,1,1,-1,None,House,https://www.domain.com.au/30-pine-street-surrey-hills-vic-3127-2011545355,,1-2.7-3,3,Nov/2014/1370000.0/SOLD
+62-windsor-crescent-surrey-hills-vic-3127,950000,15-Nov-2014,2,1,2,-1,None,House,https://www.domain.com.au/62-windsor-crescent-surrey-hills-vic-3127-2011526564,,0.5-1.7-2.4,3,Nov/2014/950000.0/SOLD-Mar/2009/646000.0/SOLD
+2/43-middlesex-road-surrey-hills-vic-3127,770000,25-Oct-2014,2,1,1,-1,None,House,https://www.domain.com.au/2-43-middlesex-road-surrey-hills-vic-3127-2011467627,,0.6-1.5-2,3,
+4/18-benwerrin-road-surrey-hills-vic-3127,711000,13-Sep-2014,2,1,1,-1,None,House,https://www.domain.com.au/4-18-benwerrin-road-surrey-hills-vic-3127-2011372618,,0.5-2-2.8,3,
+14-theodore-street-surrey-hills-vic-3127,1100000,16-Aug-2014,2,1,1,-1,None,House,https://www.domain.com.au/14-theodore-street-surrey-hills-vic-3127-2011363138,,0.8-1.9-2.5,3,Aug/2014/480.0/SOLD-May/1994/1100000.0/SOLD
+33-langford-street-surrey-hills-vic-3127,1605000,26-Oct-2013,2,2,2,-1,None,House,https://www.domain.com.au/33-langford-street-surrey-hills-vic-3127-2010733665,,0.4-1.7-2.3,3,Oct/2013/1605000.0/SOLD
+1/40-durham-road-surrey-hills-vic-3127,623500,21-Sep-2013,2,1,1,-1,None,House,https://www.domain.com.au/1-40-durham-road-surrey-hills-vic-3127-2010670007,"Air conditioning-""Close to schools""-""Close to shops""-""Close to transport""",0.6-1.5-2.1,3,
+61-union-road-;--corner-warwick-avenue-surrey-hills-vic-3127,750000,14-Sep-2013,2,1,2,429,m2,House,https://www.domain.com.au/61-union-road-corner-warwick-avenue-surrey-hills-vic-3127-2010662425,,0.6-2.1-2.5,3,
+1/16-sherwood-road-surrey-hills-vic-3127,811000,17-Aug-2013,2,1,1,360,m2,House,https://www.domain.com.au/1-16-sherwood-road-surrey-hills-vic-3127-2010597512,,0.9-2.6-6.8,3,
+113-broughton-road-surrey-hills-vic-3127,641000,01-Dec-2012,2,1,1,-1,None,House,https://www.domain.com.au/113-broughton-road-surrey-hills-vic-3127-2010107957,,1.2-2.8-2.9,3,Oct/2014/460.0/SOLD-Dec/2012/806000.0/SOLD
+21-ross-street-surrey-hills-vic-3127,875000,13-Sep-2012,2,1,2,627,m2,House,https://www.domain.com.au/21-ross-street-surrey-hills-vic-3127-2009874744,,0.2-1.8-2.1,3,Apr/2013/1057500.0/SOLD-Sep/2012/875000.0/SOLD-Mar/1977/40000.0/SOLD
+3/11-blackburn-street-surrey-hills-vic-3127,635000,31-Mar-2012,2,1,2,-1,None,Villa,https://www.domain.com.au/3-11-blackburn-street-surrey-hills-vic-3127-2009537679,,0.4-1.8-2.5,3,
+34-pine-street-surrey-hills-vic-3127,563000,27-Sep-2011,2,1,2,329,m2,House,https://www.domain.com.au/34-pine-street-surrey-hills-vic-3127-2009194128,,1-2.6-3,3,Mar/2019/1060000.0/SOLD-Sep/2011/563000.0/SOLD
+1/314-canterbury-road---corner-essex-road-surrey-hills-vic-3127,582500,02-Oct-2010,2,1,1,-1,None,House,https://www.domain.com.au/1-314-canterbury-road-corner-essex-road-surrey-hills-vic-3127-2008553678,,0.7-1.8-2.1,3,
+2/11-leura-street-surrey-hills-vic-3127,604500,19-Jun-2010,2,1,2,-1,None,House,https://www.domain.com.au/2-11-leura-street-surrey-hills-vic-3127-2008378581,,0.6-1.4-1.8,3,
+1-suffolk-road-surrey-hills-vic-3127,832500,29-May-2010,2,1,2,-1,None,House,https://www.domain.com.au/1-suffolk-road-surrey-hills-vic-3127-2008354453,,0.6-1.9-2.2,3,May/2010/500.0/SOLD
+18-howell-avenue-surrey-hills-vic-3127,1161000,05-Dec-2009,2,1,2,-1,None,House,https://www.domain.com.au/18-howell-avenue-surrey-hills-vic-3127-2008092030,Secure Parking,0.7-2.5-2.8,3,Mar/2012/1775000.0/SOLD-Dec/2009/1161000.0/SOLD
+215-elgar-road-surrey-hills-vic-3127,688000,14-Jul-2009,2,1,-1,-1,None,House,https://www.domain.com.au/215-elgar-road-surrey-hills-vic-3127-2007666943,,1.3-2.9-7.2,3,
+1/18-essex-road-surrey-hills-vic-3127,450000,15-Dec-2007,2,1,2,-1,None,House,https://www.domain.com.au/1-18-essex-road-surrey-hills-vic-3127-2006827432,,0.8-1.7-2.1,3,
+14-lambourne-street-surrey-hills-vic-3127,480500,03-Mar-2007,2,1,1,-1,None,Semi-detached,https://www.domain.com.au/14-lambourne-street-surrey-hills-vic-3127-2006284037,Undercover Parking,1.1-2.6-2.7,3,May/2008/665000.0/SOLD-Mar/2007/480500.0/SOLD
+6/11-new-street-surrey-hills-vic-3127,374000,13-May-2006,2,1,-1,-1,None,House,https://www.domain.com.au/6-11-new-street-surrey-hills-vic-3127-2005578561,,0.7-2.6-2.6,3,
+328-canterbury-road-surrey-hills-vic-3127,411000,10-Dec-2005,2,1,4,-1,None,House,https://www.domain.com.au/328-canterbury-road-surrey-hills-vic-3127-2005287275,"Undercover Parking-""Secure Parking""",0.7-1.9-2.1,3,Dec/2005/411000.0/SOLD
+4-david-street-surrey-hills-vic-3127,620000,03-Dec-2005,2,1,2,-1,None,House,https://www.domain.com.au/4-david-street-surrey-hills-vic-3127-2005257301,Undercover Parking,0.6-2-2.2,3,Dec/2005/340.0/SOLD
+3-rosemont-street-surrey-hills-vic-3127,540000,29-Oct-2005,2,1,-1,-1,None,House,https://www.domain.com.au/3-rosemont-street-surrey-hills-vic-3127-2005185244,,0.4-2-2.8,3,Jul/2006/1585000.0/SOLD-Oct/2005/540000.0/SOLD
+106-croydon-road-surrey-hills-vic-3127,550500,08-Mar-2005,2,1,-1,-1,None,House,https://www.domain.com.au/106-croydon-road-surrey-hills-vic-3127-2004813677,,0.4-2.1-2.2,3,Dec/2009/1615000.0/SOLD-May/2008/875000.0/SOLD

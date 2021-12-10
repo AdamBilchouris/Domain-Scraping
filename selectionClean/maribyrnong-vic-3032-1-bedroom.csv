@@ -1,4 +1,4 @@
-,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
-0,4/15-navigator-street-maribyrnong-vic-3032,335000,30-May-2018,1,1,1,-1,None,Villa,https://www.domain.com.au/4-15-navigator-street-maribyrnong-vic-3032-2014318112,"Built in wardrobes-""Fully fenced""-""Secure Parking""-""Floorboards""-""Reverse Cycle Air Conditioning""",1-1.5-4,3,
-1,4/15-navigator-street-maribyrnong-vic-3032,265000,07-Jul-2010,1,1,1,-1,None,House,https://www.domain.com.au/4-15-navigator-street-maribyrnong-vic-3032-2008397101,"Carport - single-""Public transport - close""-""Shops - close""",1-1.5-4,3,
-2,6/12-navigator-street-maribyrnong-vic-3032,247500,12-Jan-2010,1,1,1,-1,None,Villa,https://www.domain.com.au/6-12-navigator-street-maribyrnong-vic-3032-2008142691,,1-1.5-4,3,
+address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+4/15-navigator-street-maribyrnong-vic-3032,335000,30-May-2018,1,1,1,-1,None,Villa,https://www.domain.com.au/4-15-navigator-street-maribyrnong-vic-3032-2014318112,"Built in wardrobes-""Fully fenced""-""Secure Parking""-""Floorboards""-""Reverse Cycle Air Conditioning""",1-1.5-4,3,
+4/15-navigator-street-maribyrnong-vic-3032,265000,07-Jul-2010,1,1,1,-1,None,House,https://www.domain.com.au/4-15-navigator-street-maribyrnong-vic-3032-2008397101,"Carport - single-""Public transport - close""-""Shops - close""",1-1.5-4,3,
+6/12-navigator-street-maribyrnong-vic-3032,247500,12-Jan-2010,1,1,1,-1,None,Villa,https://www.domain.com.au/6-12-navigator-street-maribyrnong-vic-3032-2008142691,,1-1.5-4,3,

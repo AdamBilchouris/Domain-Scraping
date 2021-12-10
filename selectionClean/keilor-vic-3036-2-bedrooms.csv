@@ -1,5 +1,5 @@
-,address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
-0,2/24-kennedy-street-keilor-vic-3036,735000,01-May-2021,2,1,1,-1,None,House,https://www.domain.com.au/2-24-kennedy-street-keilor-vic-3036-2016914021,,0.1-2.1-4.6,3,
-1,32-church-street-keilor-vic-3036,720000,23-May-2016,2,1,1,613,m2,House,https://www.domain.com.au/32-church-street-keilor-vic-3036-2012753754,,0.5-2-4.3,3,May/2016/720000.0/SOLD-Dec/2014/330.0/SOLD
-2,32-church-street-keilor-vic-3036,690000,11-Dec-2014,2,1,2,613,m2,House,https://www.domain.com.au/32-church-street-keilor-vic-3036-2011600111,,0.5-2-4.3,3,May/2016/720000.0/SOLD-Dec/2014/330.0/SOLD
-3,80-flora-street-keilor-vic-3036,1000000,21-Jul-2014,2,1,-1,-1,None,House,https://www.domain.com.au/80-flora-street-keilor-vic-3036-2010874528,,0.4-2.6-4.8,3,Jul/2014/1000000.0/SOLD
+address,price,date,bedrooms,bathrooms,parking_spaces,land_size,land_size_unit,propertyType,url,houseFeatures,schoolsDistance,schoolsCount,salesHistory
+2/24-kennedy-street-keilor-vic-3036,735000,01-May-2021,2,1,1,-1,None,House,https://www.domain.com.au/2-24-kennedy-street-keilor-vic-3036-2016914021,,0.1-2.1-4.6,3,
+32-church-street-keilor-vic-3036,720000,23-May-2016,2,1,1,613,m2,House,https://www.domain.com.au/32-church-street-keilor-vic-3036-2012753754,,0.5-2-4.3,3,May/2016/720000.0/SOLD-Dec/2014/330.0/SOLD
+32-church-street-keilor-vic-3036,690000,11-Dec-2014,2,1,2,613,m2,House,https://www.domain.com.au/32-church-street-keilor-vic-3036-2011600111,,0.5-2-4.3,3,May/2016/720000.0/SOLD-Dec/2014/330.0/SOLD
+80-flora-street-keilor-vic-3036,1000000,21-Jul-2014,2,1,-1,-1,None,House,https://www.domain.com.au/80-flora-street-keilor-vic-3036-2010874528,,0.4-2.6-4.8,3,Jul/2014/1000000.0/SOLD
