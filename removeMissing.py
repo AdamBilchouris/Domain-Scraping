@@ -22,6 +22,7 @@ for dirName, subdirList, fileList in os.walk(f'{READ_DIR}/'):
         csv = csv[csv['bathrooms'] != -1]
         csv = csv[csv['parking_spaces'] != -1]
         csv = csv[csv['land_size'] != -1]
+        csv.insert(1, 'suburb', ' '.join(fname[:-4].split('-')).title())
         #csv = csv.dropna()
         csv['houseFeatures'] = csv['houseFeatures'].astype(str).str.replace('"', '')
         csv['houseFeatures'] = csv['houseFeatures'].str.replace('nan', '')
